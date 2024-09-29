@@ -46,6 +46,7 @@ jobs:
         run: |
           ls -la
           ls -la assets/images
+          ls -la _themes/safex
       - name: Install jekyll deps
         run: bundle install
       - name: Build website
