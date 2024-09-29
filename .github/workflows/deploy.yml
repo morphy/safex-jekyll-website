@@ -20,7 +20,6 @@ jobs:
       - name: Build images
         #run: node image-converter.mjs
         run: |
-          mkdir assets
           mkdir assets/images
           touch assets/images/testfile.txt
           echo test > assets/images/testfile.txt
