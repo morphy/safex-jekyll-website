@@ -17,7 +17,10 @@ jobs:
       - name: Install node deps
         run: npm install
       - name: Build images
-        run: node image-converter.mjs
+        #run: node image-converter.mjs
+        run: |
+          touch assets/images/testfile.txt
+          echo test > assets/images/testfile.txt
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -35,12 +38,12 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: built-images
-      - name: Build website
-        uses: actions/jekyll-build-pages@v1
       - name: List files
         run: |
           ls -la
           ls -la assets/images
+      - name: Build website
+        uses: actions/jekyll-build-pages@v1
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
