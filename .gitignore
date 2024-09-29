@@ -12,3 +12,5 @@ vendor
 # Website
 assets/images/
 assets/main.css
+node_modules/
+_plugins/
