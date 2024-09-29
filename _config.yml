@@ -76,4 +76,4 @@ exclude:
   - package-lock.json
   - assets/css/
   - assets/images_source
-  - image-converter.js
+  - image-converter.mjs

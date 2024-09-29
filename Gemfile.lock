@@ -3,6 +3,7 @@ PATH
   specs:
     safex (0.1.0)
       jekyll (~> 4.3)
+      jekyll-seo-tag (~> 2.8)
 
 GEM
   remote: https://rubygems.org/
@@ -45,6 +46,8 @@ GEM
       jekyll (>= 4.0.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
+    jekyll-seo-tag (2.8.0)
+      jekyll (>= 3.8, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
