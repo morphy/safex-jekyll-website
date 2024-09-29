@@ -15,10 +15,13 @@ jobs:
         with:
           node-version: 20
       - name: Install node deps
-        run: npm install
+        #run: npm install
+        run: echo "npm install"
       - name: Build images
         #run: node image-converter.mjs
         run: |
+          mkdir assets
+          mkdir assets/images
           touch assets/images/testfile.txt
           echo test > assets/images/testfile.txt
       - name: Upload artifacts
