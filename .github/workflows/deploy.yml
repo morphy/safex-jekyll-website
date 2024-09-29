@@ -8,10 +8,8 @@ jobs:
     name: Build images
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup node
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
       - name: Install node deps
@@ -23,8 +21,7 @@ jobs:
           mkdir assets/images
           touch assets/images/testfile.txt
           echo test > assets/images/testfile.txt
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v4
         with:
           name: built-images
           path: assets/images
@@ -34,6 +31,8 @@ jobs:
     needs: build-images
     runs-on: ubuntu-latest
     steps:
+#      - name: Setup ruby
+#        uses:
       - name: Checkout
         uses: actions/checkout@v4
         with:
