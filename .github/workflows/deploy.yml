@@ -67,7 +67,7 @@ jobs:
         with:
           name: built-website
       - name: List files
-        run: ls -la _site
+        run: ls -l
 
 #      - name: upload files
 #        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
