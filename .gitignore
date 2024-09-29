@@ -8,3 +8,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Website
+assets/images/
+assets/main.css
