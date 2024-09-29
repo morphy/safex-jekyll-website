@@ -31,15 +31,14 @@ jobs:
     needs: build-images
     runs-on: ubuntu-latest
     steps:
-#      - name: Setup ruby
-#        uses:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+      - uses: actions/checkout@v4
         with:
           submodules: 'true'
           token: ${{ secrets.CI_TOKEN }}
-      - name: Download artifacts
-        uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v4
         with:
           name: built-images
           path: assets/images
@@ -47,10 +46,11 @@ jobs:
         run: |
           ls -la
           ls -la assets/images
+      - name: Install jekyll deps
+        run: bundle install
       - name: Build website
-        uses: actions/jekyll-build-pages@v1
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
+        run: JEKYLL_ENV=production bundle exec jekyll build
+      - uses: actions/upload-artifact@v4
         with:
           name: built-website
           path: _site
