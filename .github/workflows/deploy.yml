@@ -4,31 +4,57 @@ on:
 name: Build and deploy website
 
 jobs:
-  build:
-    name: Build with Jekyll
+  build-images:
+    name: Build images
     runs-on: ubuntu-latest
     steps:
-      - name: checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
-      - name: upload artifacts
+      - name: Setup node
+        uses: actions/setup-node@v4
+        run: npm install
+      - name: Build images
+        run: node image-converter.mjs
+      - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: some-output-file
-          path: _config.yml
+          name: built-images
+          path: assets/images
+
+  build-website:
+    name: Build website
+    needs: build-images
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: built-images
+      - name: Build website
+        uses: actions/jekyll-build-pages@v1
+      - name: List files
+        run: |
+          ls -la
+          ls -la assets/images
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: built-website
+          path: _site
 
   upload:
     name: Upload to FTP
-    needs: build
+    needs: build-website
     runs-on: ubuntu-latest
     steps:
-      - name: download artifacts
+      - name: Download artifacts
         uses: actions/download-artifact@v4
         with:
-          name: some-output-file
-      - name: display result
-        run: | 
-          cat _config.yml
-          ls -la
+          name: built-website
+      - name: List files
+        run: ls -la _site
 
 #      - name: upload files
 #        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
