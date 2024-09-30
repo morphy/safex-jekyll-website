@@ -19,7 +19,11 @@ jobs:
       - name: Install node deps
         run: npm install
       - name: Build images
-        run: node image-converter.mjs
+        #run: node image-converter.mjs
+        run: |
+          mkdir assets
+          mkdir assets/images
+          touch assets/images/file.txt
       - uses: actions/upload-artifact@v4
         with:
           name: built-images
@@ -84,7 +88,7 @@ jobs:
           method: GET
       - name: Check response
         run: >-
-          if [${{ steps.request.outputs.response }} == "ok"]
+          if [${{ steps.request.outputs.response }} == "ok"];
           then
             exit 0;
           else
