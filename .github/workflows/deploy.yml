@@ -51,7 +51,7 @@ jobs:
           npm install
           npm run build
       - name: Compress files
-        run: zip website.zip _site/*
+        run: zip -r website.zip _site
       - uses: actions/upload-artifact@v4
         with:
           name: built-website
