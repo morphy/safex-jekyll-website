@@ -19,7 +19,7 @@ jobs:
           url: ${{ secrets.WEBSITE }}/plik.html
           method: GET
       - name: Check response
-        run: >-
+        run: |
           if [${{ steps.request.outputs.response }} == 'ok'];
           then
             exit 0;
