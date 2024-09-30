@@ -51,7 +51,9 @@ jobs:
           npm install
           npm run build
       - name: Compress files
-        run: zip -r website.zip _site/*
+        run: |
+          cd _site
+          zip -r website.zip *
       - uses: actions/upload-artifact@v4
         with:
           name: built-website
@@ -74,6 +76,7 @@ jobs:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
+          dangerous-clean-slate: true
       - name: Unzip files
         id: request
         uses: fjogeleit/http-request-action@v1
