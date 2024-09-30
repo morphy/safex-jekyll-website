@@ -20,7 +20,7 @@ jobs:
           method: GET
       - name: Check response
         run: >-
-          if ${{ steps.request.outputs.response }} == "ok";
+          if [${{ steps.request.outputs.response }} == 'ok'];
           then
             exit 0;
           else
