@@ -76,7 +76,6 @@ jobs:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
-          dangerous-clean-slate: true
       - name: Unzip files
         id: request
         uses: fjogeleit/http-request-action@v1
