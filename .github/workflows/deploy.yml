@@ -21,7 +21,6 @@ jobs:
       - name: Build images
         #run: node image-converter.mjs
         run: |
-          mkdir assets
           mkdir assets/images
           touch assets/images/file.txt
       - uses: actions/upload-artifact@v4
