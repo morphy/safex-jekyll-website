@@ -54,6 +54,8 @@ jobs:
         run: |
           cd _site
           zip -r website.zip *
+          cd ..
+          mv _site/website.zip website.zip
       - uses: actions/upload-artifact@v4
         with:
           name: built-website
