@@ -61,18 +61,11 @@ jobs:
     needs: build-website
     runs-on: ubuntu-latest
     steps:
-      - name: Download artifacts
-        uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v4
         with:
           name: built-website
-      - name: List files
-        run: ls -l
-
-#      - name: upload files
-#        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-#        with:
-#          server: ${{ secrets.FTP_SERVER }}
-#          username: ${{ secrets.FTP_USER }}
-#          password: ${{ secrets.FTP_PASS }}
-#          server-dir: wp-content/themes/safex-twentytwentyfour/
-#          local-dir: safex-twentytwentyfour/
+      - uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASSWORD }}
