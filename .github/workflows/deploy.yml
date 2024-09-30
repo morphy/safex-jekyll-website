@@ -44,14 +44,8 @@ jobs:
           path: assets/images
       - name: Install jekyll deps
         run: bundle install
-      - name: Copy _plugins directory
-        run: cp -r _themes/safex/_plugins ./
-      - name: List files
-        run: |
-          ls -la
-          ls -la _plugins
       - name: Build website
-        run: JEKYLL_ENV=production bundle exec jekyll build
+        run: npm run build
       - uses: actions/upload-artifact@v4
         with:
           name: built-website
