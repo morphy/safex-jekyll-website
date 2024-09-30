@@ -12,20 +12,6 @@ jobs:
     name: Build images
     runs-on: ubuntu-latest
     steps:
-      - name: Unzip files
-        id: request
-        uses: fjogeleit/http-request-action@v1
-        with:
-          url: ${{ secrets.WEBSITE }}/plik.html
-          method: GET
-      - name: Check response
-        shell: bash
-        run: |
-          if [${{ steps.request.outputs.response }} = "ok"]; then
-            exit 0
-          else
-            exit 1
-          fi;
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
@@ -33,10 +19,7 @@ jobs:
       - name: Install node deps
         run: npm install
       - name: Build images
-        #run: node image-converter.mjs
-        run: |
-          mkdir assets/images
-          touch assets/images/file.txt
+        run: node image-converter.mjs
       - uses: actions/upload-artifact@v4
         with:
           name: built-images
@@ -49,13 +32,13 @@ jobs:
     steps:
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'
+          ruby-version: 3.3
       - uses: actions/setup-node@v4
         with:
           node-version: 20
       - uses: actions/checkout@v4
         with:
-          submodules: 'true'
+          submodules: true
           token: ${{ secrets.CI_TOKEN }}
       - uses: actions/download-artifact@v4
         with:
@@ -99,11 +82,5 @@ jobs:
         with:
           url: ${{ secrets.WEBSITE }}/deploy.php
           method: GET
-      - name: Check response
-        run: >-
-          if [${{ steps.request.outputs.response }} == "ok"];
-          then
-            exit 0;
-          else
-            exit 1;
-          fi
+      - name: Log response
+        run: echo ${{ steps.request.outputs.response }}
