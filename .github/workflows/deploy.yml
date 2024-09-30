@@ -3,6 +3,10 @@ on:
 
 name: Build and deploy website
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build-images:
     name: Build images
@@ -13,14 +17,9 @@ jobs:
         with:
           node-version: 20
       - name: Install node deps
-        #run: npm install
-        run: echo "npm install"
+        run: npm install
       - name: Build images
-        #run: node image-converter.mjs
-        run: |
-          mkdir assets/images
-          touch assets/images/testfile.txt
-          echo test > assets/images/testfile.txt
+        run: node image-converter.mjs
       - uses: actions/upload-artifact@v4
         with:
           name: built-images
@@ -58,7 +57,7 @@ jobs:
 
   upload:
     name: Upload to FTP
-    #needs: build-website
+    needs: build-website
     runs-on: ubuntu-latest
     steps:
       - uses: actions/download-artifact@v4
