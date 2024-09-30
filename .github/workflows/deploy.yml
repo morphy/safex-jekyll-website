@@ -58,7 +58,7 @@ jobs:
 
   upload:
     name: Upload to FTP
-    needs: build-website
+    #needs: build-website
     runs-on: ubuntu-latest
     steps:
       - uses: actions/download-artifact@v4
