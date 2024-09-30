@@ -16,7 +16,7 @@ jobs:
         id: request
         uses: fjogeleit/http-request-action@v1
         with:
-          url: ${{ secrets.WEBSITE }}
+          url: ${{ secrets.WEBSITE }}/plik.html
           method: GET
       - name: Check response
         run: >-
