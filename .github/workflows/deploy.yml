@@ -51,7 +51,7 @@ jobs:
           npm install
           npm run build
       - name: Compress files
-        run: zip -r website.zip _site
+        run: zip -r website.zip _site/*
       - uses: actions/upload-artifact@v4
         with:
           name: built-website
@@ -68,7 +68,7 @@ jobs:
       - name: Create PHP deploy script
         run: |
           touch deploy.php
-          echo "<?php \$zip = new ZipArchive;if (\$zip->open('website.zip') === TRUE) {\$zip->extractTo('/');\$zip->close();echo 'ok';}?>" > deploy.php
+          echo "<?php \$zip = new ZipArchive;if (\$zip->open('website.zip') === TRUE) {\$zip->extractTo('./');\$zip->close();echo 'ok';}?>" > deploy.php
       - uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_HOST }}
