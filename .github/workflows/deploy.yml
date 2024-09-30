@@ -24,7 +24,7 @@ jobs:
             exit 0
           else
             exit 1
-          fi
+          fi;
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
