@@ -12,8 +12,6 @@ jobs:
     name: Build images
     runs-on: ubuntu-latest
     steps:
-      - name: test zip
-        run: zip
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
@@ -52,10 +50,12 @@ jobs:
         run: |
           npm install
           npm run build
+      - name: Compress files
+        run: zip website.zip _site/*
       - uses: actions/upload-artifact@v4
         with:
           name: built-website
-          path: _site
+          path: website.zip
 
   upload:
     name: Upload to FTP
@@ -65,8 +65,21 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: built-website
+      - name: Create PHP deploy script
+        run: |
+          touch deploy.php
+          echo "<?php $zip = new ZipArchive;if ($zip->open('website.zip') === TRUE) {$zip->extractTo('/');$zip->close();echo 'ok';}" > deploy.php
       - uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
+      - name: Unzip files
+        id: request
+        uses: fjogeleit/http-request-action@v1
+        with:
+          url: ${{ secrets.WEBSITE }}/deploy.php
+          method: GET
+      - name: Log response
+        run: echo ${{ steps.request.outputs.response }}
+
