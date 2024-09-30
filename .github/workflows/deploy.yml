@@ -53,9 +53,7 @@ jobs:
       - name: Compress files
         run: |
           cd _site
-          zip -r website.zip *
-          cd ..
-          mv _site/website.zip website.zip
+          zip -r ../website.zip *
       - uses: actions/upload-artifact@v4
         with:
           name: built-website
@@ -72,7 +70,7 @@ jobs:
       - name: Create PHP deploy script
         run: |
           touch deploy.php
-          echo "<?php \$zip = new ZipArchive;if (\$zip->open('website.zip') === TRUE) {\$zip->extractTo('./');\$zip->close();echo 'ok';}?>" > deploy.php
+          echo "<?php \$zip = new ZipArchive;if (\$zip->open('website.zip') === TRUE) {\$zip->extractTo('./');\$zip->close();echo 'ok';} unlink('.ftp-deploy-sync-state.json');unlink('website.zip');unlink(__FILE__);?>" > deploy.php
       - uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_HOST }}
