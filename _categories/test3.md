@@ -1,6 +1,6 @@
 ---
-title: Wyposażenie sceniczne
-subtitle: Wyposażenie sceniczne
+title: Ogród i spa dupa
+subtitle: test 
 ---
 
 Safex Plandeki dostarcza wyposażenie firmom z branży scenicznej. 
