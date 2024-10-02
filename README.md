@@ -43,6 +43,11 @@ którą chcemy dla czytelności oddzielić od pozostałych itd.:
 
    ![tworzenie nowego brancha](readme-img-3.png)
 
+8. Po utworzeniu brancha wybrać opcję `Create pull request` - zostanie utworzone
+   żądanie połączenia utworzonego brancha z branchem głównym
+
+   ![tworzenie pull requesta](readme-img-5.png)
+
 ### Jeżeli nasz branch `jest` na liście branchów
 
 Np. kontynuujemy zmiany, które zaczęliśmy wcześniej:
