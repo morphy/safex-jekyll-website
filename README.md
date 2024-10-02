@@ -18,13 +18,15 @@ Witryna składa się z trzech rodzajów stron:
 
 ## Modyfikacja i dodawanie zawartości
 
-Edycję strony za każdym razem należy zacząć od wyboru odpowiedniego brancha.
-Lista branchów znajduje się zawsze po lewej stronie ekranu:
+Edycję strony za każdym razem należy zacząć od sprawdzenia, czy odpowiedni
+branch jest aktywny. Lista branchów znajduje się zawsze po lewej stronie ekranu:
 
 ![lista branchów](readme-img-1.png)
 
-Jeżeli na liście branchów **nie ma** naszego brancha (na przykład zaczynamy
-tworzyć nową kategorię, rozpoczynamy dużą grupę zmian itd.):
+### Jeżeli na liście branchów `nie ma` naszego brancha
+
+Na przykład zaczynamy tworzyć nową kategorię, rozpoczynamy dużą grupę zmian,
+którą chcemy dla czytelności oddzielić od pozostałych itd.:
 
 1. Wybrać plik do edycji
 2. Włączyć tryb edycji poprzez kliknięcie ikony ołówka (po prawej stronie
@@ -41,8 +43,9 @@ tworzyć nową kategorię, rozpoczynamy dużą grupę zmian itd.):
 
    ![tworzenie nowego brancha](readme-img-3.png)
 
-Jeżeli nasz branch **jest** na liście branchów (np. kontynuujemy zmiany, które
-zaczęliśmy wcześniej):
+### Jeżeli nasz branch `jest` na liście branchów
+
+Np. kontynuujemy zmiany, które zaczęliśmy wcześniej:
 
 1. Wybrać nasz branch z listy
 2. Wybrać plik do edycji
