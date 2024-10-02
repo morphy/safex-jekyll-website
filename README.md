@@ -23,7 +23,26 @@ branch jest aktywny. Lista branchów znajduje się zawsze po lewej stronie ekran
 
 ![lista branchów](readme-img-1.png)
 
-### Jeżeli na liście branchów `nie ma` naszego brancha
+### Jeżeli nasz branch `jest` na liście
+
+Np. kontynuujemy zmiany, które zaczęliśmy wcześniej:
+
+1. Wybrać nasz branch z listy
+2. Wybrać plik do edycji
+3. Włączyć tryb edycji poprzez kliknięcie ikony ołówka (po prawej stronie
+   ekranu)
+
+   ![tryb edycji](readme-img-2.png)
+
+4. Po wprowadzeniu zmian nacisnąć przycisk `Commit changes...`
+5. W okienku dialogowym w polu `Commit message` wpisać krótki opis zmian (np.
+   "zmiana danych kontaktowych")
+6. Na dole wybrać opcję `Commit directly to the (nazwa brancha) branch`
+7. Nacisnąć przycisk `Propose changes`
+
+   ![dodawanie do istniejącego brancha](readme-img-4.png)
+
+### Jeżeli naszego brancha `nie ma` na liście
 
 Na przykład zaczynamy tworzyć nową kategorię, rozpoczynamy dużą grupę zmian,
 którą chcemy dla czytelności oddzielić od pozostałych itd.:
@@ -47,22 +66,3 @@ którą chcemy dla czytelności oddzielić od pozostałych itd.:
    żądanie połączenia utworzonego brancha z branchem głównym
 
    ![tworzenie pull requesta](readme-img-5.png)
-
-### Jeżeli nasz branch `jest` na liście branchów
-
-Np. kontynuujemy zmiany, które zaczęliśmy wcześniej:
-
-1. Wybrać nasz branch z listy
-2. Wybrać plik do edycji
-3. Włączyć tryb edycji poprzez kliknięcie ikony ołówka (po prawej stronie
-   ekranu)
-
-   ![tryb edycji](readme-img-2.png)
-
-4. Po wprowadzeniu zmian nacisnąć przycisk `Commit changes...`
-5. W okienku dialogowym w polu `Commit message` wpisać krótki opis zmian (np.
-   "zmiana danych kontaktowych")
-6. Na dole wybrać opcję `Commit directly to the (nazwa brancha) branch`
-7. Nacisnąć przycisk `Propose changes`
-
-   ![dodawanie do istniejącego brancha](readme-img-4.png)
