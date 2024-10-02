@@ -25,7 +25,7 @@ branch jest aktywny. Lista branchów znajduje się zawsze po lewej stronie ekran
 
 ### Jeżeli nasz branch `jest` na liście
 
-Np. kontynuujemy zmiany, które zaczęliśmy wcześniej:
+Na przykład kontynuujemy zmiany, które zaczęliśmy wcześniej:
 
 1. Wybrać nasz branch z listy
 2. Wybrać plik do edycji
