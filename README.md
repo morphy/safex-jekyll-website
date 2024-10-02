@@ -30,7 +30,7 @@ tworzyć nową kategorię, rozpoczynamy dużą grupę zmian itd.):
 2. Włączyć tryb edycji poprzez kliknięcie ikony ołówka (po prawej stronie
    ekranu)
 
-![tryb edycji](readme-img-2.png)
+   ![tryb edycji](readme-img-2.png)
 
 3. Po wprowadzeniu zmian nacisnąć przycisk `Commit changes...`
 4. W okienku dialogowym w polu `Commit message` wpisać krótki opis zmian (np.
@@ -39,7 +39,7 @@ tworzyć nową kategorię, rozpoczynamy dużą grupę zmian itd.):
 6. Wpisać nazwę nowego brancha
 7. Nacisnąć przycisk `Propose changes`
 
-![tworzenie nowego brancha](readme-img-3.png)
+   ![tworzenie nowego brancha](readme-img-3.png)
 
 Jeżeli nasz branch **jest** na liście branchów (np. kontynuujemy zmiany, które
 zaczęliśmy wcześniej):
@@ -49,7 +49,7 @@ zaczęliśmy wcześniej):
 3. Włączyć tryb edycji poprzez kliknięcie ikony ołówka (po prawej stronie
    ekranu)
 
-![tryb edycji](readme-img-2.png)
+   ![tryb edycji](readme-img-2.png)
 
 4. Po wprowadzeniu zmian nacisnąć przycisk `Commit changes...`
 5. W okienku dialogowym w polu `Commit message` wpisać krótki opis zmian (np.
@@ -57,4 +57,4 @@ zaczęliśmy wcześniej):
 6. Na dole wybrać opcję `Commit directly to the (nazwa brancha) branch`
 7. Nacisnąć przycisk `Propose changes`
 
-![dodawanie do istniejącego brancha](readme-img-4.png)
+   ![dodawanie do istniejącego brancha](readme-img-4.png)
