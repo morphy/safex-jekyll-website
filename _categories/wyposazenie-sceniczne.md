@@ -3,6 +3,6 @@ title: Wyposażenie sceniczne
 subtitle: Wyposażenie sceniczne
 ---
 
-Fusce ultricies risus nisi, ut placerat diam dapibus ut. Cras et sem sit amet
-magna fermentum pellentesque in vel purus. Pellentesque diam est, tempus eget
-pretium vel, tristique in ligula.
+Safex Plandeki dostarcza wyposażenie firmom z branży scenicznej. 
+Wykonujemy dachy na wymiar oraz przeciwwiatrowe horyzonty sceniczne. Dbamy aby nasz magazyn był wyposażony w odpowiednie materiały, w tym z koniecznymi atestami trudnopalności.
+Dzięki temu podejmujemy się realizacji w krótkich terminach. 
