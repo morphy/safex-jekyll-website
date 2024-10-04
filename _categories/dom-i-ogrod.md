@@ -1,8 +1,9 @@
 ---
-title: Ogród i spa
-subtitle: test 
+title: Dom i Ogród
+subtitle: Plandeki z okanmi na altany, poszycia siedzisk ogrodowych i  
 ---
 
-Safex Plandeki dostarcza wyposażenie firmom z branży scenicznej. 
-Wykonujemy dachy na wymiar oraz przeciwwiatrowe horyzonty sceniczne. Dbamy aby nasz magazyn był wyposażony w odpowiednie materiały, w tym z koniecznymi atestami trudnopalności.
-Dzięki temu podejmujemy się realizacji w krótkich terminach. 
+Safex Plandeki ma w ofercie szereg produktów 
+Flagowym produktem tego typu są wysokiej jakości okna z plandek PVC które poznawalą na ochronięcie przed wiatrem i morzem altan i tarasów. 
+Wytwarzamy także poszycia siedzisk ogrodowych do większości dostępnych na rynku mebli. Pozwala to na uniknięcie zakupu nowych mebli co ma kożyści finansowe jak i środowiskowe.
+Pomagamy 
