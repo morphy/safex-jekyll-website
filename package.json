@@ -1,7 +1,7 @@
 {
   "scripts": {
     "postinstall": "bundle install",
-    "dev": "cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload --incremental",
+    "dev": "shx cp -r _themes/safex/_plugins ./ && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload --incremental",
     "build": "shx cp -r _themes/safex/_plugins ./ && cross-env JEKYLL_ENV=production bundle exec jekyll build",
     "images": "node image-converter.mjs",
     "clean": "shx rm -rf .jekyll-cache _plugins _site",
