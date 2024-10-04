@@ -1,5 +1,5 @@
 ---
-title: Przemysłowe
+title: Rozwiązania dla przemysłu
 subtitle: Przemysłowe
 ---
 
