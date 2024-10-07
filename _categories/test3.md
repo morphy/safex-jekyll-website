@@ -1,6 +1,6 @@
 ---
-title: Ogród i spa dupa
-subtitle: test
+title: nowa kategoria
+subtitle: zmiana
 ---
 
 Safex Plandeki dostarcza wyposażenie firmom z branży scenicznej. Wykonujemy
