@@ -1,5 +1,5 @@
 ---
-title: Dla służb
+title: Baza wiedzy
 subtitle: Dla służb
 ---
 
