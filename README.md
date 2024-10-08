@@ -4,65 +4,80 @@
 
 Witryna składa się z trzech rodzajów stron:
 
-- strony zwykłe — zawierają zwykłą zawartość taką jak tekst lub obrazki
+- Strony zwykłe — zawierają zwykłą zawartość taką jak tekst lub obrazki.
+
   - przykład: _Oferta_, _O nas_, _Kontakt_
-  - adres: `strona.pl/strona-zwykła`
-- strony kategorii — zawierają zdjęcie i opis kategorii usług. Stroną nadrzędną
-  jest dla nich strona `Oferta`
+  - adres: `strona.pl/[nazwa-strony]`
+  - pliki źródłowe: `_pages/[nazwa-strony]`
+
+- Strony kategorii — zawierają zdjęcie i opis kategorii usług. Stroną nadrzędną
+  jest dla nich strona `Oferta`.
+
   - przykład: _Dla służb_, _Produkty na zamówienie_, _Wyposażenie sceniczne_
-  - adres: `strona.pl/oferta/strona-kategorii`
-- strony usług — zawierają opis i zdjęcia usługi stroną nadrzędną jest dla nich
-  strona kategorii, w której dana usługa się znajduje
+  - adres: `strona.pl/oferta/[nazwa-kategorii]`
+  - pliki źródłowe: `_categories/[nazwa-kategorii]`
+
+- Strony usług — zawierają opis i zdjęcia usługi. Stroną nadrzędną jest dla nich
+  strona kategorii, w której dana usługa się znajduje.
+
   - przykład: _Siatki elewacyjne_, _Zbiorniki pożarowe_
-  - adres: `strona.pl/oferta/strona-kategorii/strona-produktu`
+  - adres: `strona.pl/oferta/[nazwa-kategorii]/[nazwa-usługi]`
+  - pliki źródłowe: `_services/[nazwa-usługi]`
+
+## Instalacja i uruchomienie lokalnej kopii
+
+Lokalne środowisko umożliwia natychmiastowy podgląd wprowadzonych zmian.
+Instrukcja instalacji:
+
+1. Zainstaluj następujące narzędzia:
+
+   - Git ([https://git-scm.com/downloads](https://git-scm.com/downloads))
+   - Node.js ([https://nodejs.org/](https://nodejs.org/))
+   - Ruby
+     ([https://www.ruby-lang.org/en/documentation/installation/](https://www.ruby-lang.org/en/documentation/installation/))
+   - Jekyll oraz Bundler (`gem install jekyll bundler`)
+
+2. Uruchom okno PowerShell w folderze, do którego chcesz sklonować projekt
+   (shift + prawy przycisk myszy).
+3. Sklonuj repozytorium za pomocą polecenia
+   `git clone --recurse-submodule https://github.com/morphy/safex-jekyll-website.git`.
+   W katalogu pojawi się folder z projektem.
+4. Przejdź do katalogu projektu przy użyciu polecenia `cd safex-jekyll-website`.
+5. Uruchom skrypt instalacyjny za pomocą polecenia `npm install`.
+
+Po zainstalowaniu projektu można używać następujących poleceń:
+
+- `npm run dev` - uruchamia lokalny podgląd (dostępny pod adresem
+  [http://localhost:4000](http://localhost:4000)).
+- `npm run format` - uruchamia narzędzie do automatycznego formatowania plików.
+
+Polecenia wywołuj w oknie PowerShell w **głównym katalogu projektu** (shift +
+prawy przycisk myszy).
 
 ## Modyfikacja i dodawanie zawartości
 
-Edycję strony za każdym razem należy zacząć od sprawdzenia, czy odpowiedni
-branch jest aktywny. Lista branchów znajduje się zawsze po lewej stronie ekranu:
+1. Edycję strony za każdym razem zacznij od sprawdzenia, czy odpowiedni branch
+   jest aktywny.
 
-![lista branchów](readme-img-1.png)
+   ![lista branchów](readme-img-1.png)
 
-### Jeżeli nasz branch `jest` na liście
+2. Wprowadź zmiany w plikach strony.
+3. Sprawdź, które pliki są wybrane do commita. Domyślnie Github Desktop wybiera
+   wszystkie zmodyfikowane pliki. Pliki widoczne są na liście po lewej stronie
+   okna. W prawej części ekranu widoczny jest tak zwany _diff_ — widok dokładnie
+   pokazujący zmiany wprowadzone w plikach.
 
-Na przykład kontynuujemy zmiany, które zaczęliśmy wcześniej:
+   ![wybór plików](readme-img-2.png)
 
-1. Wybrać nasz branch z listy
-2. Wybrać plik do edycji
-3. Włączyć tryb edycji poprzez kliknięcie ikony ołówka (po prawej stronie
-   ekranu)
+4. W lewym dolnym roku okna, w polu `Summary (required)` wpisz krótki opis zmian
+   (np. "zmiana danych kontaktowych").
+5. Naciśnij przycisk `Commit to [nazwa-brancha]`.
 
-   ![tryb edycji](readme-img-2.png)
+   ![dodawanie commita](readme-img-3.png)
 
-4. Po wprowadzeniu zmian nacisnąć przycisk `Commit changes...`
-5. W okienku dialogowym w polu `Commit message` wpisać krótki opis zmian (np.
-   "zmiana danych kontaktowych")
-6. Na dole wybrać opcję `Commit directly to the (nazwa brancha) branch`
-7. Nacisnąć przycisk `Propose changes`
+6. Utwórz tyle commitów, ile potrzebujesz. Zmiany warto organizować w mniejsze
+   grupy za pomocą commitów, tak aby potem łatwo było zorientować się, co
+   zostało kiedy dodane.
+7. Naciśnij przycisk `Push origin` w celu wgrania zmian na serwer.
 
-   ![dodawanie do istniejącego brancha](readme-img-4.png)
-
-### Jeżeli naszego brancha `nie ma` na liście
-
-Na przykład zaczynamy tworzyć nową kategorię, rozpoczynamy dużą grupę zmian,
-którą chcemy dla czytelności oddzielić od pozostałych itd.:
-
-1. Wybrać plik do edycji
-2. Włączyć tryb edycji poprzez kliknięcie ikony ołówka (po prawej stronie
-   ekranu)
-
-   ![tryb edycji](readme-img-2.png)
-
-3. Po wprowadzeniu zmian nacisnąć przycisk `Commit changes...`
-4. W okienku dialogowym w polu `Commit message` wpisać krótki opis zmian (np.
-   "zmiana danych kontaktowych")
-5. Na dole wybrać opcję `Create a new branch for this commit`
-6. Wpisać nazwę nowego brancha
-7. Nacisnąć przycisk `Propose changes`
-
-   ![tworzenie nowego brancha](readme-img-3.png)
-
-8. Po utworzeniu brancha wybrać opcję `Create pull request` - zostanie utworzone
-   żądanie połączenia utworzonego brancha z branchem głównym
-
-   ![tworzenie pull requesta](readme-img-5.png)
+   ![wgrywanie zmian na serwer](readme-img-4.png)
