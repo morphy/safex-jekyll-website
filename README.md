@@ -8,21 +8,46 @@ Witryna składa się z trzech rodzajów stron:
 
   - przykład: _Oferta_, _O nas_, _Kontakt_
   - adres: `strona.pl/[nazwa-strony]`
-  - pliki źródłowe: `_pages/[nazwa-strony]`
+  - pliki źródłowe: `_pages/[nazwa-strony].md`
 
 - Strony kategorii — zawierają zdjęcie i opis kategorii usług. Stroną nadrzędną
   jest dla nich strona `Oferta`.
 
   - przykład: _Dla służb_, _Produkty na zamówienie_, _Wyposażenie sceniczne_
   - adres: `strona.pl/oferta/[nazwa-kategorii]`
-  - pliki źródłowe: `_categories/[nazwa-kategorii]`
+  - pliki źródłowe: `_categories/[nazwa-kategorii].md`
 
 - Strony usług — zawierają opis i zdjęcia usługi. Stroną nadrzędną jest dla nich
   strona kategorii, w której dana usługa się znajduje.
 
   - przykład: _Siatki elewacyjne_, _Zbiorniki pożarowe_
   - adres: `strona.pl/oferta/[nazwa-kategorii]/[nazwa-usługi]`
-  - pliki źródłowe: `_services/[nazwa-usługi]`
+  - pliki źródłowe: `_services/[nazwa-usługi].md`
+
+Podczas edycji pamiętaj o następujących zasadach:
+
+- Nazwy katalogów znajdujących się w katalogu `_services` muszą odpowiadać
+  nazwom kategorii w katalogu `_categories`.
+
+- W nazwach plików źródłowych nie stosuj spacji i polskich znaków — zamiast
+  nazwy `nasze usługi.md` wybierz raczej `nasze-uslugi.md`.
+
+- Zdjęcia usług i kategorii umieszczaj w katalogu `assets/images_source/oferta`.
+  Wykorzystują one podobną zasadę co pliki usług i kategorii:
+  - Zdjęcie kategorii:
+    - Katalog: `assets/images_source/oferta/[nazwa-kategorii]/`
+    - Nazwa pliku: `[nazwa-kategorii].jpg`
+    - Format: JPEG
+    - Przykład: `assets/images_source/oferta/dla-sluzb/dla-sluzb.jpg`
+  - Zdjęcie usług:
+    - Katalog: `assets/images_source/oferta/[nazwa-kategorii]/[nazwa-usługi]`
+    - Nazwa pliku: `[nazwa-usługi]-[numer-zdjęcia].jpg`
+    - Format: JPEG
+    - Zdjęcie o numerze 1 zostanie umieszczone na górze strony
+    - Każde zdjęcie usługi zostanie umieszczone w galerii na dole strony, w
+      kolejności zgodnej z numeracją.
+    - Przykład:
+      `assets/images_source/oferta/dla-sluzb/zbiorniki-pozarowe/zbiorniki-pozarowe-1.jpg`
 
 ## Instalacja i uruchomienie lokalnej kopii
 
