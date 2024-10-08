@@ -39,7 +39,7 @@ Podczas edycji pamiętaj o następujących zasadach:
     - Nazwa pliku: `[nazwa-kategorii].jpg`
     - Format: JPEG
     - Przykład: `assets/images_source/oferta/dla-sluzb/dla-sluzb.jpg`
-  - Zdjęcie usług:
+  - Zdjęcia usług:
     - Katalog: `assets/images_source/oferta/[nazwa-kategorii]/[nazwa-usługi]`
     - Nazwa pliku: `[nazwa-usługi]-[numer-zdjęcia].jpg`
     - Format: JPEG
