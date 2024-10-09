@@ -1,5 +1,5 @@
 ---
-title: Pokrowce na meble 
+title: Pokrowce na meble
 ---
 
 Robimy pokrowce

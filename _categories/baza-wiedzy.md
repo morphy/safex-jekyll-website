@@ -1,6 +1,6 @@
 ---
 title: wiedza o materiałach i produktach pochodzenia sztucznego
-subtitle: 
+subtitle:
 ---
 
 Doctuset accusata quaerendum periculis consectetuer eruditi adhuc maiorum quem
