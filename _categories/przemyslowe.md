@@ -1,6 +1,7 @@
 ---
 title: Rozwiązania dla przemysłu
 subtitle: Test
+order: 5
 ---
 
 Safex Plandeki odznacza się na rynku specjalizacją w wykonywaniu nietypowych

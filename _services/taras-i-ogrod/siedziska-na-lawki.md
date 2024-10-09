@@ -1,5 +1,7 @@
 ---
 title: Siedziska na ławki ogrodowe
+subtitle: subtitle
+order: 4
 ---
 
 WWykonujemy na zamowienie bardzo trwałe i mocne siedziska na ławki ogrodowe z

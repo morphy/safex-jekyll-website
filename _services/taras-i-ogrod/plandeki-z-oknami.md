@@ -1,5 +1,7 @@
 ---
 title: Plandeki z oknami PCV
+subtitle: subtitle
+order: 1
 ---
 
 Wytwarzamy okna tarasowe z plandek przezroczystych, które w połączeniu z tkaniną

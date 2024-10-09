@@ -1,6 +1,7 @@
 ---
 title: Rozwiązania okryciowe
 subtitle: Pokrowce i osłony
+order: 2
 ---
 
 Safex Plandeki dostarcza wyposażenie firmom z branży scenicznej. Wykonujemy
