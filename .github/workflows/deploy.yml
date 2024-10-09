@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 20
       - name: Install node deps
-        run: npm install --disable-scripts
+        run: npm install --ignore-scripts
       - name: Build images
         run: npm run build:images
       - uses: actions/upload-artifact@v4
