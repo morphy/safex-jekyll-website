@@ -1,6 +1,7 @@
 ---
 title: Park maszynowy
 subtitle: test
+order: 8
 ---
 
 Dzięki budowanemu przez lata parkowi maszynowemu, Safex Plandeki jest w stanie

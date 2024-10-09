@@ -1,6 +1,7 @@
 ---
 title: Zadaszenia membranowe
 subtitle: Dachy, namioty
+order: 6
 ---
 
 Membrany są obecnie najprężniej rozwijającą się formą przekryć strukturalnych.

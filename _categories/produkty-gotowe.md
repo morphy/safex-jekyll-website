@@ -1,6 +1,7 @@
 ---
 title: Produkty gotowe
 subtitle: Produkty gotowe
+order: 1
 ---
 
 Plandeki okryciowe znajdują szerokie zastosowanie w różnych dziedzinach życia.

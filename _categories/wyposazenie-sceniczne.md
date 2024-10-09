@@ -1,6 +1,7 @@
 ---
 title: Wyposażenie sceniczne
-subtitle: Horyzonty sceniczne, siatki estradowe oraz zadaszenia scen.
+subtitle: Horyzonty sceniczne, siatki estradowe oraz zadaszenia scen
+order: 4
 ---
 
 Safex Plandeki wytważa niektóre elementy wyposażenia firmom z branży scenicznej.

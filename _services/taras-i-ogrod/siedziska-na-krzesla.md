@@ -1,5 +1,7 @@
 ---
 title: Siedziska na krzesła ogrodowe
+subtitle: subtitle
+order: 3
 ---
 
 Siatka poliestrowa powlekana PCV na meble ogrodowe o oczku 2x2 mm , posiada
