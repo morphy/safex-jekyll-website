@@ -1,6 +1,6 @@
 ---
 title: Zadaszenia membranowe
-subtitle: Zadaszenia membranowe
+subtitle: Dachy, namioty
 ---
 Zadaszenia membranowe- membrany stają się obecnie najprężniej rozwijającą się formą przekryć strukturalnych. Naprężone struktury należą obecnie do najnowocześniejszych rozwiązań architektonicznych.   Są chętnie stosowane ze względu na swoją efektowność. Niektóre rozwiązania to prawdziwe perełki architektoniczne . Coraz większa liczba adaptacji sprawia, że jest to rozwiązanie sprawdzone.
 
