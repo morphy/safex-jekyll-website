@@ -1,9 +1,11 @@
 ---
-title: Przemysłowe
-subtitle: Przemysłowe
+title: Rozwiązania dla przemysłu
+subtitle: Test
+order: 5
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Safex Plandeki odznacza się na rynku specjalizacją w wykonywaniu nietypowych
+zleceń oraz pracy na wysokiej jakości materiałach. Dzięki temu jesteśmy w stanie
+wykonać dla firm z różnorodnych branż przemysłowych nietypowe i specjalistyczne
+elementy. Wykonujemy prostrze kotary, przepierzenia i kurtyny plandekowe oraz
+trudniejsze osłony harmonijkowe i taśmociągli rolicze.
