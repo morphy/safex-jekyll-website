@@ -1,5 +1,5 @@
 ---
-title: park maszynowy
+title: Park maszynowy
 subtitle: test
 ---
 
