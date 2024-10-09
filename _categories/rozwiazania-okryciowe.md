@@ -1,6 +1,6 @@
 ---
-title: Plandekowe rozwiązania okryciowe
-subtitle: Pokrowce, plandeki na przyczepki. płaskie przykrycia na wymiar
+title: Rozwiązania okryciowe
+subtitle: Pokrowce i osłony
 ---
 
 Safex Plandeki dostarcza wyposażenie firmom z branży scenicznej. Wykonujemy
