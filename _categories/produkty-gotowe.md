@@ -3,7 +3,7 @@ title: Produkty gotowe
 subtitle: Produkty gotowe
 ---
 
-landeki okryciowe znajdują szerokie zastosowanie w różnych dziedzinach życia.
+Plandeki okryciowe znajdują szerokie zastosowanie w różnych dziedzinach życia.
 Jednym z najważniejszych obszarów, w których plandeki sprawdzają się doskonale,
 jest ochrona drewna i materiałów budowlanych przed warunkami atmosferycznymi. W
 przypadku przechowywania tych materiałów na zewnątrz, plandeki okryciowe
