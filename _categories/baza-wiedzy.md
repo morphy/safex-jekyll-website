@@ -1,5 +1,5 @@
 ---
-title: sklep w budowie
+title: wiedza o materiałach i produktach pochodzenia sztucznego
 subtitle: 
 ---
 
