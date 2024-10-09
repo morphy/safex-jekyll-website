@@ -14,8 +14,8 @@ heroBottom: >-
 
 categoryFilter:
   - produkty-gotowe
-  - wyposazenie-sceniczne
-  - zadaszenia-membranowe
+  - rozwiazania-okryciowe
+  - taras-i-ogrod
 
 servicesTitle: Świadczone usługi
 servicesDesc: >-
