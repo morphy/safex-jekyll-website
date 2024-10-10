@@ -1,37 +1,3 @@
-title: Safex
-motto: O plandekach wiemy wszystko!
-logo: assets/images/safex-logo.svg
-description: >-
-  Firma Safex znajduje się w Gdyni i działa od 1991 roku. Zajmujemy się
-  produkcją i dystrybucją plandek, siatek oraz membran wysokoprężonych. Zakupić
-  u nas można też materiały gazoszczelne, zabudowy tarasów, a także siatki
-  kontenerowe i budowlane. Produkujemy również siatki estradowe, wielkoformatowe
-  zadaszenia namiotów czy blendy tenisowe. Gwarantujemy najwyższą jakość
-  wyrobów. Zapraszamy do skorzystania z naszej oferty!
-
-footerCta: Zaprojektuj plandekę samodzielnie!
-footerCtaLink: Uruchom kreator
-footerCtaHref: #
-
-address: ul. Potasowa 6 Gdynia
-addressHref: https://maps.app.goo.gl/BSP88r99QAD7BF7K7
-
-openingHours: 8:00 - 16:00
-
-emails:
-  - kontakt@safex.com.pl
-  - sklep@safex.com.pl
-
-phones:
-  - title: Centrala
-    number: 58 585 86 99
-  - title: Handlowy
-    number: 58 585 85 44
-  - title: Techniczny
-    number: 58 585 86 76
-
-excerptLength: 50
-
 baseurl: "/"
 url: ""
 local_theme: safex
