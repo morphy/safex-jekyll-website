@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: page-partners
 title: Współprace
 subtitle: Nasi kontrahenci
 order: 5
 
 heroImage: assets/images/bg1.jpg
-bottomInclude: partners.liquid
 breadcrumbs:
   - href: /
     link: Home
