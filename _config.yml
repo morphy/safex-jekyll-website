@@ -2,6 +2,8 @@ baseurl: "/"
 url: ""
 local_theme: safex
 
+emptyArray: []
+
 defaults:
   - scope:
       path: "_pages"
@@ -17,6 +19,16 @@ defaults:
       path: "_services"
     values:
       layout: page-post
+  - scope:
+      path: "_smoki"
+    values:
+      layout: page-collection
+      useCustomSingleNodePage: true
+      galleryOnlyInLeafNodes: false
+      hideItselfInFileList: true
+      removeIndexFromFilename: true
+      displayLeafDirectoriesAsFiles: true
+      subtitle: Dzień dobry
 
 collections:
   services:
@@ -25,6 +37,8 @@ collections:
   categories:
     output: true
     permalink: /oferta/:path/
+  smoki:
+    output: true
 
 include:
   - _pages
@@ -42,4 +56,5 @@ exclude:
   - package-lock.json
   - assets/css/
   - assets/images_source
-  - image-converter.mjs
+  - image-converter.js
+  - postinstall.js
