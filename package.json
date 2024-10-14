@@ -2,7 +2,9 @@
   "scripts": {
     "postinstall": "node postinstall.js && bundle install",
     "dev": "shx cp -r _themes/safex/_plugins ./ && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload",
-    "build": "shx cp -r _themes/safex/_plugins ./ && cross-env JEKYLL_ENV=production bundle exec jekyll build",
+    "dev:verbose": "shx cp -r _themes/safex/_plugins ./ && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload --verbose",
+    "build": "shx cp -r _themes/safex/_plugins ./ && cross-env JEKYLL_ENV=development bundle exec jekyll build",
+    "build:production": "shx cp -r _themes/safex/_plugins ./ && cross-env JEKYLL_ENV=production bundle exec jekyll build",
     "build:images": "node image-converter.js",
     "clean": "shx rm -rf .jekyll-cache _plugins _site .jekyll-metadata",
     "clean:all": "shx rm -rf .jekyll-cache _plugins _site .jekyll-metadata assets/images node_modules",
