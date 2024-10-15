@@ -8,7 +8,8 @@
     "build:images": "node image-converter.js",
     "clean": "shx rm -rf .jekyll-cache _plugins _site .jekyll-metadata",
     "clean:all": "shx rm -rf .jekyll-cache _plugins _site .jekyll-metadata assets/images node_modules",
-    "format": "prettier --write --ignore-unknown */**"
+    "format": "prettier --check --ignore-unknown */**",
+    "format:write": "prettier --write --ignore-unknown */**"
   },
   "devDependencies": {
     "@shopify/prettier-plugin-liquid": "^1.5.0",
