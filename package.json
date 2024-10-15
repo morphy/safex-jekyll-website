@@ -12,6 +12,7 @@
     "format:write": "prettier --write --ignore-unknown */**"
   },
   "devDependencies": {
+    "@prettier/plugin-xml": "^3.4.1",
     "@shopify/prettier-plugin-liquid": "^1.5.0",
     "command-exists": "^1.2.9",
     "cross-env": "^7.0.3",
