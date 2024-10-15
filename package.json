@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "postinstall": "node postinstall.js && bundle install",
+    "postinstall": "node -e \"const { sync: exists } = require('command-exists'); if (!exists('ruby')) { console.log('Ruby is not installed'); process.exit(1); } if (!exists('jekyll')) { console.log('Jekyll is not installed'); process.exit(1); } if (!exists('bundle')) { console.log('Bundle is not installed'); process.exit(1); }\"  && bundle install",
     "dev": "shx cp -r _themes/safex/_plugins ./ && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload",
     "dev:verbose": "shx cp -r _themes/safex/_plugins ./ && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload --verbose",
     "build": "shx cp -r _themes/safex/_plugins ./ && cross-env JEKYLL_ENV=development bundle exec jekyll build",
