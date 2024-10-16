@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: ""
 url: ""
 
 emptyArray: []
@@ -15,33 +15,17 @@ defaults:
     values:
       permalink: /:basename/
   - scope:
-      path: "_categories"
-    values:
-      layout: page
-      bottomInclude: services.liquid
-  - scope:
-      path: "_services"
-    values:
-      layout: page-post
-  - scope:
-      path: "_smoki"
+      path: "_oferta"
     values:
       layout: page-collection
       useCustomSingleNodePage: true
-      galleryOnlyInLeafNodes: false
+      galleryOnlyInLeafNodes: true
       hideItselfInFileList: true
       removeIndexFromFilename: true
       displayLeafDirectoriesAsFiles: true
-      subtitle: Dzień dobry
 
 collections:
-  services:
-    output: true
-    permalink: /oferta/:path/
-  categories:
-    output: true
-    permalink: /oferta/:path/
-  smoki:
+  oferta:
     output: true
 
 include:
