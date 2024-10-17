@@ -1,2 +1,5 @@
 _themes/
 package-lock.json
+**/*.jpg
+**/*.webp
+**/*.avif
