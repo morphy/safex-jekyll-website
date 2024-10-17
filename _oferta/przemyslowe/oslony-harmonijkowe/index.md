@@ -2,17 +2,13 @@
 title: Osłony harmonijkowe
 ---
 
-Wykonujemy osłony harmonijkowe wszelkiego rodzaju napędów, tłoczysk, siłowników
-hydraulicznych i pneumatycznych. Nasze produkty zdatne są do pracy w trudnych
-warunkach, takich jak place budowy oraz kopalnie odkrywkowe.
+Osłony harmonijkowe
+Safex Plandeki ma duże doświadczenie w  produkcji osłon harmonijkowych do różnego rodzaju napędów, tłoczysk oraz siłowników hydraulicznych i pneumatycznych.
+ Nasze osłony są zaprojektowane z myślą o pracy w trudnych warunkach, takich jak place budowy czy kopalnie odkrywkowe, gdzie niezawodność i wytrzymałość są kluczowe. 
+Osłony harmonijkowe znajdują szerokie zastosowanie jako elementy układów sterowniczych koparek i maszyn wydobywczych.
+ Są również powszechnie stosowane w przemyśle maszynowym, gdzie chronią obrabiarki, urządzenia CNC, lasery, a także maszyny do cięcia plazmą i wodą.
 
-Osłony harmonijkowe stosowane są jako elementy układów sterowniczych koparek i
-maszyn wydobywczych, mają zastosowanie także w przemyśle maszynowym do ochrony
-obrabiarek, laserów, CNC, maszyn do cięcia plazmą i wodą. Szczególnym
-przypadkiem osłony harmonijkowej są osłony w autobusach przegubowych, tramwajach
-i pociągach.
+Każda osłona jest wykonywana na zamówienie, dostosowana do specyficznych wymagań klienta. W przypadku większych osłon, stosujemy dodatkowe wzmocnienia z drutu, aby zapewnić jeszcze większą trwałość. 
+Możemy również projektować osłony do konkretnych maszyn, w razie potrzeby używając tkanin odpornych na oleje, co dodatkowo zwiększa ich funkcjonalność w wymagających środowiskach pracy.
 
-Osłony wykonywane są na wymiar, w przypadku dużych osłon mogą one być wzmocnione
-okręgami z drutu. Jesteśmy w stanie zaprojektować odpowiednią osłonę do
-konkretnej maszyny. W razie potrzeby stosujemy do ich wykonania tkaniny
-olejoodporne.
+**protip:** Poniżej znajduję się schemat do uzupełnienia wymiarami. 

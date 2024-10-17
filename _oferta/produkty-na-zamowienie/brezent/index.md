@@ -2,7 +2,4 @@
 title: Plandeki brezentowe
 ---
 
-Wykonujemy plandeki z naturalnych tkanin brezentowych impregnowanych do
-specjalnych zastosowań. Tkaniny brezentowe charakteryzują się dużą odpornością
-na wysokie temperatury. Wykorzystywane są tam, gdzie nie można zastosować
-zwykłych tkanin powlekanych PCV np. do wożenia gorącej masy asfaltowej
+Specjalizujemy się w produkcji plandek z naturalnych tkanin brezentowych, które są impregnowane do specjalnych zastosowań. Tkaniny brezentowe wyróżniają się wyjątkowo wysoką odpornością na wysokie temperatury, co sprawia, że są idealne tam, gdzie nie można zastosować standardowych tkanin powlekanych PCV. Doskonale sprawdzają się na przykład podczas transportu gorącej masy asfaltowej.
