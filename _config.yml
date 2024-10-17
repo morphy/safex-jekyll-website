@@ -23,9 +23,20 @@ defaults:
       hideItselfInFileList: true
       removeIndexFromFilename: true
       displayLeafDirectoriesAsFiles: true
+  - scope:
+      path: "_baza-wiedzy"
+    values:
+      layout: page-collection
+      useCustomSingleNodePage: true
+      galleryOnlyInLeafNodes: true
+      hideItselfInFileList: true
+      removeIndexFromFilename: true
+      displayLeafDirectoriesAsFiles: true
 
 collections:
   oferta:
+    output: true
+  baza-wiedzy:
     output: true
 
 include:

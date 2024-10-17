@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Baza wiedzy
+title: Baza wiedzy - stare
 subtitle: Przydatne informacje
 order: 6
 

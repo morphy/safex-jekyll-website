@@ -1,7 +1,6 @@
 ---
-title: Oferta
-subtitle: Rodzaje zleceń
-order: 2
+title: Inny artykuł
+subtitle: Test
 ---
 
 W celu łatwiejszego zorientowania się w naszej ofercie podzieliliśmy świadczone
