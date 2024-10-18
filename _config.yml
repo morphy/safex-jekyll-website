@@ -1,4 +1,4 @@
-baseurl: ""
+baseurl: "/"
 url: ""
 
 emptyArray: []
@@ -14,6 +14,8 @@ defaults:
       type: pages
     values:
       permalink: /:basename/
+      heroImage: assets/images/bg1.jpg
+      layout: page
   - scope:
       path: "_oferta"
     values:
