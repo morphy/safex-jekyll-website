@@ -1,8 +1,10 @@
 ---
-title: Ploter tnący SUMMA S2 160 T
+title: Ploter tnący
+subtitle: Test
+order: 2
 ---
 
-Oferujemy usługę wycinania profesjonalnym ploterem tnącym. Głównym zadaniem tej
+Oferujemy usługę wycinania profesjonalnym ploterem tnącym SUMMA S2 160 T. Głównym zadaniem tej
 maszyny to wycinanie grafiki, wycinanie napisów, wycinanie liter, wycinanie
 szablonów i wiele innych. Wykonujemy szablony do malowania na ścianach, szablony
 do malowania po tkaninach technicnzych itp. Dysponujemy jednym z najnowyszych

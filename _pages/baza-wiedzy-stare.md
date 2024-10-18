@@ -1,15 +1,6 @@
 ---
-layout: page
 title: Baza wiedzy - stare
 subtitle: Przydatne informacje
-order: 6
-
-heroImage: assets/images/bg1.jpg
-breadcrumbs:
-  - href: /
-    link: Home
-  - href: /baza-wiedzy
-    link: Baza wiedzy
 ---
 
 # Odporność na promienie UV
