@@ -1,8 +1,8 @@
 ---
-layout: home
 title: Home
+
 permalink: /
-order: 1
+layout: home
 
 heroImage: assets/images/home-bg.jpg
 heroTop: PHU Safex Krzysztof Skodowski
