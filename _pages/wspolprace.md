@@ -1,15 +1,8 @@
 ---
-layout: page-partners
 title: Współprace
 subtitle: Nasi kontrahenci
-order: 5
 
-heroImage: assets/images/bg1.jpg
-breadcrumbs:
-  - href: /
-    link: Home
-  - href: /wspolprace
-    link: Współprace
+layout: page-partners
 ---
 
 Lorem markdownum Thestiadae iuvenes stirpe, in arcuit, iam quodque utque dum

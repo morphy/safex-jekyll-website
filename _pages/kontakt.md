@@ -1,15 +1,8 @@
 ---
-layout: page-sidebar
 title: Kontakt
 subtitle: Kontakt z Safex
-order: 4
 
-heroImage: assets/images/bg1.jpg
-breadcrumbs:
-  - href: /
-    link: Home
-  - href: /kontakt
-    link: Kontakt
+layout: page-sidebar
 ---
 
 # Flebam successu populos in nata et inmota
