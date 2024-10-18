@@ -1,4 +1,19 @@
 ---
-title: Hala produkcyjna firmy Safex Plandeki
+title: Hala
+subtitle: Test
+order: 1
 ---
-Posiadamy dużą, nowoczesną halę produkcyjną, która została specjalnie zaprojektowana i zbudowana z myślą o produkcji plandek najwyższej jakości. Wyposażona w najnowocześniejsze maszyny i technologie, nasza hala umożliwia efektywną i precyzyjną realizację nawet najbardziej wymagających zamówień. Dzięki przestronnej powierzchni i zaawansowanemu parkowi maszynowemu możemy szybko dostosowywać się do indywidualnych potrzeb naszych klientów, zachowując przy tym najwyższe standardy jakości. Nasza hala produkcyjna to serce firmy, w którym doświadczenie i pasja łączą się z innowacyjnością, pozwalając nam nieustannie rozwijać ofertę i podnosić jakość naszych produktów.
+
+Oferujemy usługę wycinania profesjonalnym ploterem tnącym. Głównym zadaniem tej
+maszyny to wycinanie grafiki, wycinanie napisów, wycinanie liter, wycinanie
+szablonów i wiele innych. Wykonujemy szablony do malowania na ścianach, szablony
+do malowania po tkaninach technicnzych itp. Dysponujemy jednym z najnowyszych
+urządzeń tego typu - ploterem tnącym SUMMA S2 160 T o realnej szerokości
+wycinanej grafiki do 158cm i 12m długości. Maszyna umożliwia wycinanie szablonów
+z dużą precyzyją dzięki głowicy tnącej z aktywnym nożem. Takie rozwiązanie
+oparte jest na zastosowaniu dodatkowego silnika obracającego nóż przy zmianie
+kierunku cięcia. Sprawia to, że parametry tego typu ploterów są rewelacyjne.
+Nacisk plotera to 600 g, a prędkość maksymalna to 1,14 m/s. Połączenie systemu
+automatycznego pozycjonowania, niesamowitej dokładności i szybkości umożliwia
+nam obniżenie kosztów wycinania wszelkiego rodzaju nalepek i stickerów w
+procesie cięcia po obrysie - zwłaszcza dla dużych serii.
