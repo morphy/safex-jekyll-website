@@ -1,5 +1,7 @@
 ---
 title: Ploter tnący
+subtitle: Test
+order: 2
 ---
 
 Oferujemy usługę wycinania profesjonalnym ploterem tnącym. Głównym zadaniem tej

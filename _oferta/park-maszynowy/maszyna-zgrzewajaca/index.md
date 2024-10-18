@@ -1,5 +1,7 @@
 ---
 title: Maszyna zgrzewająca
+subtitle: Test
+order: 3
 ---
 
 Oferujemy usługę wycinania profesjonalnym ploterem tnącym. Głównym zadaniem tej

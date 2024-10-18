@@ -1,5 +1,7 @@
 ---
 title: Hala
+subtitle: Test
+order: 1
 ---
 
 Oferujemy usługę wycinania profesjonalnym ploterem tnącym. Głównym zadaniem tej
