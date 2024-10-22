@@ -1,7 +1,7 @@
 ---
 title: Produkty na zamówienie
 subtitle: Brezent, banery, maty
-order: 9
+order: 6
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
