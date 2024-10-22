@@ -2,18 +2,17 @@
 title: Plandeki na piaskownice
 ---
 
-Nowe przepisy UE wymagają stosowania zabezpieczeń na piaskownice dla dzieci.
-Pokrowce mają chronić piaskownice przed zanieczyszczeniami pochodzenia
-zwierzęcego. Osłona piaskownicy nie jest zbyt ciężka, aby z łatwością dało się
-ją zakładać i zdejmować, jest jednocześnie wytrzymała i odporna na promienie UV.
+Zgodnie z nowymi przepisami UE, piaskownice dla dzieci muszą być zabezpieczone
+przed zanieczyszczeniami pochodzenia zwierzęcego. Nasze pokrowce skutecznie
+chronią piaskownice, a jednocześnie są lekkie, co ułatwia ich zakładanie i
+zdejmowanie. Są także wytrzymałe i odporne na promieniowanie UV.
 
-Plandeki na piaskownice wykonujemy z materiału powlekanego PCV Scanplan 5135
-(gramatura 440g/m2). Plandeka wykonana jest jako kaptur z gumą po obwodzie do
-mocowania do fundamentu piaskownicy. Na powierzchni plandeki wykonujemy otwory
-do spustu wody.
+Plandeki produkujemy z powlekanego materiału PVC Scanplan 5135 o gramaturze 440
+g/m². Każda plandeka ma formę czapki z gumą po obwodzie, co pozwala na stabilne
+mocowanie do fundamentu piaskownicy. Dodatkowo, na powierzchni plandeki
+wykonujemy otwory odprowadzające wodę.
 
-Dysponujemy ploterem tnącym o dużej powierzchni roboczej, dzięki czemu możemy
-szybko i tanio wykonać loga, nadruki, grafiki i napisy na plandekach. Grafiki
-(jedno lub dwukolorowe) wykonujemy poprzez wycięcie szablonu i naniesienie
-specjalnej farby do plandek. Grafika wykonana taką metodą jest znacznie trwalsza
-niż druk solwentowy.
+Podaj nam realny i dokładny co do centymetra rozmiar piaskownicy wraz z jej
+wysokością. Przygotujemy projekt odpowiednio większej plandeki, tak aby
+zakładanie i zdejmowanie było łatwe. Nie zaokrąglaj wymiarów oraz nie wysyłaj
+nam zdjęć miarki.

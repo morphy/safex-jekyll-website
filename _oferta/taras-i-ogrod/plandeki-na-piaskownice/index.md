@@ -17,6 +17,9 @@ ciężkiego matreiału powlekanego PCV Scanplan 5135 lub niekiedy innego podobne
 ok.: 440g/m2. Plandeka wykonana jest jako "kaptur" z gumą po obwodzie do
 mocowania do fundamentu piaskownicy.
 
-     Nasza firma dysponuje ploterem tnacym i możemy tanio i szybko wykonać  narduki grafiki i napisy , logo itp jedno lub dwukolorowe  na plandekach na piaskownice metodą wycinanych szablonów i nanoszenia specjalnej farby do plandek . Grafika wykonana taką metodą  jest znacznie trwalsza niz druk solwentowy.
+Nasza firma dysponuje ploterem tnacym i możemy tanio i szybko wykonać narduki
+grafiki i napisy , logo itp jedno lub dwukolorowe na plandekach na piaskownice
+metodą wycinanych szablonów i nanoszenia specjalnej farby do plandek . Grafika
+wykonana taką metodą jest znacznie trwalsza niz druk solwentowy.
 
 Na powierzchni plandeki wykonujemy otwory do spustu wody.

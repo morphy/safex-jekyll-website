@@ -4,11 +4,27 @@ subtitle: Brezent, banery, maty
 order: 6
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Specjalizujemy się w produkcji plandek, kotar, zadaszeń, zbiorników i powłok na
+hale namiotowe. Posiadamy zaawansowaną wiedzę, oprogramowanie i park maszynowy,
+umożliwiający realizację najbardziej skomplikowanych struktur membranowych.
 
-Banery reklamowe z grafiką i napisami, plandeki na tunele pieczarkarniowe
-plandeki na wymiar, powłoki wielkich hal pneumatycznych przeszkody pneumatyczne
-dmuchane, skimbord, zbiorniki przenośne
+Każde zamówienie traktujemy indywidualnie, co pozwala idealnie dopasować
+plandekę do wymagań klienta – zarówno pod względem wymiarów, jak i właściwości
+materiałowych. Nasza technologia HF (wysoka częstotliwość) gwarantuje
+wytrzymałe, szczelne zgrzewy, a dzięki ploterowi 3,1x20m wykonujemy precyzyjne
+rozkroje membran.
+
+Plandeki na wymiar mają szerokie zastosowanie – od budownictwa po rolnictwo.
+Możliwość dostosowania do dowolnych konstrukcji i wysoka jakość materiałów
+zapewniają ich trwałość i odporność na warunki atmosferyczne. Przed zamówieniem
+ustalamy szczegóły, by dobrać odpowiednie tkaniny, odporne na specyficzne
+warunki, jak wilgoć czy skrajne temperatury.
+
+Realizujemy zlecenia szybko i precyzyjnie. Plandeki na zamówienie doskonale
+sprawdzają się w zabezpieczaniu towarów, nawet w trudnych warunkach pogodowych.
+Zachęcamy do kontaktu – pomożemy dobrać idealne rozwiązanie zgodnie z
+indywidualnym projektem.
+
+Specjalizujemy się w produkcji plandek na zamówienie, dostosowanych do różnych
+konstrukcji. Zapewniamy trwałość, precyzyjne wykonanie i odporność na trudne
+warunki pogodowe.
