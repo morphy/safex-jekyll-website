@@ -1,7 +1,7 @@
 ---
 title: Automatyczna wycena
 subtitle: Test
-order: 5
+order: 9
 ---
 
 Safex Plandeki odznacza się na rynku specjalizacją w wykonywaniu nietypowych
