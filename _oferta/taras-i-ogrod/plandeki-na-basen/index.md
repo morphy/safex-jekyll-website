@@ -1,5 +1,5 @@
 ---
-title: Plandeki na basen
+title: Plandeki na baseny
 subtitle: subtitle
 order: 6
 ---
@@ -20,9 +20,5 @@ wymiarów basenu, co zapewnia idealne dopasowanie i skuteczną ochronę. Oferuje
 również różne opcje mocowania, dzięki czemu plandeka jest stabilnie przymocowana
 i łatwa w montażu.
 
-Wybierając naszą plandekę na basen, zyskujesz nie tylko wygodę, ale także
-oszczędność, ponieważ zmniejszasz potrzebę częstego czyszczenia i konserwacji
-wody, przedłużając jednocześnie żywotność swojego basenu.
-
 w przypadku basenów z tunelami, rurki aluminiowe są do nabycia we własnym
-zakresie
+zakresie.
