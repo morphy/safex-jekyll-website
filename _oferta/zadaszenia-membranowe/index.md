@@ -1,6 +1,6 @@
 ---
-title: Zadaszenia membranowe
-subtitle: Dachy, namioty
+title: Zadaszenia
+subtitle: Zadaszenia membranowe, Plandeki kedrowe, Dachy i namioty
 order: 7
 ---
 
