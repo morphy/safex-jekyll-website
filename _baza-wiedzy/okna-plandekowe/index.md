@@ -1,6 +1,7 @@
 ---
 title: Cała wiedza o oknach plandekowych od firmy Safex Plandeki
 subtitle: 
+order: 1
 ---
 
 Cała wiedza o oknach plandekowych od firmy Safex Plandeki
