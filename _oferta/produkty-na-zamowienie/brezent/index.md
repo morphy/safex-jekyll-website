@@ -2,4 +2,8 @@
 title: Plandeki brezentowe
 ---
 
-Specjalizujemy się w produkcji plandek z naturalnych tkanin brezentowych, które są impregnowane do specjalnych zastosowań. Tkaniny brezentowe wyróżniają się wyjątkowo wysoką odpornością na wysokie temperatury, co sprawia, że są idealne tam, gdzie nie można zastosować standardowych tkanin powlekanych PCV. Doskonale sprawdzają się na przykład podczas transportu gorącej masy asfaltowej.
+Safex Plandeki posiada w ofecie rozwiązania okryciowe z tkanin brezentowych. Brezenty dzielimy na naturalne i impregnowane. Brezent naturalny (lniany) nadaje się lepiej do przewożenia gorącej masy ze względu na odporność na temperature. 
+Len może wytrzymać krótkotrwałą ekspozycję na temperatury do około 200-230°C bez poważnego uszkodzenia. Choć len jest odporny na ciepło, jest materiałem łatwopalnym i może się zapalić w kontakcie z otwartym płomieniem.
+
+** protip: Odradzamy stosowanie brezentu impregnowanego. Posiada większą odporność mechaniczną oraz jest wodoporny, ale jest podatny na zlepienie się z asfaltem. Do zastosowań okryciowych należy użyć plandekę PCV. **
+
