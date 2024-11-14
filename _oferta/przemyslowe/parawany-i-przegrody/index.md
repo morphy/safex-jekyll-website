@@ -22,6 +22,6 @@ zabezpieczają delikatne obiekty, takie jak karoserie samochodowe, przed
 uszkodzeniami, zapewniając tym samym bezpieczeństwo i ochronę podczas
 wykonywania różnych prac.
 
-zamiast budować aluminiowy stelaż, można wykożystać do parawanów ogrodzenia
+** protip: zamiast budować aluminiowy stelaż, można wykożystać do parawanów ogrodzenia
 budowlane. Pozwala to na znaczne zmniejszenie kosztów, jednak trzeba ograniczyć
-się do typowych rozmiarów.
+się do typowych rozmiarów. **

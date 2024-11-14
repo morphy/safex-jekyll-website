@@ -22,5 +22,5 @@ konstrukcji usztywniającej. Dzięki temu są one wyjątkowo lekkie, łatwe do
 przenoszenia i zajmują mało miejsca po złożeniu. To mobilne rozwiązanie sprawdza
 się doskonale tam, gdzie kluczowa jest elastyczność i wygoda przechowywania.
 
-Materiały na wanny ociekowe najczęściej występują w kolorze pomarańczowym.
-Najmniejszy sensowny rozmiar wanny pneumatycznej to 30cm.
+**Materiały na wanny ociekowe najczęściej występują w kolorze pomarańczowym.
+Najmniejszy sensowny rozmiar wanny pneumatycznej to 30cm.**
