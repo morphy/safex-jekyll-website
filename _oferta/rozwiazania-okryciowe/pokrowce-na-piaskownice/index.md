@@ -12,7 +12,7 @@ g/m². Każda plandeka ma formę czapki z gumą po obwodzie, co pozwala na stabi
 mocowanie do fundamentu piaskownicy. Dodatkowo, na powierzchni plandeki
 wykonujemy otwory odprowadzające wodę.
 
-Podaj nam realny i dokładny co do centymetra rozmiar piaskownicy wraz z jej
+**Podaj nam realny i dokładny co do centymetra rozmiar piaskownicy wraz z jej
 wysokością. Przygotujemy projekt odpowiednio większej plandeki, tak aby
 zakładanie i zdejmowanie było łatwe. Nie zaokrąglaj wymiarów oraz nie wysyłaj
-nam zdjęć miarki.
+nam zdjęć miarki.**
