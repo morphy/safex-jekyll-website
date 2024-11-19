@@ -20,12 +20,11 @@ Szczególną uwagę zwracamy na wykonanie systemu zamknięcia plandeki. Stosujem
 sprawdzone rozwiązania, które eliminują możliwość przedostania się wody do
 wnętrza przyczepki podczas jazdy, co chroni przewożone towary przed
 zawilgoceniem i uszkodzeniem. Nasze plandeki można wyposażyć w różne typy
-mocowań, takie jak linki elastyczne, paski z klamrami lub inne systemy,
-dostosowane do potrzeb i wymagań klienta.
+mocowań, takie jak linki elastyczne, linki celne czy gumę expandor. Na specjalne zamówienie możemy wykonać zamknięcie typu "jaskółczy ogon" o zwiększonej szczelności.
 
 Dzięki precyzyjnemu wykonaniu i zastosowaniu najwyższej jakości materiałów,
 nasze plandeki na przyczepki zapewniają trwałą, niezawodną ochronę i komfort
-użytkowania przez wiele la
+użytkowania przez wiele lat.
 
-Każda przeczepka jest inną więc pamiętaj wykonać zdjęcia z każdej strony.
-Pamiętaj o wszystkich wystających elementach oraz elementach mocowania.
+**Każda przeczepka jest inna więc pamiętaj wykonać zdjęcia z każdej strony.
+Pamiętaj o wszystkich wystających elementach oraz elementach mocowania.**
