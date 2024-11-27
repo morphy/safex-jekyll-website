@@ -1,5 +1,6 @@
 ---
 title: Ekrany akustyczne dla amfiteatru w Świnoujściu
+order: 4
 ---
 
 Mieliśmy przyjemność zrealizować projekt ekranów akustycznych dla amfiteatru w

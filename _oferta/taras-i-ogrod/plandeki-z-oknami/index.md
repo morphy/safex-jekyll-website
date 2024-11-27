@@ -20,7 +20,5 @@ elegancki wygląd bez zagnieceń. Oferujemy różnorodne systemy mocowania, taki
 jak oczka, przekrętki, a także dodatkowe opcje, jak fartuchy ochronne oraz
 stalowe profile, co zwiększa ich funkcjonalność i trwałość.
 
-Upewnij się czy miejsce w którym chcesz zamontować okno jest do tego
-odpowiednie. Aby okno stworzyło równą taflę bez zmarszczek belki okna muszą być
-równe. Mierząc belki, podawaj nam odległość między nimi, od wewnętrznych
+Upewnij się czy miejsce w którym chcesz zamontować okno jest do tego odpowiednie. Aby okno stworzyło równą taflę bez zmarszczek, belki okna muszą tworzyć jedną płaszczyznę. Mierząc belki, podawaj nam odległość między nimi, od wewnętrznych
 krawędzi. Schemat pomiarów możesz znaleźć poniżej.

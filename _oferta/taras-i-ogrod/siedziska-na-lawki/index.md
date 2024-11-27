@@ -4,10 +4,9 @@ subtitle: subtitle
 order: 4
 ---
 
-WWykonujemy na zamowienie bardzo trwałe i mocne siedziska na ławki ogrodowe z
-siatkipowlekanej PVC Scanplan 5228 i 5225. Zgrzewamy materiał zaawansowaną
-maszyną wysokiej częstotliwości (w.cz.) Do zgrzewania stosująemy specjalną
-elektrodę ryflowaną dającą bardzo wytrzymały i estetyczny zgrzew.
+Wykonujemy na zamowienie bardzo trwałe i mocne siedziska na ławki ogrodowe z
+siatkipowlekanej PVC Scanplan 5228.
+Wymiana siedziska na nowe, wykonane z technicznej tkaniny ma szerego zalet, zapobiega bowiem konieczności zakupu nowej bujawki, zmniejsza ilość odpadów z tworzyw sztucznych oraz gwarantuje często większą trwałość niż orginalne siedzisko bujawki.
+Siatki posiadamy w 5 kolorach. 
 
-Stosowanie siatek na siedziska mebli ogrodowych , jachtów itp , a nie pełnych
-plandek ułatwia ich wysychanie po deszczu i zapobiega powstawaniu zagrzybień.
+Aby mieć pewność że nasze poszycie będzie pasować, prześlij nam stare na wzór. Pamiętaj aby dołączyć do paczki swój adres, numer telefonu oraz adres email. Poszycie bujawki najlepiej przesłać na paczkomat GDY45M (792666016)
