@@ -10,6 +10,3 @@ charakterystykę tej branży dbamy aby nasz magazyn był wyposażony w odpowiedn
 materiały, w tym z koniecznymi atestami trudnopalności. Dzięki temu podejmujemy
 się realizacji w krótkich terminach.
 
-kolejność services: -siatki estradowe -zadaszenia scen -ekrany akustyczne -dachy
-sceniczne bezbarwne -ew plandeki trudnopalne (fr, potrzebowałbym zdjęcia
-elementu sceny z plandeki)

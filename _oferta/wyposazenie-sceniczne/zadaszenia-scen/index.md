@@ -1,5 +1,6 @@
 ---
 title: Zadaszenia scen
+order: 2
 ---
 
 Specjalizujemy się w projektowaniu i produkcji zadaszeń dla scen, estrad oraz

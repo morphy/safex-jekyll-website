@@ -1,5 +1,6 @@
 ---
 title: Bezbarwne dachy sceniczne
+order: 3
 ---
 
 Mieliśmy przyjemność współpracować z firmą SETLIGHT, dla której wykonaliśmy
