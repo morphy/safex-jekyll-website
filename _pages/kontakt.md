@@ -1,6 +1,7 @@
 ---
 title: Kontakt
 subtitle: Kontakt z Safex
+order: 6
 
 layout: page-sidebar
 ---

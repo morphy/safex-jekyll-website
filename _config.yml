@@ -14,26 +14,16 @@ defaults:
       type: pages
     values:
       permalink: /:basename/
-      heroImage: assets/images/bg1.jpg
+      heroImage: assets/images/bg1
       layout: page
   - scope:
       path: "_oferta"
     values:
       layout: page-collection
-      useCustomSingleNodePage: true
-      galleryOnlyInLeafNodes: true
-      hideItselfInFileList: true
-      removeIndexFromFilename: true
-      displayLeafDirectoriesAsFiles: true
   - scope:
       path: "_baza-wiedzy"
     values:
       layout: page-collection
-      useCustomSingleNodePage: true
-      galleryOnlyInLeafNodes: true
-      hideItselfInFileList: true
-      removeIndexFromFilename: true
-      displayLeafDirectoriesAsFiles: true
 
 collections:
   oferta:
@@ -52,8 +42,7 @@ exclude:
   - tailwind.config.js
   - package.json
   - package-lock.json
-  - assets/css/
-  - assets/images_source/
+  - assets/scss/
   - README.md
   - readme-img-1.png
   - readme-img-2.png

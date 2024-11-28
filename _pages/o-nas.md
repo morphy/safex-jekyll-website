@@ -1,6 +1,7 @@
 ---
 title: O nas
 subtitle: O firmie Safex
+order: 3
 ---
 
 # Plandeki, siatki i membrany wysokoprężone – Ponad 30 lat tradycji PHU SAFEX
