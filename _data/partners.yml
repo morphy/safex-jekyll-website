@@ -1,159 +1,159 @@
 - name: ANWIL S.A.
   href: https://anwil.orlen.pl/
-  image: /wspolprace/anwil
+  image: assets/images/wspolprace/anwil.png
 
 - name: Budimex S.A.
   href: https://budimex.pl/
-  image: /wspolprace/budimex
+  image: assets/images/wspolprace/budimex.png
 
 - name: CRIST S.A.
   href: https://www.crist.com.pl/
-  image: /wspolprace/crist
+  image: assets/images/wspolprace/crist.png
 
 - name: Dekpol S.A.
   href: https://dekpol.pl/
-  image: /wspolprace/dekpol
+  image: assets/images/wspolprace/dekpol.png
 
 - name: Exalo Drilling S.A.
   href: https://www.exalo.pl/
-  image: /wspolprace/exalo-drilling
+  image: assets/images/wspolprace/exalo-drilling.png
 
 - name: FAST Shipyard Services Sp. z o.o.
   href: https://www.fast.pl/
-  image: /wspolprace/fast-shipyard-services
+  image: assets/images/wspolprace/fast-shipyard-services.png
 
 - name: Grupa Azoty S.A.
   href: https://grupaazoty.com/
-  image: /wspolprace/grupa-azoty
+  image: assets/images/wspolprace/grupa-azoty.png
 
 - name: Grupa Lotos S.A.
   href: https://www.lotos.pl/
-  image: /wspolprace/grupa-lotos
+  image: assets/images/wspolprace/grupa-lotos.png
 
 - name: J.W. Construction Sp. z o.o.
   href: https://jwc.pl/
-  image: /wspolprace/jw-construction
+  image: assets/images/wspolprace/jw-construction.png
 
 - name: Künz GmbH
   href: https://www.kuenz.com/
-  image: /wspolprace/kunz
+  image: assets/images/wspolprace/kunz.png
 
 - name: Lubawa S.A.
   href: https://lubawa.com.pl/
-  image: /wspolprace/lubawa
+  image: assets/images/wspolprace/lubawa.png
 
 - name: Mirbud S.A.
   href: https://mirbud.pl/
-  image: /wspolprace/mirbud
+  image: assets/images/wspolprace/mirbud.png
 
 - name: Mostostal Kielce S.A.
   href: https://www.mostostal-kielce.com.pl/
-  image: /wspolprace/mostostal-kielce
+  image: assets/images/wspolprace/mostostal-kielce.png
 
 - name: Mostostal Płock S.A.
   href: https://www.mostostal-plock.pl/
-  image: /wspolprace/mostostal-plock
+  image: assets/images/wspolprace/mostostal-plock.png
 
 - name: Mostostal Zabrze S.A.
   href: https://mz.pl/
-  image: /wspolprace/mostostal-zabrze
+  image: assets/images/wspolprace/mostostal-zabrze.png
 
 - name: mToilet Spółka z o.o.
   href: https://mtoilet.pl/
-  image: /wspolprace/mtoilet
+  image: assets/images/wspolprace/mtoilet.png
 
 - name: Muehlhan Holding GmbH
   href: https://www.muehlhan.com/
-  image: /wspolprace/muehlhan
+  image: assets/images/wspolprace/muehlhan.png
 
 - name: NAFTO S.A.
   href: https://www.nafto.pl/
-  image: /wspolprace/nafto
+  image: assets/images/wspolprace/nafto.png
 
 - name: Naftoremont-Naftobudowa sp. z o.o.
   href: https://www.polimex-mostostal.pl/grupa-kapitalowa/naftoremont-naftobudowa
-  image: /wspolprace/naftoremont-naftobudowa
+  image: assets/images/wspolprace/naftoremont-naftobudowa.png
 
 - name: STOCZNIA REMONTOWA NAUTA S.A.
   href: https://nauta.pl/
-  image: /wspolprace/nauta
+  image: assets/images/wspolprace/nauta.png
 
 - name: P.U.H. OLIMPIC Sp. z o.o.
   href: https://www.olimpic.com.pl/
-  image: /wspolprace/olimpic
+  image: assets/images/wspolprace/olimpic.png
 
 - name: PGE Polska Grupa Energetyczna S.A.
   href: https://www.gkpge.pl/
-  image: /wspolprace/pge
+  image: assets/images/wspolprace/pge.png
 
 - name: PGE GiEK S.A.
   href: https://pgegiek.pl/
-  image: /wspolprace/pgegiek
+  image: assets/images/wspolprace/pgegiek.png
 
 - name: PGNiG TERMIKA Energetyka Przemysłowa S.A.
   href: https://www.ptep.pl/
-  image: /wspolprace/pgnig-termika
+  image: assets/images/wspolprace/pgnig-termika.png
 
 - name: Polska Grupa Zbrojeniowa S.A.
   href: https://grupapgz.pl/
-  image: /wspolprace/pgz
+  image: assets/images/wspolprace/pgz.png
 
 - name: POLWAR S.A.
   href: http://www.polwar.pl/
-  image: /wspolprace/polwar
+  image: assets/images/wspolprace/polwar.png
 
 - name: PORR S.A.
   href: https://porr.pl/pl/
-  image: /wspolprace/porr
+  image: assets/images/wspolprace/porr.png
 
 - name: Zarząd Morskiego Portu Gdańsk S.A.
   href: https://www.portgdansk.pl/
-  image: /wspolprace/port-gdansk
+  image: assets/images/wspolprace/port-gdansk.png
 
 - name: Zarząd Morskiego Portu Gdynia S.A.
   href: https://www.port.gdynia.pl/
-  image: /wspolprace/port-gdynia
+  image: assets/images/wspolprace/port-gdynia.png
 
 - name: Gdańska Stocznia „Remontowa” im. J.Piłsudskiego S.A.
   href: https://www.remontowa.com.pl/
-  image: /wspolprace/remontowa
+  image: assets/images/wspolprace/remontowa.png
 
 - name: RENEX z o.o. sp.k.
   href: https://www.renex.pl/
-  image: /wspolprace/renex
+  image: assets/images/wspolprace/renex.png
 
 - name: Scania Polska S.A.
   href: https://www.scania.com/pl/pl/home.html
-  image: /wspolprace/scania
+  image: assets/images/wspolprace/scania.png
 
 - name: SETLIGHT Przemysław Wrembel
   href: https://www.setlight.pl/
-  image: /wspolprace/setlight
+  image: assets/images/wspolprace/setlight.png
 
 - name: Stena Recycling Sp. z o.o.
   href: https://www.stenarecycling.com/
-  image: /wspolprace/stena-recycling
+  image: assets/images/wspolprace/stena-recycling.png
 
 - name: SUNREEF VENTURE S.A.
   href: https://sunreef-venture.com/
-  image: /wspolprace/sunreef-yachts
+  image: assets/images/wspolprace/sunreef-yachts.png
 
 - name: Supersnow S.A.
   href: https://www.supersnow.pl/
-  image: /wspolprace/supersnow
+  image: assets/images/wspolprace/supersnow.png
 
 - name: Swisspearl Polska Sp. z o.o.
   href: https://www.swisspearl.com/
-  image: /wspolprace/swisspearl
+  image: assets/images/wspolprace/swisspearl.png
 
 - name: TOI TOI Polska Sp. z o.o.
   href: https://www.toitoi.pl/
-  image: /wspolprace/toitoi
+  image: assets/images/wspolprace/toitoi.png
 
 - name: Valmet Oyj
   href: https://www.valmet.com/
-  image: /wspolprace/valmet-technologies
+  image: assets/images/wspolprace/valmet-technologies.png
 
 - name: Zakład Budowy Maszyn "ZREMB–CHOJNICE" S.A.
   href: https://zrembchojnice.pl/
-  image: /wspolprace/zremb-chojnice
+  image: assets/images/wspolprace/zremb-chojnice.png
