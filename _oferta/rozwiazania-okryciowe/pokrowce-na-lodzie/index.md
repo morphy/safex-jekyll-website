@@ -6,7 +6,7 @@ Oferujemy pokrowce na łodzie wykonywane na zamówienie, dopasowane do wymiarów
 jednostki. Tworzymy je z trwałych tkanin PVC, które są odporne na warunki
 atmosferyczne i łatwe w montażu, co umożliwia szybkie zakładanie i zdejmowanie.
 
-Naszym standardowym materiałem jest PVC Scanplan 5125 (450 g/m²), który zapewnia
+Naszym standardowym materiałem na łodzie jest PVC Scanplan 5140 (530 g/m²), który zapewnia
 ochronę przed UV, deszczem i wiatrem, sprawdzając się zarówno latem, jak i zimą.
 
 Dostosowujemy system mocowania do potrzeb klienta, oferując różne opcje, takie
