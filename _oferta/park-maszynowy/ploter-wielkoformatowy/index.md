@@ -1,5 +1,6 @@
 ---
 title: Ploter Wielkoformatowy 3,1x21,2m
+order: 6
 ---
 Podejmujemy się trudnych technologicznie projektów wymagających specjalistycznych maszyn do tworzenia skomplikowanych struktur przestrzennych z PCV. Nasz wielkoformatowy ploter o **powierzchni kreślenia 3,1 m × 21,2 m** umożliwia precyzyjne przygotowanie złożonych wykrojów, uwzględniając rozciągliwość materiału.
 

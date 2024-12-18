@@ -1,5 +1,6 @@
 ---
 title: Plandeki na piaskownice
+order: 1
 ---
 
 Zgodnie z nowymi przepisami UE, piaskownice dla dzieci muszą być zabezpieczone

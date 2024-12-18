@@ -1,5 +1,6 @@
 ---
 title: Szwalnia przemysłowa z maszynami Typical
+order: 1
 ---
 Świadczymy usługi szycia profesjonalnymi maszynami przemysłowymi
 

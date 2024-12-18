@@ -1,5 +1,6 @@
 ---
 title: Plandeki na przyczepki
+order: 2
 ---
 
 Specjalizujemy się w produkcji plandek na przyczepki, które wykonujemy na

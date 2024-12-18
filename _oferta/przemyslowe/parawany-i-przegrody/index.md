@@ -1,5 +1,6 @@
 ---
 title: Parawany, przegrody
+order: 6
 ---
 
 Oferujemy lekkie, przenośne osłony idealne do oddzielania stanowisk roboczych

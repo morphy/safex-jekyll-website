@@ -1,5 +1,6 @@
 ---
 title: Pokrowce na łodzie
+order: 3
 ---
 
 Oferujemy pokrowce na łodzie wykonywane na zamówienie, dopasowane do wymiarów

@@ -1,5 +1,6 @@
 ---
 title: Kotary i kurtyny oddzielające przestrzeń przemysłową
+order: 1
 ---
 
 

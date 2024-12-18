@@ -1,5 +1,6 @@
 ---
 title: Wanny ociekowe
+order: 4
 ---
 
 Specjalizacją firmy Safex Plandeki są wanny ociekowe z konstrukcjami

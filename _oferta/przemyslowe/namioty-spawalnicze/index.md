@@ -1,5 +1,6 @@
 ---
 title: Poszycia namiotów spawalniczych
+order: 5
 ---
 
 Nasza oferta obejmuje wysokiej jakości poszycia dla namiotów serwisowych do prac spawalniczych, wykonane z tkaniny o podwyższonej trudnopalności. Materiał ten zapewnia dodatkowe bezpieczeństwo, minimalizując ryzyko zapłonu w przypadku kontaktu z iskrami czy gorącymi elementami podczas spawania. Zewnętrzna strona tkaniny jest w kolorze niebieskim, natomiast wewnętrzna strona jest biała, co zapewnia doskonałe doświetlenie wnętrza. Dzięki temu pracownik ma lepszą widoczność, co przekłada się na precyzję i jakość wykonywanych prac.
