@@ -1,5 +1,6 @@
 ---
 title: Taśmociągi i podajniki
+order: 3
 ---
 
 Nasza firma specjalizuje się w produkcji taśmociągów i podajników wykonanych z

@@ -1,5 +1,6 @@
 ---
 title: Zabezpieczenia wagonów typu RES
+order: 5
 ---
 
 Oferujemy plandeki z folii zbrojonej przeznaczone do zabezpieczania wagonów typu RES. Plandeki mają wymiary 20,4 x 4,5 metra, gramaturę 220 g/m² i wagę 22 kg. Pakowane są w rolki, co ułatwia ich transport i przechowywanie.

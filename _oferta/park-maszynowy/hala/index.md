@@ -1,7 +1,7 @@
 ---
 title: Hala produkcyjna
 subtitle: Test
-order: 1
+order: 2
 ---
 Posiadamy dużą, nowoczesną halę produkcyjną, która została specjalnie zaprojektowana i zbudowana z myślą o produkcji plandek najwyższej jakości. Długość wynosi **40 m**, zaś powierzchnia **800m2**. 
  Wyposażona w najnowocześniejsze maszyny i technologie, nasza hala umożliwia efektywną i precyzyjną realizację nawet najbardziej wymagających zamówień.

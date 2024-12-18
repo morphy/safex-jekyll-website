@@ -1,6 +1,6 @@
 ---
 title: Plandeki Antykryzysowe
-subtitle: czyli ochrona przed promieniowaniem ultrafioletowym
+subtitle: 
 
 ---
 

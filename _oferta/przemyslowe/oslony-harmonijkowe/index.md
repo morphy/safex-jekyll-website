@@ -1,5 +1,6 @@
 ---
 title: Osłony harmonijkowe
+order: 2
 ---
 
 Safex Plandeki ma duże doświadczenie w produkcji osłon harmonijkowych do różnego

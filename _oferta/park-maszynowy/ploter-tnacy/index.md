@@ -1,7 +1,7 @@
 ---
 title: Ploter tnący
 subtitle: Test
-order: 2
+order: 5
 ---
 
 Oferujemy usługę wycinania profesjonalnym ploterem tnącym **SUMMA S2 160 T**. Głównym zadaniem tej

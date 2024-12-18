@@ -1,5 +1,6 @@
 ---
 title: Plandeki na kontenery Open Top
+order: 4
 ---
 
 Nasza firma oferuje plandeki dedykowane do kontenerów typu Open Top. Dzięki
