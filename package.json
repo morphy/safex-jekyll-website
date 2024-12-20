@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "postinstall": "node -e \"const { sync: exists } = require('command-exists'); if (!exists('ruby')) { console.log('Ruby is not installed'); process.exit(1); } if (!exists('jekyll')) { console.log('Jekyll is not installed'); process.exit(1); } if (!exists('bundle')) { console.log('Bundle is not installed'); process.exit(1); }\" && bundle install",
+    "postinstall": "cd src && bundle install",
     "copy-plugins": "shx cp -r src/_themes/safex/_plugins ./src/",
     "dev": "npm run copy-plugins && cd src && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload",
     "dev:verbose": "npm run copy-plugins && cd src && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload --verbose",
@@ -13,7 +13,6 @@
   },
   "devDependencies": {
     "@shopify/prettier-plugin-liquid": "^1.5.0",
-    "command-exists": "^1.2.9",
     "cross-env": "^7.0.3",
     "prettier": "^3.3.2",
     "shx": "^0.3.4"
