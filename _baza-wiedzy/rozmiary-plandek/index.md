@@ -1,6 +1,5 @@
 ---
 title: Rozmiary plandek - różnica pomiędzy wymiarem rzeczywistym a wymiarem "cut size"
-subtitle: Test
 ---
 
 Różnica między rzeczywistym wymiarem plandeki a wymiarem podawanym przez niektórych sprzedawców, zaniżonym przez tzw. "cut size" (rozmiar cięcia), polega na tym, że podczas produkcji plandeki używa się pełnych arkuszy tkaniny, a następnie łączy się je ze sobą, co wiąże się z pewną utratą materiału. W procesie łączenia tkaniny, zarówno przy zgrzewaniu, jak i wzmacnianiu krawędzi, dochodzi do straty w wymiarach – na każdym połączeniu można stracić od 5 do 7 cm, a dodatkowo podobne wartości mogą zostać odjęte z każdej krawędzi na wzmocnienia i zakładki.

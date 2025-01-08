@@ -1,6 +1,6 @@
 ---
-title: Różnica między "filtrem UV" a "odpornością na UV"
-subtitle: czyli ochrona przed promieniowaniem ultrafioletowym
+title: Rodzaje zamknięć
+
 
 ---
 
