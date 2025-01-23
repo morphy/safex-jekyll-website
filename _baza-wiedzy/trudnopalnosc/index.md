@@ -3,7 +3,7 @@ title: Trudnopalność plandek polietylenowych
 subtitle: Test
 ---
 
-Trudnopalność plandek polietylenowych
+
 Wszystkie tworzywa sztuczne z grupy poliolefin, w tym polietylen i polipropylen, są palne, ponieważ składają się wyłącznie z atomów węgla i wodoru, różniących się tylko długością łańcuchów cząsteczkowych. W produkcji tanich plandek najczęściej stosuje się polietylen o niskiej i wysokiej gęstości oraz polipropylen. Aby doszło do zapłonu takiej plandeki, potrzebna jest wysoka temperatura oraz obecność płomienia.
 
 Aby zmniejszyć palność plandek, do tworzywa, z którego jest wykonana tkanina, dodaje się specjalne chemiczne dodatki. Dzięki nim materiał jest bardziej odporny na zapłon, spala się wolniej, a w niektórych przypadkach płomień może sam zgasnąć, jeśli nie występują dodatkowe czynniki podtrzymujące ogień.

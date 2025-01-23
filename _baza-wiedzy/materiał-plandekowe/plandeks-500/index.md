@@ -1,3 +1,0 @@
----
-title: Plandeks 550
----
