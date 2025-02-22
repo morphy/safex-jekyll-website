@@ -3,7 +3,6 @@ title: Plandeki na przyczepki
 order: 2
 ---
 
-## 1. Plandeki na przyczepki
 
 **Specjalizujemy się w produkcji plandek na przyczepki**, które wykonujemy na zamówienie, dostosowując je do indywidualnych wymiarów pojazdu. Oferujemy zarówno plandeki na przyczepki płaskie, jak i ze stelażem. Nasze produkty tworzymy z wytrzymałych tkanin fińskiej firmy Scantarp, co gwarantuje **długotrwałą ochronę** przewożonego ładunku w różnych warunkach atmosferycznych.
 

@@ -3,26 +3,28 @@ title: Parawany, przegrody
 order: 6
 ---
 
-Oferujemy lekkie, przenośne osłony idealne do oddzielania stanowisk roboczych
-oraz prowadzenia prac remontowych. Nasze parawany są zaprojektowane jako
-demontowalne moduły wypełnione trudnopalną tkaniną poliestrową powlekaną PVC.
-Ich głównymi zaletami są mobilność i łatwość konfiguracji – można je szybko
-rozmontować na pojedyncze elementy i ponownie złożyć, co ułatwia transport i
-przechowywanie. Dzięki lekkiej konstrukcji osłony są łatwe w obsłudze i
-transporcie.
+Oferujemy **lekkie, przenośne osłony** doskonałe do oddzielania stanowisk  
+roboczych i prac remontowych. Są to demontowalne moduły wypełnione  
+**trudnopalną tkaniną poliestrową powlekaną PVC**, łatwe do szybkiego złożenia  
+i rozłożenia.
 
-Parawany wykonujemy z trudnopalnych tkanin o wysokiej gramaturze, co sprawia, że
-świetnie sprawdzają się podczas takich prac jak spawanie, piaskowanie, mycie czy
-malowanie. Dodatkowo, na osłonach możemy umieścić napisy reklamowe, a same
-ekrany mogą być wykonane zarówno z tkanin przejrzystych, jak i folii
-przezroczystej.
+### Cechy naszych parawanów
 
-Fartuch osłony sięga do samej posadzki, chroniąc otoczenie przed piaskiem, wodą
-oraz innymi zanieczyszczeniami. Nasze osłony skutecznie ograniczają hałas oraz
-zabezpieczają delikatne obiekty, takie jak karoserie samochodowe, przed
-uszkodzeniami, zapewniając tym samym bezpieczeństwo i ochronę podczas
-wykonywania różnych prac.
+- **Mobilność i modułowa konstrukcja**  
+  Bezproblemowe rozmontowanie na części ułatwia transport i przechowywanie.
 
-** protip: zamiast budować aluminiowy stelaż, można wykożystać do parawanów ogrodzenia
-budowlane. Pozwala to na znaczne zmniejszenie kosztów, jednak trzeba ograniczyć
-się do typowych rozmiarów. **
+- **Trudnopalne materiały**  
+  Wysoka gramatura tkaniny zapewnia ochronę podczas spawania, piaskowania,  
+  mycia czy malowania.
+
+- **Różnorodne wypełnienia**  
+  Możemy wykonać ekrany z tkanin przejrzystych lub folii przezroczystej,  
+  a także dodać napisy reklamowe.
+
+- **Skuteczna ochrona otoczenia**  
+  Fartuch osłony sięga do posadzki, blokując piasek, wodę i zanieczyszczenia,  
+  jednocześnie tłumiąc hałas i chroniąc delikatne obiekty.
+
+**Zamiast budować aluminiowy stelaż, można wykorzystać  
+grodzenia budowlane jako konstrukcję, co obniża koszty. Trzeba się  
+jednak ograniczyć do typowych rozmiarów.**

@@ -3,10 +3,6 @@ title: Plandeki z oknami
 ---
 
 
-**protip: Warto upewnić się czy konstrukcja jest odpowiednia do zamontowania okna. Czasami koneczne jest dostawienie dodatkowej belki aby okno poprawnie spełniało swoją role. Najlepiej okna montować do podkonstrukcji drewnianej**
-
-
-
 Wytwarzamy okna tarasowe z plandek przezroczystych, które w połączeniu z tkaniną 
 PCV pozwalają na stworzenie plandek, które możemy stosować jako okna lub 
 przesłony.

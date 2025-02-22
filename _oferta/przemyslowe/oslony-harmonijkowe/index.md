@@ -3,22 +3,24 @@ title: Osłony harmonijkowe
 order: 2
 ---
 
-Safex Plandeki ma duże doświadczenie w produkcji osłon harmonijkowych do różnego
-rodzaju napędów, tłoczysk oraz siłowników hydraulicznych i pneumatycznych. Nasze
-osłony są zaprojektowane z myślą o pracy w trudnych warunkach, takich jak place
-budowy czy kopalnie odkrywkowe, gdzie niezawodność i wytrzymałość są kluczowe.
+**Safex Plandeki** ma duże doświadczenie w produkcji **osłon harmonijkowych**  
+do napędów, tłoczysk i siłowników hydraulicznych lub pneumatycznych. Sprawdzają się  
+w trudnych warunkach (place budowy, kopalnie odkrywkowe) i chronią między innymi  
+obrabiarki, urządzenia CNC, lasery czy maszyny do cięcia plazmą i wodą.
 
-Osłony harmonijkowe znajdują szerokie zastosowanie jako elementy układów
-sterowniczych koparek i maszyn wydobywczych. Są również powszechnie stosowane w
-przemyśle maszynowym, gdzie chronią obrabiarki, urządzenia CNC, lasery, a także
-maszyny do cięcia plazmą i wodą. W szczególnych przypadkach wykorzystuje się je
-w pojazdach komunikacji publicznej, takich jak autobusy przegubowe, tramwaje i
-pociągi, gdzie pełnią kluczową funkcję ochronną.
+### Cechy naszych osłon harmonijkowych
 
-Każda osłona jest wykonywana na zamówienie, dostosowana do specyficznych wymagań
-klienta. W przypadku większych osłon, stosujemy dodatkowe wzmocnienia z drutu,
-aby zapewnić jeszcze większą trwałość. Możemy również projektować osłony do
-konkretnych maszyn, w razie potrzeby używając tkanin odpornych na oleje, co
-dodatkowo zwiększa ich funkcjonalność w wymagających środowiskach pracy.
+- **Wysoka odporność na uszkodzenia**  
+  Konstrukcja dostosowana do intensywnego użytkowania, a przy większych  
+  wymiarach dodajemy wzmocnienia z drutu.
 
-poniżej znajduje się zdjęcie do uzupełnienia wymiarów.
+- **Dostosowanie do konkretnych zastosowań**  
+  Możemy użyć tkanin odpornych na oleje lub inne substancje chemiczne,  
+  co zwiększa funkcjonalność w wymagających środowiskach.
+
+- **Uniwersalność**  
+  Znajdują zastosowanie w maszynach przemysłowych oraz pojazdach  
+  komunikacji miejskiej (autobusy przegubowe, tramwaje, pociągi).
+
+**Ważne**: Przy większych osłonach stosujemy specjalne wzmocnienia, a poniżej  
+można znaleźć schemat do uzupełnienia wymiarów.
