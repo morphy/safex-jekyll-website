@@ -4,9 +4,22 @@ subtitle: subtitle
 order: 5
 ---
 
-Safex Plandeki ma w ofercie pokrowce na meble ogrodowe na wymiar, które są dostosowane do indywidualnych potrzeb klientów. Nasze pokrowce są idealnym rozwiązaniem dla tych, którzy chcą zabezpieczyć swoje meble przed niekorzystnymi warunkami atmosferycznymi poza sezonem, takimi jak deszcz, śnieg czy promieniowanie UV. Dzięki nim Twoje meble zachowają świeży wygląd i funkcjonalność na dłużej.
+**Safex Plandeki** ma w ofercie **pokrowce na meble ogrodowe szyte na wymiar**,  
+dostosowane do indywidualnych potrzeb. To idealne rozwiązanie dla osób, które  
+chcą zabezpieczyć meble przed niekorzystnymi warunkami atmosferycznymi poza sezonem:  
+deszczem, śniegiem czy promieniowaniem UV.
 
-Do wykonania pokrowca potrzebujemy jedynie podstawowych wymiarów mebli. Oferujemy pokrowce wykonane z grubszej, bardziej sztywnej tkaniny PCV o gramaturze 650g/m² oraz z cieńszej Vinyplan 5534 460g/m² oraz bardziej elastycznej tkaniny PCV Vinyplan 4126 o gramaturze 250g/m². Na życzenie klienta możemy dołączyć do pokrowców gumę expandor.
+### Cechy naszych pokrowców
 
+- **Różne gramatury tkanin PCV**  
+  - 650 g/m² – grubsza, bardziej sztywna tkanina  
+  - 460 g/m² (Vinyplan 5534) – nieco cieńsza i łatwiejsza w składaniu  
+  - 250 g/m² (Vinyplan 4126) – bardziej elastyczna i lekka  
+- **Precyzyjne dopasowanie**  
+  Wystarczą **podstawowe wymiary** mebli, abyśmy mogli przygotować pokrowiec,  
+  który dokładnie je osłoni.  
+- **Dodatkowe opcje**  
+  Na życzenie klienta możemy dołączyć **gumę expandor** ułatwiającą mocowanie.
 
-Zapewniamy profesjonalne doradztwo na każdym etapie realizacji zamówienia oraz krótkie terminy wykonania. Zapraszamy do kontaktu.
+Zapewniamy **profesjonalne doradztwo** i **krótkie terminy realizacji**.  
+**Zapraszamy do kontaktu** w celu ustalenia szczegółów.

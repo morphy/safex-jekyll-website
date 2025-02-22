@@ -4,9 +4,25 @@ subtitle: subtitle
 order: 4
 ---
 
-Wykonujemy na zamowienie bardzo trwałe i mocne siedziska na ławki ogrodowe z
-siatkipowlekanej PVC Scanplan 5228.
-Wymiana siedziska na nowe, wykonane z technicznej tkaniny ma szerego zalet, zapobiega bowiem konieczności zakupu nowej bujawki, zmniejsza ilość odpadów z tworzyw sztucznych oraz gwarantuje często większą trwałość niż orginalne siedzisko bujawki.
-Siatki posiadamy w 5 kolorach. 
+ykonujemy **bardzo trwałe i mocne siedziska** na ławki ogrodowe z **siatki  
+powlekanej PVC Scanplan 5228**. Wymiana siedziska na nowe, wykonane z **technicznej  
+tkaniny**, zapobiega konieczności zakupu nowej huśtawki czy ławki ogrodowej,  
+co ogranicza ilość odpadów z tworzyw sztucznych i zapewnia większą trwałość  
+niż oryginalne siedzisko.
 
-Aby mieć pewność że nasze poszycie będzie pasować, prześlij nam stare na wzór. Pamiętaj aby dołączyć do paczki swój adres, numer telefonu oraz adres email. Poszycie bujawki najlepiej przesłać na paczkomat GDY45M (792666016)
+### Cechy naszych siedzisk
+
+- **Wysoka wytrzymałość**  
+  Siatka PVC o dużej gęstości (Scanplan 5228) zapewnia większą odporność  
+  na rozciąganie i przetarcia.
+
+- **Pięć wariantów kolorystycznych**  
+  Dostosuj wygląd mebli do swojego ogrodu dzięki bogatej palecie barw.
+
+- **Ekologiczne podejście**  
+  Zamiast wyrzucać zużyte siedzisko, wystarczy wymienić je na nowe poszycie,  
+  co wydłuża żywotność ławki.
+
+**Jak zamówić**: Aby mieć pewność dopasowania, prześlij nam **stare siedzisko**  
+na wzór i dołącz **adres, numer telefonu** oraz **adres e-mail**. Najwygodniej  
+wysłać je na **paczkomat GDY45M (792666016)**.

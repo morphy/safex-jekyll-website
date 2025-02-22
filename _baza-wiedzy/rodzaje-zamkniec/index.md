@@ -16,3 +16,5 @@ Tam, gdzie liczy się przede wszystkim wygoda i szybki dostęp, warto postawić 
 Na koniec warto wspomnieć o zamknięciach tunelowych, z wsuniętą linką lub gumką. Taki tunel często znajduje się w dolnej części pokrowca, co pozwala na łatwe ściągnięcie materiału i dopasowanie go do kształtu osłanianego przedmiotu. Wadą może być ograniczona możliwość mocnego naprężenia, co bywa kłopotliwe w szczególnie wietrznych warunkach.
 
 Podsumowując, odpowiedni dobór zamknięcia w pokrowcach z plandek zależy przede wszystkim od rodzaju zabezpieczanego przedmiotu, warunków, w jakich pokrowiec będzie używany, oraz wygody obsługi. Warto rozważyć wszystkie możliwości pod kątem ich wytrzymałości, elastyczności i szczelności, aby wybrać rozwiązanie najlepiej odpowiadające potrzebom.
+
+

@@ -9,3 +9,5 @@ Zamknięcie, czyli wykonanie ostatniego zgrzewu charakterystycznej kopuły bioga
 Ponadto opracowujemy i obliczamy rozkroje z uwzględnieniem rozciągliwości materiału, a przy użyciu **wielkoformatowego plotera o powierzchni kreślenia 3,1 m × 21,2 m** odpowiednio przygotowujemy je do zgrzewania.
 
 Odpowiednio duża moc zgrzewarki HF umożliwia wykonanie w jednym cyklu mocnych i szerokich, nawet do **80 mm**, zgrzewów o długości przekraczającej **1 metr**.
+
+

@@ -1,6 +1,6 @@
 ---
-title: Montaż dachód plandekowych
-subtitle: 
+title: Montaż prostych dachów plandekowych
+
 
 ---
 Plandeki idealnie nadają się jako materiał do budowy szczelnych oraz trwałych dachów. Stworzenie zadaszenia z powlekanego materiału pcv to  rozsądna alternatywa dla dachów 'twardych". 
