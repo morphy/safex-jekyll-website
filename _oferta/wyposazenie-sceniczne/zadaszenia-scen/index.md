@@ -4,7 +4,7 @@ order: 2
 ---
 
 **Safex Plandeki** specjalizuje się w **projektowaniu i produkcji zadaszeń** dla scen, estrad  
-oraz amfiteatrów. Wykorzystujemy wyłącznie **trudnopalną tkaninę plandekową** dla  
+oraz amfiteatrów. Wykorzystujemy najczęściej **trudnopalną tkaninę plandekową** dla  
 zapewnienia bezpieczeństwa w warunkach scenicznych, gdzie istnieje podwyższone  
 ryzyko pożaru.
 
