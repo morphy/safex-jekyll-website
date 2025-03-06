@@ -14,5 +14,5 @@ do klienta w celu ustalenia szczegółów konstrukcyjnych. Często wykonujemy ta
 na podstawie podstawowych pomiarów wykonanych przez klienta i doprecyzowanych 
 w procesie wizualizacji 3D.
 
-**Maksymalna waga plandeki, jaką można wysłać spedytorem, wynosi 350 kg. 
+**Maksymalna waga plandeki, jaką można wysłać spedytorem, wynosi 350 kg. Plandeka na ilustracji poniżej ma rozmiar jest sferyczna plandeka na basen pneumatyczny o wymiarach 60x40m i ważyła ponad 3 tony
 Cięższe elementy należy wysyłać dedykowanym transportem, co zwiększa całkowity koszt realizacji.**
