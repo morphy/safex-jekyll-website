@@ -4,7 +4,7 @@ subtitle: subtitle
 order: 4
 ---
 
-ykonujemy **bardzo trwałe i mocne siedziska** na ławki ogrodowe z **siatki  
+Wykonujemy **bardzo trwałe i mocne siedziska** na ławki ogrodowe z **siatki  
 powlekanej PVC Scanplan 5228**. Wymiana siedziska na nowe, wykonane z **technicznej  
 tkaniny**, zapobiega konieczności zakupu nowej huśtawki czy ławki ogrodowej,  
 co ogranicza ilość odpadów z tworzyw sztucznych i zapewnia większą trwałość  
