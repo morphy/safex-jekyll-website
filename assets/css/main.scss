@@ -1,0 +1,87 @@
+.table-wrapper {
+  margin: 2rem 0;
+  overflow-x: auto; /* Przydatne, jeśli tabela jest szeroka na małych ekranach */
+}
+
+.product-table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 600px; /* Możesz ustawić stałą szerokość, jeśli chcesz */
+  margin: 0 auto;   /* Wycentruje tabelę w poziomie, gdy ma stałą szerokość */
+  font-family: sans-serif;
+  color: #333;
+}
+
+.product-table th,
+.product-table td {
+  padding: 0.75rem 1rem;
+  border: 1px solid #ccc;
+}
+
+.product-table th {
+  background-color: #f1f1f1; /* Jasne tło dla wyróżnienia kolumny nagłówków */
+  font-weight: 600;
+  text-align: left;
+  white-space: nowrap; /* Zapobiega zawijaniu tekstu w komórkach nagłówka */
+}
+
+.product-table td {
+  background-color: #fff;
+}
+
+.product-table tr:nth-child(even) td {
+  background-color: #fafafa; /* Delikatne wyróżnienie co drugiego wiersza */
+}
+// ===============================
+// ==  DODANE STYLE DO TABELI  ==
+// ===============================
+
+.styled-table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  font-family: Arial, sans-serif !important;
+  border-radius: 12px !important; /* Zaokrąglenia */
+  overflow: hidden !important; /* Żeby zaokrąglenia działały */
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.1) !important; /* Cień */
+  border-spacing: 0 !important;
+}
+
+.styled-table th {
+  background-color: #d9e2f3 !important;
+  text-align: left !important;
+  padding: 10px !important;
+  width: 40% !important;
+  font-weight: bold !important;
+}
+
+.styled-table td {
+  background-color: #f9f9f9 !important;
+  padding: 10px !important;
+}
+
+/* Zaokrąglone rogi */
+.styled-table thead tr:first-child th:first-child {
+  border-top-left-radius: 12px !important;
+}
+
+.styled-table thead tr:first-child th:last-child {
+  border-top-right-radius: 12px !important;
+}
+
+.styled-table tbody tr:last-child td:first-child {
+  border-bottom-left-radius: 12px !important;
+}
+
+.styled-table tbody tr:last-child td:last-child {
+  border-bottom-right-radius: 12px !important;
+}
+
+/* Responsywność */
+@media (max-width: 600px) {
+  .styled-table {
+    display: block !important;
+    width: 100% !important;
+    overflow-x: auto !important;
+    white-space: nowrap !important;
+  }
+}
