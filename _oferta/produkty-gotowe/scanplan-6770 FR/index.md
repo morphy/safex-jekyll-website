@@ -1,69 +1,60 @@
 ---
-title: Scanplan 6770 FR
+title: Vinyplan 6770 FR – Panama – Bardzo wytrzymała i trudnopalna 900g
 subtitle: 
-order: 3
+order: 
 ---
-  Bardzo wytrzymała tkanina Vinyplan 6770, idealna wszędzie tam gdzie plandeka poddawana jest duzym obciążeniom. Powleczona PCV z obu stron, wytrzymała na ścieranie i rozrywanie.  Tkanina jest trudnopalna, jest lakierowana.
-  
-<table class="styled-table">
-  <tr>
-    <th>Tkanina bazowa:</th>
-    <td>1100 dtex poliester <br> 2/2 - panama</td>
-  </tr>
-  <tr>
-    <th>Gramatura:</th>
-    <td>900 g/m²</td>
-  </tr>
-  <tr>
-    <th>Szerokość rolki:</th>
-    <td>2,05m.</td>
-  </tr>
-  <tr>
-    <th>Długość rolki:</th>
-    <td>60m.</td>
-  </tr>
-  <tr>
-    <th>Powleczenie:</th>
-    <td><i>PCV</i></td>
-  </tr>
-  <tr>
-    <th>Wykończenie:</th>
-    <td><i>Lakierowana obustronnie</i></td>
-  </tr>
-  <tr>
-    <th>Wytrzymałość na rozdarcie <br> <small>(norma)</small>:</th>
-    <td>
-      DIN 53363 – 600/550 N <br>
-      DIN 53356 – 800/700 N <br>
-      SFS 3981
-    </td>
-  </tr>
-  <tr>
-    <th>Wytrzymałość na rozrywanie <br> <small>(norma)</small>:</th>
-    <td>
-      DIN 53354 <br>
-      SFS 2983 <br>
-      EN ISO 1421 – 4000/4000 N/5cm
-    </td>
-  </tr>
-  <tr>
-    <th>Adhezja <br> <small>(przyleganie warstw)</small>:</th>
-    <td>100 N/5cm</td>
-  </tr>
-  <tr>
-    <th>Temperatura użytkowania:</th>
-    <td>-35 / +70 °C</td>
-  </tr>
-  <tr>
-    <th>Trudnopalność:</th>
-    <td>
-      SIS 650082 <br>
-      DIN 4102B1 <br>
-      M2
-    </td>
-  </tr>
-</table>
 
-<p style="margin-top: 15px; font-size: 14px; color: #555;">
-  Wszystkie tkaniny powlekane PCV są odporne na działanie promieni UV.
-</p>
+
+
+Bardzo wytrzymała tkanina *Vinyplan 6770* jest idealnym rozwiązaniem wszędzie tam, gdzie plandeka poddawana jest **dużym obciążeniom**. Powleczona **PCV z obu stron**, wykazuje wysoką odporność na **ścieranie i rozrywanie**. Dodatkowo, materiał posiada **trudnopalność** i jest **lakierowany**.
+
+---
+
+### **Specyfikacja techniczna**
+
+| **Parametr**                  | **Wartość**                      |
+|--------------------------------|----------------------------------|
+| Tkanina bazowa                | 1100 dtex poliester              |
+| Sploty                         | *2/2 – panama*                   |
+| Gramatura                      | *900 g/m²*                      |
+| Szerokość rolki                | *2,05 m*                        |
+| Długość rolki                  | *60 m*                          |
+| Powleczenie                    | *PCV*                           |
+| Wykończenie                    | *Lakierowana obustronnie*       |
+| Wytrzymałość na rozdarcie      | *DIN 53363 – 600/550 N*         |
+| *(norma)*                      | *DIN 53356 – 800/700 N*<br>*SFS 3981* |
+| Wytrzymałość na rozrywanie     | *DIN 53354*                     |
+| *(norma)*                      | *SFS 2983*<br>*EN ISO 1421 – 4000/4000 N/5cm* |
+| Adhezja *(przyleganie warstw)* | *100 N/5cm*                     |
+| Temperatura użytkowania        | *-35°C / +70°C*                 |
+| Trudnopalność                  | *SIS 650082*<br>*DIN 4102B1*<br>*M2* |
+
+---
+
+### **Cechy produktu**
+- Powlekane PCV  
+- Baza: tkanina  
+- Lakier obustronny  
+- Produkt standardowy  
+- Szerokość rolki: 2,05 m  
+- Waga: powyżej 701 g/m²  
+- Jednobarwne  
+- Naturalnie prześwitujące  
+- Do szycia  
+- Do druku cyfrowego  
+- Zbrojenie: poliester  
+
+---
+
+### **Odporność na UV**
+Wszystkie tkaniny powlekane PCV są odporne na działanie promieni UV, co sprawia, że nadają się do użytkowania na zewnątrz i w wymagających warunkach.
+
+---
+
+### **Zastosowanie tego produktu**
+- **Budownictwo** – Duże zadaszenia  
+- **Transport** – Plandeki samochodowe na stelaż  
+
+---
+
+

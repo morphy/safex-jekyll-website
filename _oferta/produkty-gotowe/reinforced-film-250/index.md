@@ -1,37 +1,35 @@
 ---
 title: reinforced film 250
 ---
-<table class="styled-table">
-  <tr>
-    <th>Typ materiału:</th>
-    <td>Tkanina HDPE – powłoka LDPE</td>
-  </tr>
-  <tr>
-    <th>Gramatura:</th>
-    <td><i>250 g/m²</i></td>
-  </tr>
-  <tr>
-    <th>Wytrzymałość na rozciąganie:</th>
-    <td><b>440 N/5cm</b></td>
-  </tr>
-  <tr>
-    <th>Odporność na rozdarcie:</th>
-    <td>90 N</td>
-  </tr>
-  <tr>
-    <th>Stabilizacja na UV:</th>
-    <td><b>300 Kly</b></td>
-  </tr>
-  <tr>
-    <th>Odporność termiczna:</th>
-    <td>-40 / +80 °C</td>
-  </tr>
-  <tr>
-    <th>Tolerancja wymiarów:</th>
-    <td>+/- 2%</td>
-  </tr>
-  <tr>
-    <th>Wymiary:</th>
-    <td>Rolka 2 × 100m.<br>Rolka 3 × 100m.</td>
-  </tr>
-</table>
+
+
+ReinforcedFILM 250 UV to wyjątkowo wytrzymała folia zbrojona, wykonana z wysokiej jakości materiału HDPE pokrytego LDPE. Przepuszcza dużą ilość światła, jednak nie jest całkowicie przezierna. Dodatkowo, dzięki stabilizacji UV, jest odporna na działanie promieni słonecznych.
+
+Folia dostępna jest w rolkach o szerokości **2 m** i długości **50 m**.
+
+---
+
+### **Specyfikacja techniczna**
+
+| **Parametr**                  | **Wartość**                      |
+|--------------------------------|----------------------------------|
+| Typ materiału            | Tkanina HDPE – powłoka LDPE     |
+| Gramatura                 | *250 g/m²*                      |
+| Wytrzymałość na rozciąganie | *440 N/5 cm**                 |
+| Odporność na rozdarcie    | 90 N                             |
+| Stabilizacja na UV        | *300 Kly*                     |
+| Odporność termiczna       | *-40°C / +80°C*                   |
+| Tolerancja wymiarów       | *+/- 2%*                          |
+| Wymiary                   | *Rolka **2 × 100 m**<br> Rolka **3 × 100 m***  |
+
+---
+
+### **Zastosowanie**
+Folia ReinforcedFILM 250 UV idealnie sprawdza się w różnych zastosowaniach, takich jak:
+- Osłony rolnicze i ogrodnicze
+- Zadaszenia i konstrukcje tymczasowe
+- Ochrona przed warunkami atmosferycznymi
+
+Dzięki swojej wytrzymałości i odporności na UV, jest doskonałym wyborem do długotrwałego użytkowania na zewnątrz.
+
+---
