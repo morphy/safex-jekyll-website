@@ -1,6 +1,7 @@
 ---
 title: Kotary i kurtyny oddzielające przestrzeń przemysłową
 order: 1
+time: 5-10 dni roboczych
 ---
 
 

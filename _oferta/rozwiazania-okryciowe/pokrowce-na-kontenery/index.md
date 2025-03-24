@@ -1,6 +1,7 @@
 ---
 title: Plandeki na kontenery Open Top
 order: 4
+time: 5-10 dni roboczych
 ---
 
 **Kontenery typu Open Top** posiadają otwarty dach, umożliwiając transport  

@@ -1,6 +1,7 @@
 ---
 title: Osłony harmonijkowe
 order: 2
+time: 10+ dni roboczych
 ---
 
 **Safex Plandeki** ma duże doświadczenie w produkcji **osłon harmonijkowych**  

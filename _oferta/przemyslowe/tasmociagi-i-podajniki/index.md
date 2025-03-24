@@ -1,6 +1,7 @@
 ---
 title: Taśmociągi i podajniki
 order: 3
+time: 10+ dni roboczych
 ---
 
 Nasza firma specjalizuje się w **produkcji taśmociągów i podajników** z  

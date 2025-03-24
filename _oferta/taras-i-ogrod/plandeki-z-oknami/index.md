@@ -2,6 +2,7 @@
 title: Plandeki z oknami PCV
 subtitle: subtitle
 order: 1
+time: 5-15 dni roboczych
 ---
 
 

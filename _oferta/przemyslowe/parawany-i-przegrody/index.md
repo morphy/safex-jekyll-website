@@ -1,6 +1,7 @@
 ---
 title: Parawany, przegrody
 order: 6
+time: 5-10 dni roboczych
 ---
 
 Oferujemy **lekkie, przenośne osłony** doskonałe do oddzielania stanowisk  

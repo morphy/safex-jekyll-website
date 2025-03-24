@@ -1,5 +1,6 @@
 ---
 title: Plandeki wielkoformatowe
+time: 10+ dni roboczych
 ---
 
 

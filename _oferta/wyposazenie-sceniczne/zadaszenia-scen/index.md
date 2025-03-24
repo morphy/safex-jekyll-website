@@ -1,6 +1,7 @@
 ---
 title: Zadaszenia scen
 order: 2
+time: 5-10 dni roboczych
 ---
 
 **Safex Plandeki** specjalizuje się w **projektowaniu i produkcji zadaszeń** dla scen, estrad  

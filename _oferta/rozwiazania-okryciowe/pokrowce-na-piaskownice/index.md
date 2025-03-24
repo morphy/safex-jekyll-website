@@ -1,6 +1,7 @@
 ---
 title: Plandeki na piaskownice
 order: 1
+time: 3-10 dni roboczych
 ---
 
 Zgodnie z nowymi przepisami UE, **piaskownice dla dzieci** muszą być zabezpieczone 

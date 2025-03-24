@@ -1,5 +1,6 @@
 ---
 title: Kotary, przepierzenia, kurtyny
+time: 5-10 dni roboczych
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: Poszycia namiotów spawalniczych
 order: 5
+time: 5-10 dni roboczych
 ---
 
 Oferujemy **wysokiej jakości poszycia** dla namiotów serwisowych do prac  

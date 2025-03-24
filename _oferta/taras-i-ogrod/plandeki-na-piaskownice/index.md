@@ -2,6 +2,7 @@
 title: Plandeki na piaskownice
 subtitle: subtitle
 order: 2
+time: 3-10 dni roboczych
 ---
 
 Nowe przepisy UE wymagają **zabezpieczenia piaskownic przed zanieczyszczeniami  

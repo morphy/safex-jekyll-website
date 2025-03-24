@@ -1,6 +1,7 @@
 ---
 title: Siatki estradowe
 order: 1
+time: 3-10 dni roboczych
 ---
 
 **Safex Plandeki** specjalizuje się w produkcji **siatek estradowych** (tzw. horyzontów scenicznych) z trudnopalnej tkaniny **Scanplan 5228**. Najczęściej wykonujemy je w **kolorze czarnym**, ale dostępne są również inne wersje: biały, zielony, szary i niebieski. W zależności od rozmiarów siatki, stosujemy **podwójnie** lub nawet **potrójnie wzmocnione krawędzie** z oczkami oraz możemy wykonać **kieszeń na rurkę** dla ułatwienia montażu.

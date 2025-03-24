@@ -1,5 +1,6 @@
 ---
 title: Plandeki kedrowe na zamówienie
+time: 10 dni robocze
 ---
 
 **Safex Plandeki** specjalizuje się w produkcji plandek kedrowych, idealnych do 

@@ -2,6 +2,7 @@
 title: Siedziska na ławki ogrodowe
 subtitle: subtitle
 order: 4
+time: 2-10 dni roboczych
 ---
 
 Wykonujemy **bardzo trwałe i mocne siedziska** na ławki ogrodowe z **siatki  

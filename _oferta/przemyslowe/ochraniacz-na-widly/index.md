@@ -1,5 +1,6 @@
 ---
 title: Osłony na widły
+time: 5-10 dni roboczych
 ---
 
 Oferujemy **pokrowce na widły wózków widłowych** wykonane z wytrzymałej  

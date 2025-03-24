@@ -1,5 +1,6 @@
 ---
 title: Plandeki z grafiką
+time: 5-15 dni robocze
 ---
 
 

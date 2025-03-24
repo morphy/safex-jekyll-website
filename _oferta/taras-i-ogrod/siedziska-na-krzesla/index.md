@@ -2,6 +2,7 @@
 title: Siedziska na krzesła ogrodowe
 subtitle: subtitle
 order: 3
+time: 2-10 dni roboczych
 ---
 
 Nasza firma oferuje **siedziska na krzesła ogrodowe** wykonane z **wysokiej jakości  

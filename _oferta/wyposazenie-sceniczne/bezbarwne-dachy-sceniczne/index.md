@@ -1,6 +1,7 @@
 ---
 title: Bezbarwne dachy sceniczne
 order: 3
+time: 10-15 dni roboczych
 ---
 
 Mieliśmy przyjemność współpracować z firmą **SETLIGHT**, dla której wykonaliśmy serię  

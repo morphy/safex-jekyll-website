@@ -1,5 +1,6 @@
 ---
 title: Plandeki z oknami
+time: 10-15 dni roboczych
 ---
 
 

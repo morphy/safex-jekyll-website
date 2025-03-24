@@ -1,6 +1,7 @@
 ---
 title: Zabezpieczenia wagonów typu RES
 order: 5
+time: 10+ dni roboczych
 ---
 
 Oferujemy **plandeki z folii zbrojonej** przeznaczone do zabezpieczania wagonów typu RES.  

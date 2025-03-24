@@ -1,5 +1,6 @@
 ---
 title: Siatki elewacyjne
+time: 5-10 dni roboczych
 ---
 
 

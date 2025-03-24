@@ -2,6 +2,7 @@
 title: Baseny PCV
 subtitle: subtitle
 order: 7
+time: 5-10 dni roboczych
 ---
 
 Oferujemy Państwu **wysokiej jakości baseny** wykonane z trwałej tkaniny PCV.  

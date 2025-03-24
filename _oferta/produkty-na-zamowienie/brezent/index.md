@@ -1,5 +1,6 @@
 ---
 title: Plandeki brezentowe
+time: 5-10 dni robocze
 ---
 
 **Safex Plandeki** posiada w ofecie rozwiązania okryciowe z tkanin brezentowych. 

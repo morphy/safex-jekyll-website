@@ -2,6 +2,7 @@
 title: Pokrowce na meble
 subtitle: subtitle
 order: 5
+time: 5-10 dni roboczych
 ---
 
 **Safex Plandeki** ma w ofercie **pokrowce na meble ogrodowe szyte na wymiar**,  

@@ -1,5 +1,6 @@
 ---
 title: Maty na ringi bokserskie
+time: 5-10 dni roboczych
 ---
 
 

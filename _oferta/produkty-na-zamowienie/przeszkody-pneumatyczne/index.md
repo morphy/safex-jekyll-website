@@ -1,5 +1,6 @@
 ---
 title: Przeszkody pneumatyczne
+time: 14+ dni roboczych
 ---
 
 a zlecenie naszej długoletniej partnerki biznesowej, firmy **Adventure Park Kolibki**, 

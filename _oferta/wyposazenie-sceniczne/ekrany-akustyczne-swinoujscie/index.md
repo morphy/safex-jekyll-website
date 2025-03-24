@@ -1,6 +1,7 @@
 ---
 title: Ekrany akustyczne dla amfiteatru w Świnoujściu
 order: 4
+time: 10-15 dni roboczych
 ---
 
 Zrealizowaliśmy projekt **ekranów akustycznych** dla amfiteatru w Świnoujściu,  

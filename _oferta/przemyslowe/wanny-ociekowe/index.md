@@ -1,6 +1,7 @@
 ---
 title: Wanny ociekowe
 order: 4
+time: 5-10 dni roboczych
 ---
 
 **Safex Plandeki** specjalizuje się w **wannach ociekowych** z konstrukcjami  
