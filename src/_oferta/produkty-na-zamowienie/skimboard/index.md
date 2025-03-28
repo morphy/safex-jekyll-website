@@ -1,5 +1,6 @@
 ---
 title: Baseny skimboardowe
+time: 10+ dni roboczych
 ---
 
 Basen skimboardowy to innowacyjna propozycja skierowana do fanów skimboardu, parków rozrywki, ośrodków wczasowych, hoteli oraz innych obiektów rekreacyjnych. Jest to doskonały sposób na wzbogacenie oferty atrakcji, przyciągnięcie nowych klientów i zapewnienie niezapomnianych wrażeń.

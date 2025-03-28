@@ -1,15 +1,23 @@
 ---
 title: Plandeki z grafiką
+time: 5-15 dni robocze
 ---
-Wykonujemy banery reklamowe z grafiką i napisami techniką malowania wałeczkiem na podłożu z tkaniny powlekanej PCV specjalną farbą trwale łączącą się z materiałem.
+
+
+Wykonujemy banery reklamowe z grafiką i napisami techniką **malowania wałeczkiem** 
+na podłożu z tkaniny powlekanej PCV przy użyciu specjalnej farby, trwale łączącej się 
+z materiałem. 
 
 Trwałość tak uzyskanego produktu jest wieloletnia, w przeciwieństwie do zadruku ploterowego.
 
-Ostre krawędzie grafiki  uzyskuje się dzięki nałożeniu na podkład szablonu z folii i pokrywaniu podłoża za pośrednictwem szblonu foliowego.
+Ostre krawędzie grafiki uzyskuje się dzięki nałożeniu na podkład 
+szablonu z folii i pokrywaniu podłoża za pośrednictwem tego szablonu foliowego.
 
-Banery na życzenie zaopatrujemy w oczka nierdzewne.
+Banery na życzenie zaopatrujemy w **oczka nierdzewne**.
 
-Grafika reklamowa powinna być dostarczona do wyceny w formacie wektorowym, Corel Draw, Adobe Ilustrator.
+Grafika reklamowa powinna być dostarczona do wyceny w formacie wektorowym 
+(*Corel Draw*, *Adobe Illustrator*).
 
-**protip: metoda malowania plandek specjalną farbą sprawdza się w grafikach o małej ilości jednolitych kolorów. Safex nie posiada plotera drukującego klasyczne, wielokolorowe banery.**
-
+**Metoda malowania plandek specjalną farbą sprawdza się w grafikach 
+o małej liczbie jednolitych kolorów. Safex nie posiada plotera drukującego 
+klasyczne, wielokolorowe banery.**

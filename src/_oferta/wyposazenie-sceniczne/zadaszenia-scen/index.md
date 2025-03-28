@@ -1,18 +1,26 @@
 ---
 title: Zadaszenia scen
 order: 2
+time: 5-10 dni roboczych
 ---
 
-Specjalizujemy się w projektowaniu i produkcji zadaszeń dla scen, estrad oraz
-amfiteatrów, zapewniając solidne i bezpieczne rozwiązania. Nasze zadaszenia
-sceniczne wykonujemy wyłącznie z trudnopalnej tkaniny plandekowej, co jest
-kluczowe dla zapewnienia bezpieczeństwa w warunkach scenicznych. Scena, ze
-względu na obecność licznych przewodów elektrycznych, intensywne oświetlenie
-oraz czasem instalacje pirotechniczne, jest szczególnie narażona na ryzyko
-pożaru.
+**Safex Plandeki** specjalizuje się w **projektowaniu i produkcji zadaszeń** dla scen, estrad  
+oraz amfiteatrów. Wykorzystujemy najczęściej **trudnopalną tkaninę plandekową** dla  
+zapewnienia bezpieczeństwa w warunkach scenicznych, gdzie istnieje podwyższone  
+ryzyko pożaru.
 
-Dlatego stosujemy wyłącznie atestowane materiały zgodne z normami DIN oraz SIS,
-które mają właściwości samogasnące – po usunięciu źródła ognia tkanina
-automatycznie przestaje się palić. Dzięki temu nasze zadaszenia gwarantują
-zarówno funkcjonalność, jak i wysoki poziom bezpieczeństwa, co jest niezbędne
-podczas organizacji różnorodnych wydarzeń scenicznych.
+### Cechy naszych zadaszeń scenicznych
+
+- **Atestowane materiały trudnopalne**  
+  Zgodne z normami DIN oraz SIS, samogasnące po usunięciu źródła ognia.
+
+- **Wysoki poziom ochrony**  
+  Chronią przed deszczem i nadmiernym nasłonecznieniem, jednocześnie minimalizując  
+  ryzyko zapłonu.
+
+- **Funkcjonalność i bezpieczeństwo**  
+  Idealne do miejsc z intensywnym oświetleniem, przewodami elektrycznymi  
+  czy instalacjami pirotechnicznymi.
+
+Dzięki naszym zadaszeniom scena pozostaje **bezpieczna** i **funkcjonalna**,  
+spełniając wymogi różnorodnych wydarzeń.

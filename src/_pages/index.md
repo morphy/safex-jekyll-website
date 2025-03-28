@@ -5,52 +5,31 @@ order: 1
 permalink: /
 layout: home
 
-# ------ Hero ------
-
 heroTop: PHU Safex Krzysztof Skodowski
-hero: Rozwiązania plandekowe i okryciowe
+hero: Rozwiązania plandekowe i okryciowe
 heroBottom: >-
   Zajmujemy się produkcją i dystrybucją plandek, siatek oraz membran
   wysokoprężonych. Oferujemy szeroki wybór plandek, w tym lekkie, ciężkie,
   wodoszczelne oraz okryciowe.
-
-heroImage: assets/images/safex/safex-siedziba-1.jpg
-heroImageAlt: test
-
-heroServices:
-  - title: Plandeki
-    text: Budowlane, okryciowe, gospodarcze
-    icon: tarp
-  - title: Dachy
-    text: Wytrzymałe zadaszenia membranowe
-    icon: roof
-  - title: Pokrowce
-    text: Na kontenery, przyczepy i pojazdy
-    icon: trailer
-  - title: Części
-    text: Harmonijki do maszyn i autobusów
-    icon: gear
-
-# ------ Categories ------
 
 categoriesFilter:
   - _oferta/produkty-gotowe/index.md
   - _oferta/rozwiazania-okryciowe/index.md
   - _oferta/taras-i-ogrod/index.md
 
-categoriesTitle: Oferta
+categoriesTitle: Świadczone usługi
 categoriesDesc: >-
   Główny obszar naszej działalności to produkcja wielkoformatowych rozwiązań
   okryciowych na zamówienie, takich jak zadaszenia namiotów oraz konstrukcji
-  zewnętrznych. Produkujemy również siatki estradowe, wielkoformatowe zadaszenia
-  namiotów czy blendy tenisowe. Zajmujemy się również dystrybucją plandek,
-  siatek oraz innych materiałów okryciowych, które dostępne są w naszym [sklepie
-  internetowym](https://example.com). Zakupić u nas można też materiały
-  gazoszczelne, zabudowy tarasów, a także siatki kontenerowe i budowlane.
+  zewnętrznych. Zajmujemy się również dystrybucją plandek, siatek oraz innych
+  materiałów okryciowych, które dostępne są w naszym [sklepie
+  internetowym](https://example.com). Oferujemy szeroki wybór plandek, w tym
+  lekkie, ciężkie, wodoszczelne oraz okryciowe. Zakupić u nas można też
+  materiały gazoszczelne, zabudowy tarasów, a także siatki kontenerowe i
+  budowlane. Produkujemy również siatki estradowe, wielkoformatowe zadaszenia
+  namiotów czy blendy tenisowe.
 categoriesLink: Pełna oferta
 categoriesHref: oferta
-
-# ------ Services ------
 
 servicesFilter:
   - _oferta/wyposazenie-sceniczne/bezbarwne-dachy-sceniczne/index.md
@@ -60,7 +39,7 @@ servicesFilter:
   - _oferta/taras-i-ogrod/plandeki-na-basen/index.md
   - _oferta/produkty-na-zamowienie/przeszkody-pneumatyczne/index.md
 
-servicesTitle: Membrany
+servicesTitle: Zadaszenia membranowe
 servicesDesc: >-
   Główny obszar naszej działalności to produkcja wielkoformatowych rozwiązań
   okryciowych na zamówienie, takich jak zadaszenia namiotów oraz konstrukcji
@@ -74,8 +53,7 @@ servicesDesc: >-
 
 servicesLink: Więcej
 servicesHref: oferta/zadaszenia-membranowe
-
-# ------ Opinions ------
+servicesCategory: oferta/zadaszenia-membranowe
 
 opinionsTitle: Opinie
 opinionsDesc: >-

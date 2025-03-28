@@ -1,5 +1,6 @@
 ---
 title: Zbiorniki zamknięte
+time: 10+ dni roboczych
 ---
 
 Wykonujemy zbiorniki na wodę z bardzo wytrzymałych materiałów powlekanych PCV.

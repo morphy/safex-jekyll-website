@@ -4,21 +4,25 @@ subtitle: subtitle
 order: 6
 ---
 
-Oferujemy plandeki do przykrycia basenów wykonane z wyjątkowo wytrzymałego
-materiału PVC o gramaturze 650 g/m². Nasze plandeki zapewniają skuteczną ochronę
-basenu przed zanieczyszczeniami, takimi jak liście, kurz czy owady, co znacząco
-ułatwia utrzymanie czystości wody i minimalizuje potrzebę częstego sprzątania.
+Oferujemy plandeki do przykrycia basenów wykonane z **wyjątkowo wytrzymałego  
+materiału PVC** o gramaturze **650 g/m²**. Zapewniają one **skuteczną ochronę**  
+basenu przed zanieczyszczeniami (liście, kurz, owady) i znacząco ułatwiają  
+utrzymanie czystości wody, minimalizując potrzebę częstego sprzątania.
 
-Dzięki solidnej budowie, plandeka PCV jest odporna na uszkodzenia mechaniczne
-oraz zmienne warunki atmosferyczne, w tym promieniowanie UV, deszcz i wiatr.
-Materiał, z którego wykonane są nasze plandeki, jest wodoodporny oraz
-wytrzymały, co gwarantuje ich długą żywotność i niezawodność przez wiele
-sezonów.
+### Cechy naszych plandek
 
-Plandeki dostępne są w różnych rozmiarach, dopasowanych do indywidualnych
-wymiarów basenu, co zapewnia idealne dopasowanie i skuteczną ochronę. Oferujemy
-również różne opcje mocowania, dzięki czemu plandeka jest stabilnie przymocowana
-i łatwa w montażu.
+- **Wysoka odporność na uszkodzenia**  
+  Plandeka jest odporna na mechaniczne uszkodzenia oraz zmienne warunki atmosferyczne,  
+  w tym promieniowanie UV, deszcz i wiatr.
 
-w przypadku basenów z tunelami, rurki aluminiowe są do nabycia we własnym
-zakresie.
+- **Wodoodporna i trwała**  
+  Dzięki odpowiedniej gramaturze (650 g/m²), plandeka nie przepuszcza wody i  
+  zachowuje swój kształt przez wiele sezonów.
+
+- **Różne rozmiary i mocowania**  
+  Produkujemy plandeki dopasowane do indywidualnych wymiarów basenu, a także  
+  oferujemy różne systemy mocowania, gwarantujące stabilne przymocowanie  
+  i łatwy montaż.
+
+**Uwaga: W przypadku basenów z tunelami, rurki aluminiowe należy zakupić we  
+własnym zakresie.**

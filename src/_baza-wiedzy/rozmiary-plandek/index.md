@@ -1,10 +1,44 @@
 ---
 title: Rozmiary plandek - różnica pomiędzy wymiarem rzeczywistym a wymiarem "cut size"
-subtitle: Test
 ---
 
-Różnica między rzeczywistym wymiarem plandeki a wymiarem podawanym przez niektórych sprzedawców, zaniżonym przez tzw. "cut size" (rozmiar cięcia), polega na tym, że podczas produkcji plandeki używa się pełnych arkuszy tkaniny, a następnie łączy się je ze sobą, co wiąże się z pewną utratą materiału. W procesie łączenia tkaniny, zarówno przy zgrzewaniu, jak i wzmacnianiu krawędzi, dochodzi do straty w wymiarach – na każdym połączeniu można stracić od 5 do 7 cm, a dodatkowo podobne wartości mogą zostać odjęte z każdej krawędzi na wzmocnienia i zakładki.
 
-W praktyce oznacza to, że w przypadku plandeki wykonanej z tkaniny o szerokości 2 metrów, tracimy istotną część powierzchni, która może wynieść nawet do 10% całkowitej powierzchni. Mimo że klient płaci za pełny rozmiar, otrzymuje produkt mniejszy, a sprzedawca nie informuje o tej różnicy. Tego typu praktyki, polegające na nieuwzględnianiu strat związanych z produkcją, są stosowane przez nieuczciwych sprzedawców i mogą prowadzić do znacznych różnic między oczekiwanym a rzeczywistym rozmiarem plandeki.
 
-W Safex dbamy o uczciwość i transparentność wobec naszych klientów. Nasze plandeki mają rzeczywisty wymiar, który odpowiada deklarowanemu. Jeśli występuje jakakolwiek różnica, wynika ona wyłącznie z minimalnych zmian związanych z naturalnym skurczeniem się lub wydłużeniem tkaniny, i zazwyczaj nie przekracza ona 0,5% od deklarowanego wymiaru. Zawsze wyraźnie informujemy, jeśli dany produkt ma inną specyfikację wymiarową. Naszym priorytetem jest dostarczenie produktów o najwyższej jakości i dokładności, zgodnych z oczekiwaniami klientów.
+**Różnica między rzeczywistym wymiarem plandeki a wymiarem podawanym przez niektórych sprzedawców (tzw. „cut size”)** polega na tym, że podczas produkcji używa się pełnych arkuszy tkaniny, a następnie łączy się je ze sobą. W wyniku tego procesu powstają straty w wymiarach na zgrzewach, krawędziach czy wzmocnieniach.
+
+---
+
+## Gdzie powstają różnice w rozmiarach?
+
+- **Łączenie tkaniny**: Każde zgrzewanie lub zszywanie fragmentów tkaniny może spowodować utratę od 5 do 7 cm na jednym łączeniu.
+- **Wzmocnienia i zakładki**: Każda krawędź, która jest dodatkowo wzmacniana, również wymaga zakładki materiału, co redukuje finalne wymiary.
+- **Przykładowa skala strat**: W przypadku plandeki z tkaniny o szerokości 2 metrów różnica może wynosić nawet do 10% całkowitej powierzchni.
+
+---
+
+## Skutki dla klienta
+
+W praktyce oznacza to, że:
+
+> **Płacisz za rozmiar nominalny (cut size)**, natomiast w rzeczywistości otrzymujesz produkt o mniejszym wymiarze.
+
+Nieuczciwi sprzedawcy w ten sposób mogą sztucznie zaniżać koszty produkcji lub podawać atrakcyjniejsze ceny, ale finalnie klient jest wprowadzany w błąd.
+
+---
+
+## Podejście Safex
+
+W Safex stawiamy na **uczciwość i transparentność** wobec naszych klientów:
+
+1. **Zgodność z deklarowanym wymiarem**: Nasze plandeki mają rzeczywistą długość i szerokość, która odpowiada temu, co podajemy w ofercie.
+2. **Minimalne odchylenia**: Jeśli występują jakiekolwiek różnice, wynikają one z naturalnego kurczenia lub wydłużania się tkaniny. Zwykle różnica ta nie przekracza 0,5% deklarowanego wymiaru.
+3. **Brak ukrytych strat**: Zawsze wyraźnie informujemy o ewentualnych zmianach w specyfikacji wymiarowej.
+
+---
+
+## Podsumowanie
+
+Wybierając plandeki, zwracaj uwagę na rzetelność sprzedawcy w kwestii wymiarów. Upewnij się, że kupujesz produkt o **rzeczywistym** rozmiarze, a nie opisanym jedynie przez „cut size”. Dzięki temu masz pewność, że otrzymasz **dokładnie taką powierzchnię**, za jaką płacisz.
+
+> **Klucz do zadowolenia?** – Przejrzyste informacje i uczciwość.  
+> Dzięki temu unikniesz nieprzyjemnego zaskoczenia związanego z niewłaściwymi rozmiarami plandeki.

@@ -1,5 +1,6 @@
 ---
 title: Zbiorniki otwarte
+time: 10+ dni roboczych
 ---
 
 Oferujemy zbiorniki otwarte wykonane z bardzo mocnej tkaniny powlekanej PCV produkcji fińskiej firmy Scantarp. Zbiorniki te znajdują zastosowanie jako baseny rekreacyjne i hodowlane, zbiorniki na wodę pitną oraz zbiorniki pożarowe.
