@@ -1,0 +1,60 @@
+baseurl: ""
+url: ""
+host: 0.0.0.0
+
+title: Safex
+description: >-
+  Zajmujemy się produkcją i dystrybucją plandek, siatek oraz membran
+  wysokoprężonych. Zakupić u nas można też materiały gazoszczelne, zabudowy
+  tarasów, a także siatki kontenerowe i budowlane. Produkujemy również siatki
+  estradowe, wielkoformatowe zadaszenia namiotów i blendy tenisowe.
+
+emptyArray: []
+
+plugins:
+  - jekyll-local-theme
+
+local_theme: safex
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      heroImage: assets/images/bg1.jpg
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      permalink: /:basename/
+      layout: page
+  - scope:
+      path: "_oferta"
+    values:
+      layout: page-collection
+  - scope:
+      path: "_baza-wiedzy"
+    values:
+      layout: page-collection
+
+collections:
+  oferta:
+    output: true
+  baza-wiedzy:
+    output: true
+
+include:
+  - _pages
+
+exclude:
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - tailwind.config.js
+  - assets/scss/
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true

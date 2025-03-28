@@ -11,4 +11,4 @@ vendor
 
 # Website
 node_modules/
-_plugins/
+/src/_plugins/
