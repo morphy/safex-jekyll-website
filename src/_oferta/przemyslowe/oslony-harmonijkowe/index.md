@@ -5,8 +5,10 @@ time: 10+ dni roboczych
 ---
 
 **Safex Plandeki** ma duże doświadczenie w produkcji **osłon harmonijkowych**  
-do napędów, tłoczysk i siłowników hydraulicznych lub pneumatycznych. Sprawdzają się  
-w trudnych warunkach (place budowy, kopalnie odkrywkowe) i chronią między innymi  
+do napędów, tłoczysk i siłowników hydraulicznych lub pneumatycznych. Sprawdzają
+się  
+w trudnych warunkach (place budowy, kopalnie odkrywkowe) i chronią między
+innymi  
 obrabiarki, urządzenia CNC, lasery czy maszyny do cięcia plazmą i wodą.
 
 ### Cechy naszych osłon harmonijkowych

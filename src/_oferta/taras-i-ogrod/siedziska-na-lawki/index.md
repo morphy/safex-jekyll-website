@@ -6,7 +6,8 @@ time: 2-10 dni roboczych
 ---
 
 Wykonujemy **bardzo trwałe i mocne siedziska** na ławki ogrodowe z **siatki  
-powlekanej PVC Scanplan 5228**. Wymiana siedziska na nowe, wykonane z **technicznej  
+powlekanej PVC Scanplan 5228**. Wymiana siedziska na nowe, wykonane z
+**technicznej  
 tkaniny**, zapobiega konieczności zakupu nowej huśtawki czy ławki ogrodowej,  
 co ogranicza ilość odpadów z tworzyw sztucznych i zapewnia większą trwałość  
 niż oryginalne siedzisko.
@@ -24,6 +25,7 @@ niż oryginalne siedzisko.
   Zamiast wyrzucać zużyte siedzisko, wystarczy wymienić je na nowe poszycie,  
   co wydłuża żywotność ławki.
 
-**Jak zamówić**: Aby mieć pewność dopasowania, prześlij nam **stare siedzisko**  
+**Jak zamówić**: Aby mieć pewność dopasowania, prześlij nam **stare
+siedzisko**  
 na wzór i dołącz **adres, numer telefonu** oraz **adres e-mail**. Najwygodniej  
 wysłać je na **paczkomat GDY45M (792666016)**.

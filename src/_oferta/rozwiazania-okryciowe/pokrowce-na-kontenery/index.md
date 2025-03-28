@@ -6,7 +6,8 @@ time: 5-10 dni roboczych
 
 **Kontenery typu Open Top** posiadają otwarty dach, umożliwiając transport  
 nietypowych ładunków o niestandardowych rozmiarach czy sposobie załadunku.  
-Wykonujemy **dedykowane plandeki** wodoszczelne, mocowane za pomocą **linki celnej**,  
+Wykonujemy **dedykowane plandeki** wodoszczelne, mocowane za pomocą **linki
+celnej**,  
 co zapewnia dodatkowe zabezpieczenie zgodne z przepisami celnymi.
 
 ### Cechy naszych plandek do kontenerów Open Top

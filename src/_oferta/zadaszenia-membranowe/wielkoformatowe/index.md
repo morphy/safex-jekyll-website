@@ -2,24 +2,36 @@
 title: Plandeki wielkoformatowe
 ---
 
-
 ## Plandeki wielkoformatowe
 
-Jako jedna z nielicznych firm specjalizujemy się w wykonywaniu **wielkoformatowych plandek na zamówienie**. Dzięki nowoczesnej hali produkcyjnej o długości **40 m**, jesteśmy w stanie realizować **plandeki o dużych rozmiarach i masie często przekraczającej 1 tonę**, wykorzystując **mocne i ciężkie tkaniny**.
+Jako jedna z nielicznych firm specjalizujemy się w wykonywaniu
+**wielkoformatowych plandek na zamówienie**. Dzięki nowoczesnej hali
+produkcyjnej o długości **40 m**, jesteśmy w stanie realizować **plandeki o
+dużych rozmiarach i masie często przekraczającej 1 tonę**, wykorzystując **mocne
+i ciężkie tkaniny**.
 
 ### Precyzja i optymalizacja kosztów
 
-Dzięki nowoczesnemu systemowi **opracowania dokumentacji wykonawczej z wizualizacją 3D**, możemy znacząco **obniżyć koszty produkcji**, eliminując konieczność kosztownych wizyt u klienta w celu ustaleń technicznych. Wszystkie detale konstrukcyjne ustalamy **zdalnie**, co pozwala na sprawne i dokładne wykonanie projektu.
+Dzięki nowoczesnemu systemowi **opracowania dokumentacji wykonawczej z
+wizualizacją 3D**, możemy znacząco **obniżyć koszty produkcji**, eliminując
+konieczność kosztownych wizyt u klienta w celu ustaleń technicznych. Wszystkie
+detale konstrukcyjne ustalamy **zdalnie**, co pozwala na sprawne i dokładne
+wykonanie projektu.
 
 ### Przykłady realizacji
 
-Na zdjęciach poniżej można zobaczyć **hangar aeroklubu w Norwegii**, który został wykonany w całości na podstawie **konsultacji elektronicznych z klientem**. Do realizacji zastosowaliśmy tkaninę **Vinyplan 6770 o gramaturze 900 g/m²**.
+Na zdjęciach poniżej można zobaczyć **hangar aeroklubu w Norwegii**, który
+został wykonany w całości na podstawie **konsultacji elektronicznych z
+klientem**. Do realizacji zastosowaliśmy tkaninę **Vinyplan 6770 o gramaturze
+900 g/m²**.
 
-Dodatkowo, prezentujemy również rozwiniętą powłokę **membrany amfiteatru w Stężycy**.
+Dodatkowo, prezentujemy również rozwiniętą powłokę **membrany amfiteatru w
+Stężycy**.
 
 ### Proces produkcji
 
-Poniżej można zobaczyć film przedstawiający **proces zgrzewania plandeki** automatem **Leister T1**:
+Poniżej można zobaczyć film przedstawiający **proces zgrzewania plandeki**
+automatem **Leister T1**:
 
 <div class="video-wrapper">
   <a href="https://www.youtube.com/watch?v=zYL7dhNi5xY" target="_blank">
