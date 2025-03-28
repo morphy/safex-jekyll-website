@@ -51,7 +51,7 @@ footerContacts:
     text: 792 666 016
     href: tel:792666016
 
-  - icon: mail
+  - icon: envelope
     title: E-mail
     text: info@plandeki.com.pl
     href: mailto:info@plandeki.com.pl
@@ -61,6 +61,6 @@ footerContacts:
     text: ul. Potasowa 6 Gdynia
     href: https://maps.app.goo.gl/BSP88r99QAD7BF7K7
 
-  - icon: clock
+  - icon: clock-solid
     title: Godziny pracy
     text: 8:00 - 16:00

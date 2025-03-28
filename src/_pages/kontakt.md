@@ -17,7 +17,7 @@ contactBoxes:
         text: 792 666 016
         href: tel:792666016
   - title: Wyślij wiadomość
-    icon: mail
+    icon: envelope
     lines:
       - prefix: Email
         text: info@plandeki.com.pl
