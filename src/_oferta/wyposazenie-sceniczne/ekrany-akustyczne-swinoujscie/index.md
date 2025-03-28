@@ -5,7 +5,8 @@ time: 10-15 dni roboczych
 ---
 
 Zrealizowaliśmy projekt **ekranów akustycznych** dla amfiteatru w Świnoujściu,  
-mających na celu **poprawę akustyki** zadaszenia membranowego. Współpracowaliśmy  
+mających na celu **poprawę akustyki** zadaszenia membranowego.
+Współpracowaliśmy  
 z firmą **ESM Systems** z Gdyni, łącząc nasze doświadczenie produkcyjne z ich  
 wiedzą z zakresu inwestycji muzycznych i scenicznych.
 
@@ -23,4 +24,5 @@ wiedzą z zakresu inwestycji muzycznych i scenicznych.
   Konstrukcje wykonano zgodnie z indywidualnymi wymaganiami projektu,  
   co gwarantuje maksymalną efektywność i spójność wizualną.
 
-Finalny efekt to **wysoka jakość dźwięku** oraz **atrakcyjny wygląd** całego amfiteatru.
+Finalny efekt to **wysoka jakość dźwięku** oraz **atrakcyjny wygląd** całego
+amfiteatru.

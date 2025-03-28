@@ -4,8 +4,10 @@ order: 2
 time: 5-10 dni roboczych
 ---
 
-**Safex Plandeki** specjalizuje się w **projektowaniu i produkcji zadaszeń** dla scen, estrad  
-oraz amfiteatrów. Wykorzystujemy najczęściej **trudnopalną tkaninę plandekową** dla  
+**Safex Plandeki** specjalizuje się w **projektowaniu i produkcji zadaszeń** dla
+scen, estrad  
+oraz amfiteatrów. Wykorzystujemy najczęściej **trudnopalną tkaninę plandekową**
+dla  
 zapewnienia bezpieczeństwa w warunkach scenicznych, gdzie istnieje podwyższone  
 ryzyko pożaru.
 
@@ -15,7 +17,8 @@ ryzyko pożaru.
   Zgodne z normami DIN oraz SIS, samogasnące po usunięciu źródła ognia.
 
 - **Wysoki poziom ochrony**  
-  Chronią przed deszczem i nadmiernym nasłonecznieniem, jednocześnie minimalizując  
+  Chronią przed deszczem i nadmiernym nasłonecznieniem, jednocześnie
+  minimalizując  
   ryzyko zapłonu.
 
 - **Funkcjonalność i bezpieczeństwo**  

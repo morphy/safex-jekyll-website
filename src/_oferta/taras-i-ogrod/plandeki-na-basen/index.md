@@ -5,14 +5,16 @@ order: 6
 ---
 
 Oferujemy plandeki do przykrycia basenów wykonane z **wyjątkowo wytrzymałego  
-materiału PVC** o gramaturze **650 g/m²**. Zapewniają one **skuteczną ochronę**  
+materiału PVC** o gramaturze **650 g/m²**. Zapewniają one **skuteczną
+ochronę**  
 basenu przed zanieczyszczeniami (liście, kurz, owady) i znacząco ułatwiają  
 utrzymanie czystości wody, minimalizując potrzebę częstego sprzątania.
 
 ### Cechy naszych plandek
 
 - **Wysoka odporność na uszkodzenia**  
-  Plandeka jest odporna na mechaniczne uszkodzenia oraz zmienne warunki atmosferyczne,  
+  Plandeka jest odporna na mechaniczne uszkodzenia oraz zmienne warunki
+  atmosferyczne,  
   w tym promieniowanie UV, deszcz i wiatr.
 
 - **Wodoodporna i trwała**  

@@ -21,5 +21,6 @@ zapewniając **długą żywotność** podczas eksploatacji.
 - **Wytrzymałe plandeki zbiorników**  
   Zapewniają płynne i bezawaryjne działanie w procesie zbioru czy przetwórstwa.
 
-Nasze produkty są testowane pod kątem **wytrzymałości** i **odporności** na ciężkie warunki  
+Nasze produkty są testowane pod kątem **wytrzymałości** i **odporności** na
+ciężkie warunki  
 użytkowania.

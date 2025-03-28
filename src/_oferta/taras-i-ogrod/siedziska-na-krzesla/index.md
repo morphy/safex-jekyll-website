@@ -5,23 +5,28 @@ order: 3
 time: 2-10 dni roboczych
 ---
 
-Nasza firma oferuje **siedziska na krzesła ogrodowe** wykonane z **wysokiej jakości  
-siatki PVC** o oczku 1,5×2 mm. To **nowoczesne i ekologiczne** rozwiązanie, które  
+Nasza firma oferuje **siedziska na krzesła ogrodowe** wykonane z **wysokiej
+jakości  
+siatki PVC** o oczku 1,5×2 mm. To **nowoczesne i ekologiczne** rozwiązanie,
+które  
 pozwala **odnowić meble ogrodowe**, bez konieczności ich wymiany,  
 co przyczynia się do ochrony środowiska.
 
 ### Cechy naszych siedzisk
 
 - **Różnorodność kolorów**  
-  Dostępne w **pięciu kolorach**: jasny szary, czarny, zielony, niebieski, biały.
+  Dostępne w **pięciu kolorach**: jasny szary, czarny, zielony, niebieski,
+  biały.
 
 - **Odporność na warunki atmosferyczne**  
   Siatka PVC jest odporna na długotrwałą ekspozycję na słońce czy deszcz,  
   zachowując swój wygląd i właściwości.
 
 - **Łatwa konserwacja**  
-  Materiał można z łatwością wyczyścić, co pomaga utrzymać meble w dobrym stanie.
+  Materiał można z łatwością wyczyścić, co pomaga utrzymać meble w dobrym
+  stanie.
 
 **Jak zamówić**: Aby mieć pewność, że nasze siedzisko będzie idealnie pasować,  
 prześlij nam **stare siedzisko na wzór**. Koniecznie dołącz **adres, numer  
-telefonu** oraz **adres e-mail**. Najwygodniej przesłać je na **paczkomat GDY45M (792666016)**.
+telefonu** oraz **adres e-mail**. Najwygodniej przesłać je na **paczkomat GDY45M
+(792666016)**.

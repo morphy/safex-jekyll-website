@@ -1,13 +1,12 @@
 {
   "scripts": {
     "postinstall": "cd src && bundle install",
-    "copy-plugins": "shx cp -r src/_themes/safex/_plugins ./src/",
+    "copy-plugins": "shx cp -r src/_themes/safex/_plugins src/",
     "dev": "npm run copy-plugins && cd src && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload",
     "dev:verbose": "npm run copy-plugins && cd src && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload --verbose",
     "build": "npm run copy-plugins && cd src && cross-env JEKYLL_ENV=development bundle exec jekyll build",
     "build:production": "npm run copy-plugins && cd src && cross-env JEKYLL_ENV=production bundle exec jekyll build",
-    "clean": "shx rm -rf src/.jekyll-cache src/_plugins src/_site src/.jekyll-metadata",
-    "clean:all": "npm run clean && shx rm -rf src/generated node_modules",
+    "clean": "shx rm -rf src/.jekyll-cache src/_plugins src/_site src/.jekyll-metadata node_modules",
     "format": "prettier --write --ignore-unknown */**",
     "format:check": "prettier --check --ignore-unknown */**"
   },

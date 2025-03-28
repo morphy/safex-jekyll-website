@@ -4,9 +4,9 @@ order: 1
 time: 5-10 dni roboczych
 ---
 
-
 **Przejrzyste kotary przemysłowe** to elastyczne rozwiązanie pozwalające na  
-**szybkie dostosowanie przestrzeni** hal produkcyjnych bez konieczności budowania  
+**szybkie dostosowanie przestrzeni** hal produkcyjnych bez konieczności
+budowania  
 stałych przegród. Ułatwiają utrzymanie wyższej temperatury wybranego fragmentu  
 hali, nie zmniejszając funkcjonalności pomieszczenia.
 

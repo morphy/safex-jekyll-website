@@ -1,9 +1,11 @@
 ---
 title: Pokrowce na koła sztaplarki
 ---
+
 **Safex Plandeki** oferuje **pokrowce ochronne** na koła sztaplarek, idealne  
 w miejscach o wysokich wymaganiach sanitarnych (np. magazyny spożywcze, hale  
-produkcyjne, centra logistyczne). Zapobiegają one **zabrudzeniu podłoża** przez koła  
+produkcyjne, centra logistyczne). Zapobiegają one **zabrudzeniu podłoża** przez
+koła  
 i łatwo się je montuje oraz demontuje.
 
 ### Cechy naszych pokrowców na koła
