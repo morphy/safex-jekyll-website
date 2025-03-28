@@ -1,31 +1,66 @@
+# ------ General ------
+
 title: Safex
 motto: O plandekach wiemy wszystko!
-logo: assets/images/safex-logo.svg
-description: >-
+
+# ------ Header ------
+
+headerLogo: assets/images/safex/safex-logo.svg
+headerLogoAlt: Logo Safex
+
+headerContacts:
+  - icon: phone
+    text: 792 666 016
+    href: tel:792666016
+
+  - icon: whatsapp
+    text: +48 515 043 761
+    href: https://wa.me/+48515043761
+
+  - icon: location
+    text: Potasowa 6 Gdynia
+    href: https://maps.app.goo.gl/BSP88r99QAD7BF7K7
+
+headerLinks:
+  - text: Mapa strony
+    href: kontakt
+
+  - text: Polityka Prywatności
+    href: kontakt
+
+# ------ Footer ------
+
+footerCtaTitle: Zaprojektuj plandekę samodzielnie!
+footerCtaText: Uruchom kreator
+footerCtaHref: kontakt
+
+footerLogo: assets/images/safex/safex-logo.svg
+footerLogoAlt: Logo Safex
+
+footerDescription: >-
   Firma Safex znajduje się w Gdyni i działa od 1991 roku. Zajmujemy się
   produkcją i dystrybucją plandek, siatek oraz membran wysokoprężonych. Zakupić
   u nas można też materiały gazoszczelne, zabudowy tarasów, a także siatki
   kontenerowe i budowlane. Produkujemy również siatki estradowe, wielkoformatowe
-  zadaszenia namiotów czy blendy tenisowe. Gwarantujemy najwyższą jakość
-  wyrobów. Zapraszamy do skorzystania z naszej oferty!
+  zadaszenia namiotów i blendy tenisowe. Gwarantujemy najwyższą jakość wyrobów.
+  Zapraszamy do skorzystania z naszej oferty!
 
-footerCta: Zaprojektuj plandekę samodzielnie!
-footerCtaLink: Uruchom kreator
-footerCtaHref: #
+footerContacts:
+  - icon: phone
+    title: Telefon
+    text: 792 666 016
+    href: tel:792666016
 
-address: ul. Potasowa 6 Gdynia
-addressHref: https://maps.app.goo.gl/BSP88r99QAD7BF7K7
+  - icon: envelope
+    title: E-mail
+    text: info@plandeki.com.pl
+    href: mailto:info@plandeki.com.pl
 
-openingHours: 8:00 - 16:00
+  - icon: location
+    title: Adres
+    text: ul. Potasowa 6 Gdynia
+    href: https://maps.app.goo.gl/BSP88r99QAD7BF7K7
 
-emails:
-  - info@plandeki.com.pl
-  - safex001@gmail.com
-
-phones:
-  - title: Telefon
-    number: 792 666 016
-
-whatsapp: +48 515 043 761
-
-excerptLength: 50
+  - icon: clock-solid
+    title: Godziny pracy
+    text: 8:00 - 16:00

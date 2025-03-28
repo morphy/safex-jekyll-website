@@ -1,7 +1,11 @@
 ---
 title: Ploter tnący
 subtitle: Test
+<<<<<<<< HEAD:src/robocze/materialy-plandekowe/scanplan-4126/index.md
 order: 2
+========
+order: 5
+>>>>>>>> main:src/_oferta/park-maszynowy/ploter-tnacy/index.md
 ---
 
 Oferujemy usługę wycinania profesjonalnym ploterem tnącym **SUMMA S2 160 T**. Głównym zadaniem tej

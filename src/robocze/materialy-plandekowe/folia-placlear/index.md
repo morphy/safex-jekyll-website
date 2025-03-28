@@ -1,5 +1,9 @@
 ---
 title: Zgrzewanie wysoką częstotliwością maszyną FIAB 
+<<<<<<<< HEAD:src/robocze/materialy-plandekowe/folia-placlear/index.md
+========
+order: 3
+>>>>>>>> main:src/_oferta/park-maszynowy/zgrzewanie-wcz/index.md
 ---
 Podejmiemy się trudnego technologicznie i wymagającego specjalistycznych maszyn wykonania powłok biogazowni z PCV. Takie powłoki muszą charakteryzować się wysoce wytrzymałymi, a przede wszystkim całkowicie szczelnymi zgrzewami. Zgrzewy o takich parametrach można wykonać wyłącznie przy pomocy techniki zgrzewania wysoką częstotliwością (W.cz, HF).
 
