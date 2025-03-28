@@ -1,0 +1,26 @@
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 xxl:gap-6">
+  {% for contact in site.data.info.footerContacts %}
+    <div class="flex items-center gap-4 overflow-hidden">
+      <div class="w-[70px] p-[25px] xl:w-[90px] xl:p-[35px] shrink-0 rounded-full bg-gray-650 *:fill-white">
+        {% assign iconPath = 'icons/' | append: contact.icon | append: '.svg' %}
+        {% include {{ iconPath }} %}
+      </div>
+
+      <div>
+        <h4 class="mb-1 text-white text-sm font-semibold tracking-wider">{{ contact.title }}</h4>
+        <p class="m-0 text-white">
+          {% if contact.href %}
+            <a
+              class="text-white no-underline hover:underline"
+              href="{{ contact.href | relative_url }}"
+            >
+              {{ contact.text }}
+            </a>
+          {% else %}
+            {{ contact.text }}
+          {% endif %}
+        </p>
+      </div>
+    </div>
+  {% endfor %}
+</div>

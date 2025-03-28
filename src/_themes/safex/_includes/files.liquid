@@ -1,0 +1,57 @@
+{% assign nodes = include.nodes | default: site.emptyArray %}
+
+{% unless nodes.size == 0 %}
+  <div class="flex flex-col gap-10">
+    {% assign nodes = nodes | sort: 'order' %}
+
+    {% for node in nodes %}
+      {% assign isItself = false %}
+
+      {% if node.path == page.path %}
+        {% assign isItself = true %}
+      {% endif %}
+
+      {% unless isItself %}
+        {% if node.overrides.url %}
+          {% assign url = node.overrides.url | relative_url %}
+        {% else %}
+          {% assign url = node.url | remove: 'index.html' | relative_url %}
+        {% endif %}
+
+        {% include node-images.liquid %}
+
+        <article class="flex flex-col lg:flex-row">
+          <div class="lg:w-72 lg:h-auto h-48">
+            <a href="{{ url }}">
+              <img src="{{ imageFiles.first }}" alt="" class="size-full object-cover">
+            </a>
+          </div>
+
+          <div class="flex-1 flex flex-col border-solid border border-t-[3px] border-gray-300 border-t-red-500">
+            {% include node-metadata.liquid imageFiles=imageFiles %}
+
+            <div class="flex-1 flex flex-col p-6">
+              <a class="mb-2.5" href="{{ url }}">
+                <h3
+                  class="uppercase font-semibold tracking-widest duration-200 text-lg hover:text-red-500"
+                >
+                  {{ node.title }}
+                </h3>
+              </a>
+
+              <div class="flex-1 content">
+                {{ node.excerpt }}
+              </div>
+
+              <div class="mt-5">
+                <div class="button">
+                  <a href="{{ url }}">Więcej</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+      {% endunless %}
+    {% endfor %}
+  </div>
+{% endunless %}

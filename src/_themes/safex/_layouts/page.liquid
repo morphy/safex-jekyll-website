@@ -1,0 +1,18 @@
+---
+layout: default-page
+---
+{% if page.subtitle %}
+  <div class="text-center lg:w-4/5 mx-auto">
+    {% include subtitle.liquid %}
+  </div>
+{% endif %}
+
+{% assign trimmedContent = content | strip_newlines %}
+
+{% unless trimmedContent == '' %}
+  <div class="content lg:w-4/5 mx-auto">{{ content }}</div>
+{% endunless %}
+
+{% if layout.include %}
+  {% include {{ layout.include }} %}
+{% endif %}

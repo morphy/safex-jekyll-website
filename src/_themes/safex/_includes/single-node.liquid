@@ -1,0 +1,31 @@
+{% assign node = page %}
+{% include node-images.liquid %}
+
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-10">
+  <article class="lg:col-span-9">
+    <div class="h-80">
+      <img src="{{ imageFiles.first }}" alt="" class="size-full object-cover">
+    </div>
+
+    <div class="border-solid border border-gray-300 border-t-[3px] border-t-red-500">
+      {% include node-metadata.liquid imageFiles=imageFiles %}
+
+      <div class="p-6 flex flex-col gap-12">
+        <div>
+          <h1 class="text-3xl">{{ page.title }}</h1>
+          <hr class="mb-6 mt-2 w-32 h-0.5 bg-red-500 border-none">
+
+          <div class="content">
+            {{ page.content }}
+          </div>
+        </div>
+
+        {% include node-gallery.liquid imageFiles=imageFiles %}
+      </div>
+    </div>
+  </article>
+
+  <aside class="lg:col-span-3">
+    {% include node-files.liquid %}
+  </aside>
+</div>
