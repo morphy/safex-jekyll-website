@@ -1,0 +1,11 @@
+{% include directories.liquid nodes=directoryNodes %}
+
+{% include files.liquid nodes=fileNodes %}
+
+<div>
+  {% if page.subtitle %}
+    <h1 class="text-[2em] mb-6">{{ page.subtitle }}</h1>
+  {% endif %}
+
+  <div class="content">{{ content }}</div>
+</div>

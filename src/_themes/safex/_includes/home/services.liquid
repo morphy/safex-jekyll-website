@@ -1,0 +1,58 @@
+<section class="pt-16 pb-24 bg-neutral-100">
+  <div class="container text-center mb-12">
+    <div class="heading mb-12">
+      <h1>{{ page.servicesTitle }}</h1>
+      <hr>
+    </div>
+
+    <div class="lg:w-4/5 mx-auto">
+      {{ page.servicesDesc | markdownify }}
+    </div>
+  </div>
+
+  <div class="flex flex-wrap bg-white">
+    {% assign documents = site.emptyArray %}
+
+    {% for collection in site.collections %}
+      {% assign documents = documents | concat: collection.docs %}
+    {% endfor %}
+
+    {% assign documents = documents | where_exp: 'item', 'page.servicesFilter contains item.path' %}
+
+    {% for document in documents limit: 6 %}
+      <a
+        href="{{ document.url | remove: 'index.html' | relative_url }}"
+        class="basis-full sm:basis-1/2 md:basis-2/6 xxl:basis-1/6 flex flex-col"
+      >
+        {% assign splitPath = document.path | split: '/' | pop %}
+        {% assign name = splitPath.last | append: '-1' %}
+
+        {% assign image = document.url
+          | remove_first: '_'
+          | split: '/'
+          | pop
+          | join: '/'
+          | append: '/'
+          | append: name
+          | append: '.jpg'
+        %}
+
+        <img
+          class="w-full h-80 object-cover"
+          loading="lazy"
+          src="{{ image }}"
+        >
+
+        <div class="flex-1 flex items-center justify-center p-6 border-gray-200 border-solid border-b border-r">
+          <h5 class="text-center text-xs text-black hover:text-red-500 duration-200">{{ document.title }}</h5>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+
+  <div class="container text-center mt-16">
+    <div class="button">
+      <a href="{{ page.servicesHref | relative_url }}">{{ page.servicesLink }}</a>
+    </div>
+  </div>
+</section>

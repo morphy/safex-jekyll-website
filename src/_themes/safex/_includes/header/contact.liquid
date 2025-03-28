@@ -1,0 +1,40 @@
+<div class="bg-red-500">
+  <div class="container flex items-center justify-center lg:justify-between py-4 flex-row text-white text-xs">
+    <div class="flex flex-wrap items-center justify-center gap-8">
+      {% for contact in site.data.info.headerContacts %}
+        {% assign classes = 'items-center gap-2' %}
+
+        {% if forloop.last or forloop.first %}
+          {% assign classes = classes | append: ' flex' %}
+        {% else %}
+          {% assign classes = classes | append: ' hidden md:flex' %}
+        {% endif %}
+
+        <div class="{{ classes }}">
+          <div class="*:fill-white *:w-4">
+            {% assign iconPath = 'icons/' | append: contact.icon | append: '.svg' %}
+            {% include {{ iconPath }} %}
+          </div>
+
+          <a
+            class="hover:underline"
+            href="{{ contact.href | relative_url }}"
+          >
+            {{ contact.text }}
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="hidden lg:flex items-center gap-8">
+      {% for link in site.data.info.headerLinks %}
+        <a
+          class="hover:underline"
+          href="{{ link.href | relative_url }}"
+        >
+          {{ link.text }}
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
