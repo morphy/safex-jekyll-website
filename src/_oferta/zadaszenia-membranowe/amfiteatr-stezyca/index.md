@@ -1,5 +1,6 @@
 ---
 title: Amfiteatr w Stężycy
+Order: 1
 ---
 
 Wysokoprężona przestrzenna **membrana zadaszenia** Amfiteatru Nadraduńskiego

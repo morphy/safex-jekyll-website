@@ -1,5 +1,6 @@
 ---
 title: Blendy zacieniające nad Jeziorem Krzywym
+order: 3
 ---
 
 Na potrzeby **ośrodka rekreacyjnego w Olsztynie, Jezioro Krzywe**, wykonaliśmy

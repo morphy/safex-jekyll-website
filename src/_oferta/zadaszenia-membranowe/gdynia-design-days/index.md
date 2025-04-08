@@ -1,5 +1,6 @@
 ---
 title: Zadaszenie typu latawiec na Gdynia Design Days
+order: 4
 ---
 
 ## Zadaszenia membranowe wysokoprężone – szybka realizacja w 48h
