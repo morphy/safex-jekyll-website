@@ -1,21 +1,49 @@
+
+title: Plandeks 900 – Tkanina powlekana PVC 900g/m²
+subtitle: Wzmocniona tkanina techniczna do zastosowań zewnętrznych
+order:
 ---
-title: Plandex 900
+
+## **Plandeks 900 – Tkanina poliestrowa o podwyższonej wytrzymałości**
+
+Plandeks 900 to wyjątkowo wytrzymała tkanina techniczna, wykonana z **poliesteru powlekanego obustronnie PCV**, z dodatkowym **podwójnym zbrojeniem**, które zwiększa odporność na rozciąganie i rozdarcie.  
+
+Dzięki zastosowaniu najwyższej jakości przędzy i struktury siatkowej, tkanina doskonale sprawdza się w najbardziej wymagających warunkach. Jest **wodoodporna, mrozoodporna i odporna na promieniowanie UV**.
+
+Stosowana m.in. do produkcji **plandek ciężkich, zasłon halowych, namiotów wielkogabarytowych oraz pokrowców outdoorowych**.
+
 ---
 
-Podejmujemy się trudnych technologicznie projektów wymagających
-specjalistycznych maszyn do tworzenia skomplikowanych struktur przestrzennych z
-PCV. Nasz wielkoformatowy ploter o **powierzchni kreślenia 3,1 m × 21,2 m**
-umożliwia precyzyjne przygotowanie złożonych wykrojów, uwzględniając
-rozciągliwość materiału.
+### **Specyfikacja techniczna**
 
-Takie struktury często muszą charakteryzować się wysoce wytrzymałymi i
-całkowicie szczelnymi zgrzewami. Zgrzewy o takich parametrach można wykonać
-wyłącznie przy pomocy techniki zgrzewania wysoką częstotliwością (W.cz, HF).
+| **Parametr**                        | **Norma**             | **Wartość**                  |
+|-------------------------------------|------------------------|------------------------------|
+| Tkanina bazowa                      | DIN 60 001             | PES                          |
+| Struktura włókna                    | DIN EN ISO 2060        | 1000 × 1000 dtex             |
+| Splot                                | —                      | 30 × 30 / 12 × 12 (cal² / cm²) |
+| Waga całkowita                      | DIN EN ISO 2286-2      | *900 g/m²*                   |
+| Wytrzymałość na rozrywanie          | DIN 53354              | *4300/4100 N/5 cm*           |
+| Wytrzymałość na dalsze rozdarcie    | DIN 53363              | *520/480 N*                  |
+| Adhezja *(przyleganie warstw)*      | DIN 53357              | *100 N/5 cm*                 |
+| Odporność na niską temperaturę      | DIN 53361              | *-30°C*                      |
+| Odporność na wysoką temperaturę     | DIN 53361              | *+70°C*                      |
+| Zastosowanie                        | —                      | Plandeki, kurtyny, namioty   |
 
-Tworzenie i zamknięcie złożonych form przestrzennych wymaga użycia specjalnie
-skonstruowanej do tego celu samojezdnej maszyny. **Safex Plandeki** dysponuje
-taką maszyną z obracaną głowicą oraz odpowiednio ukształtowanymi elektrodami, co
-umożliwia wykonanie półzamkniętych struktur z tkanin powlekanych PCV lub PCV/PU.
+---
 
-Odpowiednio duża moc zgrzewarki HF umożliwia wykonanie w jednym cyklu mocnych i
-szerokich, nawet do 80 mm, zgrzewów o długości przekraczającej 1 metr.
+### **Cechy produktu**
+- Poliester powlekany PCV obustronnie  
+- Podwójne zbrojenie dla maksymalnej wytrzymałości  
+- Wysoka odporność na promieniowanie UV  
+- Wodoodporna i mrozoodporna  
+- Szerokość rolki: 205 cm  
+- Dedykowana do zastosowań outdoorowych  
+- Dostępna w różnych kolorach  
+
+---
+
+### **Zastosowanie**
+- **Transport** – Pokrowce, plandeki na przyczepki  
+- **Eventy i hale namiotowe** – Duże konstrukcje plandekowe  
+- **Budownictwo** – Kurtyny, osłony materiałowe  
+- **Outdoor** – Zadaszenia, namioty, magazyny plandekowe  
