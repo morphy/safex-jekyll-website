@@ -1,19 +1,21 @@
 {
   "scripts": {
     "postinstall": "cd src && bundle install",
-    "copy-plugins": "shx cp -r src/_themes/safex/_plugins src/",
-    "dev": "npm run copy-plugins && cd src && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload",
-    "dev:verbose": "npm run copy-plugins && cd src && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload --verbose",
-    "build": "npm run copy-plugins && cd src && cross-env JEKYLL_ENV=development bundle exec jekyll build",
-    "build:production": "npm run copy-plugins && cd src && cross-env JEKYLL_ENV=production bundle exec jekyll build",
-    "clean": "shx rm -rf src/.jekyll-cache src/_plugins src/_site src/.jekyll-metadata node_modules",
+    "dev": "npm run build:styles && cd src && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload",
+    "dev:tailwind": "concurrently --kill-others --pad-prefix --prefix-colors red.bold,blue.bold --names Jekyll,Tailwind \"cd src && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload\" \"npm run build:styles -- --watch\"",
+    "build": "npm run build:styles && cd src && cross-env JEKYLL_ENV=development bundle exec jekyll build",
+    "build:production": "npm run build:styles && cd src && cross-env JEKYLL_ENV=production bundle exec jekyll build",
+    "build:styles": "npx tailwindcss -i src/assets/scss/index.scss -o src/assets/css/style.css",
+    "clean": "shx rm -rf src/.jekyll-cache src/_site src/.jekyll-metadata node_modules",
     "format": "prettier --write --ignore-unknown */**",
     "format:check": "prettier --check --ignore-unknown */**"
   },
   "devDependencies": {
     "@shopify/prettier-plugin-liquid": "^1.5.0",
+    "concurrently": "^9.1.2",
     "cross-env": "^7.0.3",
     "prettier": "^3.3.2",
-    "shx": "^0.3.4"
+    "shx": "^0.3.4",
+    "tailwindcss": "^3.4.4"
   }
 }

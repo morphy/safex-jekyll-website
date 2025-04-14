@@ -1,10 +1,12 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./_includes/**/*.{md,markdown,liquid,html}",
-    "./_layouts/**/*.{md,markdown,liquid,html}",
-    "./_pages/**/*.{md,markdown,liquid,html}",
-    "./_posts/**/*.{md,markdown,liquid,html}"
+    "./src/_baza-wiedzy/**/*.{md,markdown,liquid,html}",
+    "./src/_data/**/*.{md,markdown,liquid,html}",
+    "./src/_includes/**/*.{md,markdown,liquid,html}",
+    "./src/_layouts/**/*.{md,markdown,liquid,html}",
+    "./src/_oferta/**/*.{md,markdown,liquid,html}",
+    "./src/_pages/**/*.{md,markdown,liquid,html}"
   ],
   theme: {
     extend: {
