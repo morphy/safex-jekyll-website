@@ -1,5 +1,5 @@
-_themes/
 package-lock.json
+src/_themes/safex/assets/lib
 **/*.jpg
 **/*.webp
 **/*.avif
