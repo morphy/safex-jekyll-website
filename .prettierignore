@@ -1,6 +1,6 @@
 package-lock.json
-src/_themes/safex/assets/lib
-src/_themes/safex/assets/css/style.css
+src/assets/lib
+src/assets/css/style.css
 **/*.jpg
 **/*.webp
 **/*.avif
