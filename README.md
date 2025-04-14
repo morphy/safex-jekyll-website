@@ -1,53 +1,29 @@
 # Safex — strona wizytówka
 
-## Struktura witryny
+## Szybka ściąga
 
-Witryna składa się z trzech rodzajów stron:
+<!-- prettier-ignore -->
+> [!IMPORTANT]
+> W nazwach plików źródłowych nie stosuj spacji i polskich znaków — zamiast
+> nazwy `nasze usługi.md` wybierz raczej `nasze-uslugi.md`. Rozszerzenia plików
+> (w tym zdjęć) również powinny być zapisywane małymi literami.
 
-- Strony zwykłe — zawierają zwykłą zawartość taką jak tekst lub obrazki.
-
-  - przykład: _Oferta_, _O nas_, _Kontakt_
-  - adres: `strona.pl/[nazwa-strony]`
-  - pliki źródłowe: `_pages/[nazwa-strony].md`
-
-- Strony kategorii — zawierają zdjęcie i opis kategorii usług. Stroną nadrzędną
-  jest dla nich strona `Oferta`.
-
-  - przykład: _Dla służb_, _Produkty na zamówienie_, _Wyposażenie sceniczne_
-  - adres: `strona.pl/oferta/[nazwa-kategorii]`
-  - pliki źródłowe: `_categories/[nazwa-kategorii].md`
-
-- Strony usług — zawierają opis i zdjęcia usługi. Stroną nadrzędną jest dla nich
-  strona kategorii, w której dana usługa się znajduje.
-
-  - przykład: _Siatki elewacyjne_, _Zbiorniki pożarowe_
-  - adres: `strona.pl/oferta/[nazwa-kategorii]/[nazwa-usługi]`
-  - pliki źródłowe: `_services/[nazwa-usługi].md`
-
-Podczas edycji pamiętaj o następujących zasadach:
-
-- Nazwy katalogów znajdujących się w katalogu `_services` muszą odpowiadać
-  nazwom kategorii w katalogu `_categories`.
-
-- W nazwach plików źródłowych nie stosuj spacji i polskich znaków — zamiast
-  nazwy `nasze usługi.md` wybierz raczej `nasze-uslugi.md`.
-
-- Zdjęcia usług i kategorii umieszczaj w katalogu `assets/images_source/oferta`.
-  Wykorzystują one podobną zasadę co pliki usług i kategorii:
-  - Zdjęcie kategorii:
-    - Katalog: `assets/images_source/oferta/[nazwa-kategorii]/`
-    - Nazwa pliku: `[nazwa-kategorii].jpg`
-    - Format: JPEG
-    - Przykład: `assets/images_source/oferta/dla-sluzb/dla-sluzb.jpg`
-  - Zdjęcia usług:
-    - Katalog: `assets/images_source/oferta/[nazwa-kategorii]/[nazwa-usługi]`
-    - Nazwa pliku: `[nazwa-usługi]-[numer-zdjęcia].jpg`
-    - Format: JPEG
-    - Zdjęcie o numerze 1 zostanie umieszczone na górze strony
-    - Każde zdjęcie usługi zostanie umieszczone w galerii na dole strony, w
-      kolejności zgodnej z numeracją.
-    - Przykład:
-      `assets/images_source/oferta/dla-sluzb/zbiorniki-pozarowe/zbiorniki-pozarowe-1.jpg`
+- Klonowanie repozytorium:
+  ```
+  git clone --recurse-submodule https://github.com/morphy/safex-jekyll-website.git
+  ```
+- Skrypt instalacyjny (wymagany po sklonowaniu):
+  ```
+  npm install
+  ```
+- Uruchomienie lokalnego podglądu:
+  ```
+  npm run dev
+  ```
+- Uruchomienie automatycznego formatowania:
+  ```
+  npm run format
+  ```
 
 ## Instalacja i uruchomienie lokalnej kopii
 
@@ -81,6 +57,12 @@ prawy przycisk myszy).
 
 ## Modyfikacja i dodawanie zawartości
 
+<!-- prettier-ignore -->
+> [!TIP]
+> Utwórz tyle commitów, ile potrzebujesz. Zmiany warto organizować w mniejsze
+> grupy za pomocą commitów, tak aby potem łatwo było zorientować się, co zostało
+> kiedy dodane.
+
 1. Edycję strony za każdym razem zacznij od sprawdzenia, czy odpowiedni branch
    jest aktywny.
 
@@ -100,9 +82,6 @@ prawy przycisk myszy).
 
    ![dodawanie commita](readme-img-3.png)
 
-6. Utwórz tyle commitów, ile potrzebujesz. Zmiany warto organizować w mniejsze
-   grupy za pomocą commitów, tak aby potem łatwo było zorientować się, co
-   zostało kiedy dodane.
-7. Naciśnij przycisk `Push origin` w celu wgrania zmian na serwer.
+6. Naciśnij przycisk `Push origin` w celu wgrania zmian na serwer.
 
    ![wgrywanie zmian na serwer](readme-img-4.png)
