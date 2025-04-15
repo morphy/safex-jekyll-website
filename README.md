@@ -25,6 +25,17 @@
   npm run format
   ```
 
+<!-- prettier-ignore -->
+> [!WARNING]
+> Poniższa komenda twardo nadpisuje pliki. Jeśli ściagasz zmiany, które ktoś
+> inny wprowadził na twóch branch, upewnij się że w międzyczasie nie dokonywałeś
+> żadnych zmian, a jeśli tak - zapisz je w bezpiecznym miejscu.
+
+- Reset brancha do wersji zdalnej:
+  ```
+  git reset origin/NEPO-content-3 --hard
+  ```
+
 ## Instalacja i uruchomienie lokalnej kopii
 
 Lokalne środowisko umożliwia natychmiastowy podgląd wprowadzonych zmian.
