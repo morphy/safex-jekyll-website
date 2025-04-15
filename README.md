@@ -31,7 +31,7 @@
 > inny wprowadził na twóch branch, upewnij się że w międzyczasie nie dokonywałeś
 > żadnych zmian, a jeśli tak - zapisz je w bezpiecznym miejscu.
 
-- Reset brnacha do wersji zdalnej:
+- Reset brancha do wersji zdalnej:
   ```
   git reset origin/NEPO-content-3 --hard
   ```
