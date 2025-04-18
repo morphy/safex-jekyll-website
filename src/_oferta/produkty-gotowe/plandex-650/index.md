@@ -1,3 +1,0 @@
----
-title: Plandex 650
----

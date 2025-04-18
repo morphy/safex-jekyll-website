@@ -1,5 +1,6 @@
 ---
 title: Zadaszenie sceny plenerowej w Siemiatyczach
+order: 5
 ---
 
 W **2022 roku** zrealizowaliśmy zlecenie na wykonanie **dachu plandekowego**

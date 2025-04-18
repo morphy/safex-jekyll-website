@@ -1,5 +1,6 @@
 ---
 title: Zadaszenie siłowni w Żyrardowie
+order: 2
 ---
 
 Dla miasta Żyrardów wykonaliśmy zadaszenie siłowni polowej. Obiekt znajduje się
