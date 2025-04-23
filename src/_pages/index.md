@@ -21,15 +21,15 @@ heroServices:
   - title: Plandeki
     text: Budowlane, okryciowe, gospodarcze
     icon: tarp
-  - title: Dachy
-    text: Wytrzymałe zadaszenia membranowe
+  - title: Zadaszenia
+    text: Dachy oraz membrany wysokoprężone
     icon: roof
   - title: Pokrowce
-    text: Na kontenery, przyczepy i pojazdy
+    text: Na kontenery, przyczepy i łodzie
     icon: trailer
-  - title: Części
-    text: Harmonijki do maszyn i autobusów
-    icon: gear
+  - title: Siatki
+    text: Siatki rusztowaniowe oraz sceniczne
+    icon: hashtag
 
 # ------ Categories ------
 
