@@ -4,7 +4,7 @@ order: 3
 time: 5-10 dni roboczych
 ---
 
-Oferujemy **pokrowce na łodzie wykonywane na zamówienie**, dopasowane do
+Oferujemy **pokrowce na łódki wykonywane na zamówienie**, dopasowane do
 konkretnych wymiarów jednostki pływającej. Tworzymy je z trwałych tkanin
 **PVC**, odpornych na niekorzystne warunki atmosferyczne, co umożliwia **szybkie
 i łatwe zakładanie oraz zdejmowanie** pokrowca.
@@ -27,5 +27,3 @@ i łatwe zakładanie oraz zdejmowanie** pokrowca.
 dokonania dokładnych pomiarów i dopasowania na etapie produkcji. Istnieje
 również możliwość przesłania starego pokrowca (o ile nie jest wykonany z
 rozciągliwego materiału) w celu odwzorowania wymiarów.**
-
----

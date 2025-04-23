@@ -70,5 +70,3 @@ przygotowanej konstrukcji, wykorzystując wkręty farmerskie.
 Dach plandekowy zamontowany w opisany sposób będzie skutecznie chronił przed
 opadami i zapewni odpowiednie warunki pod zadaszeniem – zarówno w **altankach**,
 jak i **ogródkach piwnych** czy innych lekkich konstrukcjach.
-
-> > > > > > > Stashed changes
