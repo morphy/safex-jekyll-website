@@ -1,6 +1,7 @@
 ---
 title: Plandeki Antykryzysowe
 subtitle: Zabezpiecz dach szybko i bezpiecznie w sytuacjach kryzysowych
+time: 1 dzień roboczy
 ---
 
 ## Dlaczego warto stosować plandeki antykryzysowe?

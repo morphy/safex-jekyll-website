@@ -1,54 +1,55 @@
 ---
-title: Vinyplan 4126 – Lekka tkanina powlekana PVC 250g
-subtitle:
+title: Vinyplan 6571 – PVC/PU 1150g/m²
+subtitle: Najmocniejsza tkanina techniczna z potrójnym zbrojeniem typu Panama
 order:
 ---
 
-Vinyplan 4126 to wyjątkowo lekka tkanina powlekana PCV, jednostronnie pokryta
-warstwą ochronną. Dzięki swojej trwałości i odporności na warunki atmosferyczne
-jest idealnym materiałem do zastosowań takich jak:
+## **Vinyplan 6571 – Najwyższa wytrzymałość do zadań specjalnych**
 
-- Lekkie plandeki na łodzie
-- Pokrowce na meble ogrodowe
-- Fartuchy robocze dla przemysłu spożywczego
-- Osłony techniczne i inne zastosowania wymagające elastycznej ochrony
+_Vinyplan 6571_ to wyjątkowo gruba, techniczna tkanina powlekana **PVC/PU**,
+która dzięki potrójnemu zbrojeniu typu **Panama** oraz dodatkowi
+**poliuretanu**, osiąga najwyższe parametry wytrzymałości mechanicznej w swojej
+klasie.
+
+Stworzona z myślą o najbardziej wymagających zastosowaniach – tam, gdzie inne
+materiały zawodzą. Idealna do zastosowań przemysłowych, rolniczych, maszynowych
+oraz specjalistycznych.
 
 ---
 
 ### **Specyfikacja techniczna**
 
-| **Parametr**                   | **Wartość**                                  |
-| ------------------------------ | -------------------------------------------- |
-| Tkanina bazowa                 | 280 dtex poliester                           |
-| Gramatura                      | _250 g/m²_                                   |
-| Szerokość rolki                | _1,55 m_                                     |
-| Długość rolki                  | _75 m_                                       |
-| Powleczenie                    | _PCV_                                        |
-| Wykończenie                    | _Nielakierowana_                             |
-| Wytrzymałość na rozdarcie      | _DIN 53363_                                  |
-| _(norma)_                      | _DIN 53356 – 100/90 N_<br>_SFS 3981_         |
-| Wytrzymałość na rozrywanie     | _DIN 53354_                                  |
-| _(norma)_                      | _SFS 2983 –1100/1000 N/5cm_<br>_EN ISO 1421_ |
-| Adhezja _(przyleganie warstw)_ | _60 N/5cm_                                   |
-| Temperatura użytkowania        | _-30°C / +70°C_                              |
-| Trudnopalność                  | _brak_                                       |
+| **Parametr**                   | **Norma**               | **Wartość**            |
+| ------------------------------ | ----------------------- | ---------------------- |
+| Tkanina bazowa                 | —                       | 1670 dtex poliester    |
+| Szerokość rolki                | —                       | _205 cm_               |
+| Powleczenie                    | —                       | _PVC / PU (mieszanka)_ |
+| Waga całkowita                 | —                       | _1150 g/m²_            |
+| Wytrzymałość na rozdarcie      | DIN 53363               | _1300/1200 N_          |
+| Wytrzymałość na rozrywanie     | EN ISO 1421 / DIN 53354 | _8000/7500 N/5 cm_     |
+| Adhezja _(przyleganie warstw)_ | IVK 3.13                | _min. 120 N/5 cm_      |
+| Odporność temperaturowa        | SFS-EN 1876-1           | _-35°C do +70°C_       |
 
 ---
 
 ### **Cechy produktu**
 
-- Powlekane PCV
-- Baza: tkanina
-- Produkt standardowy
-- Szerokość rolki: 1,55 m
-- Waga od 100 do 250 g/m²
-- Naturalnie prześwitujące
-- Do szycia
-- Zbrojenie: poliester
+- Tkanina poliestrowa o potrójnym splocie **Panama**
+- Powleczenie **PVC z dodatkiem PU** (dla elastyczności i trwałości)
+- Bardzo gruby i sztywny materiał: _1150 g/m²_
+- Najwyższa odporność na rozrywanie i rozdarcie w klasie
+- Bardzo mocna przyczepność warstw
+- Stabilność wymiarowa nawet w skrajnych temperaturach
+- Kolory: **103 pomarańczowy**, **343 żółty**
 
 ---
 
-### **Odporność na UV**
+### **Zastosowanie**
 
-Wszystkie tkaniny powlekane PCV są odporne na działanie promieni UV, co sprawia,
-że nadają się do użytkowania na zewnątrz i w wymagających warunkach.
+- **Przemysł** – Taśmociągi i elementy przesuwne
+- **Maszyny rolnicze** – Pokrycia tłoczysk, osłony robocze
+- **Nietypowe rozwiązania** – Tam, gdzie wymagana jest **maksymalna trwałość i
+  sztywność**
+- **Zabudowy techniczne** – Zastosowania specjalistyczne, przemysł ciężki
+
+---
