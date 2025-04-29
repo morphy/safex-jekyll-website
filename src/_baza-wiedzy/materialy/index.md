@@ -1,6 +1,6 @@
 ---
 title: Materiały Plandekowe na których pracujemy
-subtitle:
-  poniżej znajdzuiesz informacje na temat materiałów z których tworzymy nasze
-  wyroby
+subtitle: Spis materiałów z których Safex Plandeki wytwarza swoje wyroby
 ---
+
+Poniżej znajdziesz spis materiałów plandekowych firmy Safex Plandeki, wraz z ich zastosowaniem oraz danymi technicznymi. 
