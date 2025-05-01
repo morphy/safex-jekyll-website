@@ -1,8 +1,8 @@
 ---
 title: Plandeki wielkoformatowe
+order: 8
+time: 10 dni roboczych
 ---
-
-## Plandeki wielkoformatowe
 
 Jako jedna z nielicznych firm specjalizujemy się w wykonywaniu
 **wielkoformatowych plandek na zamówienie**. Dzięki nowoczesnej hali

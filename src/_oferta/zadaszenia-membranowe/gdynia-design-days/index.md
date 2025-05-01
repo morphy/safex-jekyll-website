@@ -3,8 +3,6 @@ title: Zadaszenie typu latawiec na Gdynia Design Days
 order: 4
 ---
 
-## Zadaszenia membranowe wysokoprężone – szybka realizacja w 48h
-
 Jesteśmy w stanie błyskawicznie zaprojektować i wykonać zadaszenia membranowe
 wysokoprężone, dostosowane do indywidualnych wymagań i warunków montażowych.
 Doskonałym przykładem naszych możliwości jest realizacja dachu membranowego dla

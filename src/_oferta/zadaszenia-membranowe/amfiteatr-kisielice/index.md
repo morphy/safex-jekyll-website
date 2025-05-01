@@ -1,6 +1,7 @@
 ---
 title: Amfiteatr w Kisielicach
 time: 20+ dni roboczych
+order: 9
 ---
 
 ## Powłoka membranowa niskoprężona – amfiteatr w Kisielicach
