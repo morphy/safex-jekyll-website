@@ -4,8 +4,6 @@ subtitle: Najmocniejsza tkanina techniczna z potrójnym zbrojeniem typu Panama
 order:
 ---
 
-## **Vinyplan 6571 – Najwyższa wytrzymałość do szczególnych zastosowań. 
-
 _Vinyplan 6571_ to wyjątkowo gruba, techniczna tkanina powlekana **PVC/PU**,
 która dzięki potrójnemu zbrojeniu typu **Panama** oraz dodatkowi
 **poliuretanu**, osiąga najwyższe parametry wytrzymałości mechanicznej w swojej

@@ -1,15 +1,8 @@
 ---
 title: Folia Placlear
+subtitle: 
+order:
 ---
-
----
-
-title: Folia PCW – Transparentna folia PCV niezbrojona subtitle: Elastyczna i
-wytrzymała folia transparentna order:
-
----
-
-## **Folia PCW – Transparentna folia PCV niezbrojona**
 
 _Transparentna folia PCV niezbrojona_ to wysokiej jakości materiał o gładkiej,
 lakierowanej powierzchni, która zapewnia ochronę przed wnikaniem zanieczyszczeń.

@@ -4,8 +4,6 @@ subtitle: Wytrzymała i wodoodporna tkanina do zastosowań zewnętrznych
 order:
 ---
 
-## **Plandeks 650 – Tkanina poliestrowa obustronnie powlekana PCV**
-
 Plandeks 650 to wytrzymała tkanina techniczna z **poliestrowym rdzeniem**,
 obustronnie powlekana **PCV**, dedykowana do intensywnego użytkowania w
 warunkach zewnętrznych. Cechuje się wysoką odpornością na promieniowanie **UV**,
