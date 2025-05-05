@@ -1,6 +1,7 @@
 ---
 title: Hak sprężynowy do ekspandora
 subtitle: 
+order: 6
 ---
 **Hak sprężynowy do ekspandora 10 mm** to trwały element mocujący przeznaczony do stosowania z linkami elastycznymi (gumami naciągowymi) o średnicy 10 mm. Wykonany ze stali, zapewnia pewne i bezpieczne mocowanie plandek, siatek, osłon oraz innych elementów wymagających elastycznego naciągu.
 

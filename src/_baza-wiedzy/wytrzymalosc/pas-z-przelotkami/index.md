@@ -1,6 +1,7 @@
 ---
 title: Pas z przelotkami
 subtitle: 
+order: 3
 ---
 
 **Pas z przelotkami** to wytrzymały element mocujący wykonany z gęsto tkanej taśmy technicznej, wykorzystywany w systemach montażu plandek, kurtyn, siatek oraz osłon przemysłowych. Dzięki wzmocnionej strukturze materiału i wszytym przelotkom (otworom montażowym), pas umożliwia szybkie, pewne i równomierne rozłożenie naprężeń wzdłuż linii mocowania.

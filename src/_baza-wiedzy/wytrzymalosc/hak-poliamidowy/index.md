@@ -1,6 +1,7 @@
 ---
 title: Hak poliamidowy
 subtitle: 
+order: 4
 ---
 
 **Hak poliamidowy** to lekki, a zarazem wytrzymały element mocujący, przeznaczony do montażu plandek oraz innych materiałów osłonowych w przyczepach, naczepach, halach namiotowych i konstrukcjach tymczasowych. Wykonany z tworzywa sztucznego (poliamidu), cechuje się dużą odpornością na uszkodzenia mechaniczne, promieniowanie UV oraz zmienne warunki atmosferyczne.

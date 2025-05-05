@@ -1,6 +1,7 @@
 ---
 title: Hak montażowy stalowy
 subtitle: 
+order: 5
 ---
 **Hak montażowy stalowy** to niewielki, ale niezwykle funkcjonalny element przeznaczony do szybkiego i trwałego mocowania różnego rodzaju osłon, plandek, siatek oraz kurtyn technicznych. Dzięki solidnej konstrukcji oraz dwóm otworom montażowym, hak można łatwo i stabilnie przytwierdzić do powierzchni stalowych, drewnianych lub aluminiowych.
 

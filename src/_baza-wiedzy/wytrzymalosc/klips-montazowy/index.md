@@ -1,6 +1,7 @@
 ---
 title: Klips Montażowy
 subtitle: 
+order: 12
 ---
 **Klips montażowy** to praktyczny element służący do szybkiego i estetycznego mocowania plandek, fartuchów, osłon, pokrowców oraz innych materiałów technicznych. Składa się z wytrzymałej podstawy (najczęściej z tworzywa sztucznego) i dwóch zatrzasków stalowych, które zapewniają stabilne i trwałe połączenie z tkaniną lub elementem konstrukcji.
 

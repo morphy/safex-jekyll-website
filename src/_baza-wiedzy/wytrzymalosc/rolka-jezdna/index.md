@@ -1,6 +1,7 @@
 ---
 title: Rolka jezdna
 subtitle: 
+order: 11
 ---
 **Rolka jezdna do kurtyny plandekowej** to kluczowy element systemu przesuwnego, umożliwiający płynne i bezawaryjne przesuwanie kurtyn z tworzywa PVC, tkanin technicznych lub plandek. Dzięki zastosowaniu łożyskowanej rolki prowadzącej, ruch odbywa się cicho, stabilnie i bez zacinania – nawet przy częstej eksploatacji.
 

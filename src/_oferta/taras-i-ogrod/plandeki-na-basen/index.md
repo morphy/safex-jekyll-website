@@ -2,6 +2,7 @@
 title: Plandeki na baseny
 subtitle: subtitle
 order: 6
+time: 5-10 dni roboczych
 ---
 
 Oferujemy plandeki do przykrycia basenów wykonane z **wyjątkowo wytrzymałego  

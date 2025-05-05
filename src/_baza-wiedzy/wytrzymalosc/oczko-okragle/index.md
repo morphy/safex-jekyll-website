@@ -1,6 +1,7 @@
 ---
 title: Oczka okrągłe
 subtitle: 
+order: 9
 ---
 Oczka plandekowe okrągłe to najczęściej stosowane rozwiązanie mocujące w plandekach, kurtynach, banerach, osłonach i konstrukcjach tymczasowych. Charakteryzują się prostą, wytrzymałą konstrukcją, która zapewnia trwałość i łatwość montażu.
 

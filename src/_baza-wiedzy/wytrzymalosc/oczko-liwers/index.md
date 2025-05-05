@@ -1,6 +1,7 @@
 ---
 title: Oczka liwers
 subtitle: 
+order: 10
 ---
 **Oczka Liwers** to specjalistyczne oczka plandekowe, wyróżniające się podłużnym, owalnym kształtem – w przeciwieństwie do klasycznych oczek okrągłych. Ich budowa pozwala lepiej rozłożyć naprężenia, co ma ogromne znaczenie w przypadku intensywnie eksploatowanych plandek, banerów, namiotów czy kurtyn przemysłowych.
 

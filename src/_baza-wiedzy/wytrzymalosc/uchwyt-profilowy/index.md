@@ -1,6 +1,7 @@
 ---
 title: Uchwyt do mocowania profila
 subtitle: 
+order: 13
 ---
 **Uchwyt do mocowania profila** to trwały i solidnie wykonany element montażowy, przeznaczony do instalacji profili prowadzących w systemach kurtyn plandekowych. Stosowany głównie w obiektach przemysłowych, halach, magazynach oraz na konstrukcjach mobilnych, zapewnia stabilne osadzenie profila, po którym porusza się kurtyna plandekowa.
 

@@ -1,6 +1,7 @@
 ---
 title: Rzepy
 subtitle: 
+order: 7
 ---
 Rzepy przemysłowe to niezwykle praktyczne rozwiązanie stosowane w plandekach, kurtynach, pokrowcach, osłonach technicznych oraz wielu innych konstrukcjach, gdzie liczy się szybki montaż i demontaż bez użycia narzędzi. W naszej ofercie dostępna jest szeroka gama taśm rzepowych w różnych szerokościach, kolorach oraz wariantach mocowania.
 

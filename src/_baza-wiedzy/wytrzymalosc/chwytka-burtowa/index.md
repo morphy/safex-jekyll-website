@@ -1,6 +1,7 @@
 ---
 title: Chwytka burtowa
 subtitle: 
+order: 2
 ---
 
 **Chwytka burtowa** to wytrzymały element mocujący, przeznaczony do zastosowania w systemach zabezpieczania plandek na burtach przyczep, naczep oraz innych konstrukcjach transportowych. Wykonana z trwałego, odpornego na warunki atmosferyczne tworzywa sztucznego, zapewnia długotrwałe użytkowanie bez ryzyka pęknięć czy odkształceń.
