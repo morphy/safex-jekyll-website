@@ -13,24 +13,28 @@
 {% endif %}
 
 <div class="flex flex-row items-center xl:gap-8 sm:gap-4 gap-4 px-6 py-2.5 border-b border-gray-300">
-  <div class="flex items-center gap-2">
-    <div class="shrink-0 p-1.5 size-7 rounded-full border border-gray-300 border-solid *:fill-gray-400">
-      {% include icons/image.svg %}
+  {% if imagesCount > 0 %}
+    <div class="flex items-center gap-2">
+      <div class="shrink-0 p-1.5 size-7 rounded-full border border-gray-300 border-solid *:fill-gray-400">
+        {% include icons/image.svg %}
+      </div>
+
+      <span class="text-[12px]  text-neutral-500">{{ imagesCount }}&nbsp;{{ imagesNoun }}</span>
     </div>
+  {% endif %}
 
-    <span class="text-[12px]  text-neutral-500">{{ imagesCount }}&nbsp;{{ imagesNoun }}</span>
-  </div>
+  {% if node.time %}
+    <div class="flex items-center gap-2">
+      <div class="shrink-0 p-1.5 size-7 rounded-full border border-gray-300 border-solid *:fill-gray-400">
+        {% include icons/clock-regular.svg %}
+      </div>
 
-  <div class="flex items-center gap-2">
-    <div class="shrink-0 p-1.5 size-7 rounded-full border border-gray-300 border-solid *:fill-gray-400">
-      {% include icons/clock-regular.svg %}
+      <span class="text-[12px]  text-neutral-500">
+        <span class="hidden md:inline">Czas realizacji:</span>
+        {{ node.time }}
+      </span>
     </div>
-
-    <span class="text-[12px]  text-neutral-500">
-      <span class="hidden md:inline">Czas realizacji:</span>
-      {{ node.time | default: 'Tysiąc lat' }}
-    </span>
-  </div>
+  {% endif %}
 
   <div class="flex items-center gap-2">
     <div class="shrink-0 p-1.5 size-7 rounded-full border border-gray-300 border-solid *:fill-gray-400">
