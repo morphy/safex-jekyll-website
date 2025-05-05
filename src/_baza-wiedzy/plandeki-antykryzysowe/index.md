@@ -2,6 +2,7 @@
 title: Plandeki Antykryzysowe
 subtitle: Zabezpiecz dach szybko i bezpiecznie w sytuacjach kryzysowych
 time: 1 dzień roboczy
+order: 5
 ---
 
 Silne wichury, gwałtowne burze i nawałnice to coraz częstsze wyzwania w dobie

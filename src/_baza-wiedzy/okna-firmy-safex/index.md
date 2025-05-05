@@ -1,6 +1,6 @@
 ---
 title: Cała wiedza o oknach plandekowych od firmy Safex Plandeki
-order: 1
+order: 4
 ---
 
 Plandeki z oknami, zgrzewane na
