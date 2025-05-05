@@ -1,5 +1,6 @@
 ---
 title: Różnica między "filtrem UV" a "odpornością na UV"
+order: 10
 ---
 
 Aby wydłużyć okres eksploatacji polietylenowych plandek okryciowych narażonych

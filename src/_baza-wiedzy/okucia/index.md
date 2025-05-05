@@ -1,5 +1,6 @@
 ---
 title: Akcesoria i okucia plandekowe
+order: 2
 ---
 
 Tutaj znajdziesz krótki spis i opis okuć do plandek, z których korzystamy.

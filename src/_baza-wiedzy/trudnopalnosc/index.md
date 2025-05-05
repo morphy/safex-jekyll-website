@@ -1,6 +1,6 @@
 ---
 title: Trudnopalność plandek polietylenowych
-subtitle: Test
+order: 8
 ---
 
 Wszystkie tworzywa sztuczne z grupy **poliolefin**, w tym **polietylen (PE) i

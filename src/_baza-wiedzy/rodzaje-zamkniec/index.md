@@ -1,5 +1,6 @@
 ---
 title: Rodzaje zamknięć
+order: 7
 ---
 
 Pokrowce z plandek znajdują szerokie zastosowanie w ogrodach, gospodarstwach

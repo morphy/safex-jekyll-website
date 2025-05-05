@@ -1,5 +1,5 @@
 ---
-title: Plandeks
+title: Plandex 650 - Tkanina powlekana PVC 650g/m²
 ---
 
 Tkaniny Plandeks 650/900 to wytrzymałe tkaniny techniczne z poliestrowym
