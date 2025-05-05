@@ -1,11 +1,17 @@
-{% include directories.liquid nodes=directoryNodes %}
+{% if page.displayDirectoriesAsFiles %}
+  {% include files.liquid nodes=directoryNodes %}
+
+  {% if directoryNodes.size > 0 %}
+    <hr class="border-gray-600">
+  {% endif %}
+{% else %}
+  {% include directories.liquid nodes=directoryNodes %}
+{% endif %}
 
 {% include files.liquid nodes=fileNodes %}
 
 <div>
-  {% if page.subtitle %}
-    <h1 class="text-[2em] mb-6">{{ page.subtitle }}</h1>
-  {% endif %}
+  <h1 class="text-[2em] mb-6">{{ page.subtitle | default: page.title }}</h1>
 
   <div class="content">{{ content }}</div>
 </div>

@@ -1,5 +1,7 @@
 {% assign directory = node.path | split: '/' | pop | join: '/' %}
 {% assign files = site.emptyArray %}
+{% assign filteredFiles = site.emptyArray %}
+{% assign excludes = 'md' | split: ',' %}
 
 <h2 class="text-lg lg:text-xl tracking-wider">Do pobrania</h2>
 <hr class="mb-5 mt-3 w-16 h-0.5 bg-red-500 border-none">
@@ -7,18 +9,41 @@
 <ul>
   {% directory path: directory filter: .$ %}
 
-  {% assign cleanFilename = file.url | remove_first: '_' %}
+  {% assign files = files | push: file %}
 
-  <li>
-    <a
-      class="flex py-4 text-2xs text-neutral-600 border-b border-gray-300 border-solid duration-200 hover:underline hover:text-red-500"
-      href="{{ file.url | remove_first: '_' | relative_url }}"
-      target="_blank"
-    >
-      {{ file.name }}
-
-      <span class="ml-auto">{{ file.filesize }}</span>
-    </a>
-  </li>
   {% enddirectory %}
+
+  {% for file in files %}
+    {% assign extension = file.name | split: '.' | last %}
+
+    {% assign remove = false %}
+
+    {% for exclude in excludes %}
+      {% if exclude == extension %}
+        {% assign remove = true %}
+      {% endif %}
+    {% endfor %}
+
+    {% unless remove %}
+      {% assign filteredFiles = filteredFiles | push: file %}
+    {% endunless %}
+  {% endfor %}
+
+  {% for file in filteredFiles %}
+    <li>
+      <a
+        class="flex py-4 text-2xs text-neutral-600 border-b border-gray-300 border-solid duration-200 hover:underline hover:text-red-500"
+        href="{{ file.url | remove_first: '_' | relative_url }}"
+        target="_blank"
+      >
+        {{ file.name }}
+
+        <span class="ml-auto">{{ file.filesize }}</span>
+      </a>
+    </li>
+  {% endfor %}
+
+  {% if filteredFiles.size == 0 %}
+    <li class="py-4 text-2xs text-center text-neutral-600 border-b border-gray-300 border-solid">Brak materiałów</li>
+  {% endif %}
 </ul>
