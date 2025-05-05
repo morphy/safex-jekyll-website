@@ -4,12 +4,8 @@ subtitle:
 order: 1
 ---
 
-## Cała wiedza o oknach plandekowych od firmy Safex Plandeki
-
-### **Plandeki z oknami – trwałe i funkcjonalne rozwiązanie**
-
 Plandeki z oknami, zgrzewane na
-<a href="http://localhost:4000/oferta/park-maszynowy/zgrzewanie-wcz/" target="_blank">zgrzewarkach
+<a href="http://plandeki.com.pl/oferta/park-maszynowy/zgrzewanie-wcz/" target="_blank">zgrzewarkach
 wysokiej częstotliwości</a> , wyposażone w oczka i paski do podwijania oraz
 mocowane za pomocą chwytek i przekrętek do konstrukcji nośnej, stanowią
 doskonałe rozwiązanie umożliwiające przedłużenie sezonu na chłodniejsze

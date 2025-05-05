@@ -4,8 +4,6 @@ subtitle: Zabezpiecz dach szybko i bezpiecznie w sytuacjach kryzysowych
 time: 1 dzień roboczy
 ---
 
-## Dlaczego warto stosować plandeki antykryzysowe?
-
 Silne wichury, gwałtowne burze i nawałnice to coraz częstsze wyzwania w dobie
 postępujących zmian klimatycznych. Globalne ocieplenie sprzyja występowaniu
 ekstremalnych zjawisk pogodowych, które mogą doprowadzić do zerwania pokryć

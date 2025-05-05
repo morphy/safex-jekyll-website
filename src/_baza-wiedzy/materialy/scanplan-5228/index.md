@@ -4,8 +4,6 @@ subtitle: Wytrzymała techniczna siatka z klasyfikacją ogniową B-s3, d0
 order:
 ---
 
-## **Siatka poliestrowa powlekana PCV**
-
 _Siatka poliestrowa powlekana PCV_ to materiał techniczny o wysokiej odporności
 na warunki atmosferyczne oraz bardzo dobrej przepuszczalności powietrza. Dzięki
 swojej strukturze i właściwościom, znajduje szerokie zastosowanie w scenografii,
