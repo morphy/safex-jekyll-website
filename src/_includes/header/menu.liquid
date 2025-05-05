@@ -61,11 +61,23 @@
     </ul>
   </nav>
 
-  <label class="grow max-w-80 order-2 lg:order-3 hidden md:block">
-    <input
-      type="text"
-      class="w-full border border-solid border-gray-400 px-6 py-3 text-sm"
-      placeholder="Wyszukaj"
-    >
-  </label>
+  <div class="relative grow max-w-80 order-2 lg:order-3 hidden md:block">
+    <label class="flex border border-solid border-gray-400">
+      <input
+        type="text"
+        id="search-input"
+        class="w-full px-6 py-3 text-sm"
+        placeholder="Wyszukaj"
+      >
+
+      <button id="search-clear" class="hidden w-12 px-4 *:fill-gray-400">
+        {% include icons/xmark.svg %}
+      </button>
+    </label>
+
+    <ul
+      id="search-results"
+      class="absolute z-10 w-full bg-white border-x border-gray-300 max-h-60 overflow-y-auto"
+    ></ul>
+  </div>
 </div>

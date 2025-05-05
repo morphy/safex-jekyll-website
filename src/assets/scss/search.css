@@ -1,0 +1,3 @@
+#search-input:not(:placeholder-shown) + #search-clear {
+  display: block;
+}

@@ -1,0 +1,15 @@
+---
+layout: none
+---
+[
+  {% assign searchable = site.pages | concat: site.posts | concat: site.oferta | concat: site['baza-wiedzy'] %}
+  {% for page in searchable %}
+    {% unless page.title == nil or page.content == nil or page.exclude_from_search %}
+    {
+      "title": "{{ page.title | escape }}",
+      "url": "{{ page.url | relative_url }}",
+      "content": {{ page.content | strip_html | strip_newlines | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+    {% endunless %}
+  {% endfor %}
+]
