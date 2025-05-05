@@ -29,4 +29,5 @@ co przyczynia się do ochrony środowiska.
 **Jak zamówić**: Aby mieć pewność, że nasze siedzisko będzie idealnie pasować,  
 prześlij nam **stare siedzisko na wzór**. Koniecznie dołącz **adres, numer  
 telefonu** oraz **adres e-mail**. Najwygodniej przesłać je na **paczkomat GDY45M
-(792666016)**.
+(792666016)**. 
+Jeśli nie chce przesyłać- wypełnij rysunek który znajdziesz poniżej. Podaj realne wymiary, nie dodawaj zapasu.

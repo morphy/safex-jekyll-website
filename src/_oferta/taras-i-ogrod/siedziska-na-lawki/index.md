@@ -29,3 +29,4 @@ niż oryginalne siedzisko.
 siedzisko**  
 na wzór i dołącz **adres, numer telefonu** oraz **adres e-mail**. Najwygodniej  
 wysłać je na **paczkomat GDY45M (792666016)**.
+Jeśli nie chce przesyłać- wypełnij rysunek który znajdziesz poniżej. Podaj realne wymiary, nie dodawaj zapasu.
