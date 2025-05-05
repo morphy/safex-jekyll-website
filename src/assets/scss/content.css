@@ -51,6 +51,10 @@
     @apply pl-10 list-disc text-neutral-700;
   }
 
+  li {
+    margin-top: 5px;
+  }
+
   & > *:first-child,
   li > ul:first-of-type {
     margin-top: 0;

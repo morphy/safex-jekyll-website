@@ -1,33 +1,104 @@
 <div class="content">
-  <h1>Mapa strony</h1>
+  <h2>Strony</h2>
   <ul>
     {% for page in site.pages %}
       <li>
         <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
       </li>
     {% endfor %}
+  </ul>
 
-    {% for collection in site.collections %}
-      {% if collection.label == 'posts' %}
-        {% continue %}
+  {% for collection in site.collections %}
+    {% if collection.label == 'posts' %}
+      {% continue %}
+    {% endif %}
+
+    {% assign maxLevel = 0 %}
+    {% assign lookup = site.emptyArray %}
+
+    {% for doc in collection.docs %}
+      {% assign level = doc.path | split: '/' | pop | size %}
+      {% assign path = doc.path | split: '/' | pop | join: '/' %}
+
+      {% if level > maxLevel %}
+        {% assign maxLevel = level %}
       {% endif %}
 
-      {% assign path = collection.label | prepend: '_' | append: '/index.md' %}
-      {% assign collectionPage = collection.docs | where: 'path', path | first %}
-
-      <li>
-        <a href="{{ collectionPage.url | relative_url }}">{{ collectionPage.title }}</a>
-
-        <ul>
-          {% for doc in collection.docs %}
-            <li>
-              {{ doc.path }}
-              <b>{{ doc.path | split: '/' | size }}</b>
-              {% comment %}<a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>{% endcomment %}
-            </li>
-          {% endfor %}
-        </ul>
-      </li>
+      {% assign tuple = site.emptyArray | push: path | push: '' %}
+      {% assign lookup = lookup | push: tuple %}
     {% endfor %}
-  </ul>
+
+    {% for level in (1..maxLevel) reversed %}
+      {% for doc in collection.docs %}
+        {% assign docPath = doc.path | split: '/' | pop %}
+        {% assign docJoinedPath = docPath | join: '/' %}
+
+        {% assign docLevel = docPath | size %}
+
+        {% if docLevel != level %}
+          {% continue %}
+        {% endif %}
+
+        {% assign childrenHtml = '' %}
+
+        {% for potentialChild in collection.docs %}
+          {% assign potentialChildPath = potentialChild.path | split: '/' | pop %}
+          {% assign potentialChildJoinedPath = potentialChildPath | join: '/' %}
+
+          {% assign potentialChildLevel = potentialChildPath | size %}
+          {% assign requiredChildLevel = docLevel | plus: 1 %}
+
+          {% if potentialChildLevel != requiredChildLevel %}
+            {% continue %}
+          {% endif %}
+
+          {% assign startsWithDocPath = true %}
+
+          {% for i in (1..docLevel) %}
+            {% if potentialChildPath[forloop.index0] != docPath[forloop.index0] %}
+              {% assign startsWithDocPath = false %}
+            {% endif %}
+          {% endfor %}
+
+          {% if startsWithDocPath %}
+            {% assign lookupEntry = lookup | where_exp: 'item', 'item[0] == potentialChildJoinedPath' | first %}
+
+            {% capture appendix %}
+              <li>
+                <a href="{{ potentialChild.url | relative_url | remove: 'index.html' }}">{{ potentialChild.title }}</a>
+
+                {% if lookupEntry[1] != '' %}
+                  <ul>{{ lookupEntry[1] }}</ul>
+                {% endif %}
+              </li>
+            {% endcapture %}
+
+            {% assign childrenHtml = childrenHtml | append: appendix %}
+          {% endif %}
+        {% endfor %}
+
+        {% assign newEntry = site.emptyArray | push: docJoinedPath | push: childrenHtml %}
+        {% assign newLookup = lookup | where_exp: 'item', 'item[0] != docJoinedPath' | push: newEntry %}
+        {% assign lookup = newLookup %}
+
+        {% if level == 1 %}
+          {% assign entry = lookup | where_exp: 'item', 'item[0] == docJoinedPath' | first %}
+
+          <h2>{{ doc.title }}</h2>
+
+          <ul>
+            <li>
+              <a href="{{ doc.url | relative_url | remove: 'index.html' }}">
+                {{ doc.title }}
+              </a>
+
+              <ul>
+                {{ entry[1] }}
+              </ul>
+            </li>
+          </ul>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  {% endfor %}
 </div>
