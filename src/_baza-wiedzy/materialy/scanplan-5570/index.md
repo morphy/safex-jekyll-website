@@ -1,7 +1,7 @@
 ---
-title: Scanplan 5570 – Materiał na maty antypoślizgowe 800g
-subtitle:
-  Wysokiej jakości powlekana tkanina PCV o właściwościach antypoślizgowych
+title:
+  Scanplan 5570 – Materiał na maty antypoślizgowe 800g Wysokiej jakości
+  powlekana tkanina PCV o właściwościach antypoślizgowych
 order:
 ---
 

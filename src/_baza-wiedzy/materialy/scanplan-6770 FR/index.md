@@ -1,6 +1,5 @@
 ---
 title: Vinyplan 6770 FR – Panama – Bardzo wytrzymała i trudnopalna 900g
-subtitle:
 order:
 ---
 

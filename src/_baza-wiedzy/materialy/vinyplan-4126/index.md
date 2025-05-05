@@ -1,6 +1,5 @@
 ---
 title: Vinyplan 4126 – Lekka tkanina powlekana PVC 250g
-subtitle:
 order:
 ---
 
