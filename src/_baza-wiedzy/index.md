@@ -2,6 +2,8 @@
 title: Baza wiedzy
 subtitle: Przydatne informacje
 order: 4
+
+displayDirectoriesAsFiles: true
 ---
 
 Od momentu powstania w 1991 roku, firma Safex nieustannie rozwija swoje

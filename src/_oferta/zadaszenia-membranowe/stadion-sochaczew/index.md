@@ -1,5 +1,6 @@
 ---
 title: Zadaszenie trybun stadionu w Sochaczewie
+order: 6
 ---
 
 Nasza kolejna realizacja zadaszenia membranowego. Tym razem wykonaliśmy

@@ -3,8 +3,6 @@ title: Szwalnia przemysłowa z maszynami Typical
 order: 1
 ---
 
-**Świadczymy usługi szycia profesjonalnymi maszynami przemysłowymi.**
-
 W naszym parku maszynowym, oprócz maszyn zgrzewających, posiadamy nowoczesne,
 sterowane elektronicznie, długoramienne (**750 mm**) maszyny do szycia. Dzięki
 kilku egzemplarzom tych maszyn możemy szybko i sprawnie realizować zlecenia.

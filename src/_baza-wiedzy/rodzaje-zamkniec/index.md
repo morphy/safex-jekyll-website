@@ -2,8 +2,6 @@
 title: Rodzaje zamknięć
 ---
 
-## Rodzaje zamknięć
-
 Pokrowce z plandek znajdują szerokie zastosowanie w ogrodach, gospodarstwach
 domowych, transporcie czy przemyśle. Istotnym elementem, decydującym o ich
 wygodzie i trwałości, jest rodzaj zamknięcia. Wybór odpowiedniego rozwiązania

@@ -1,20 +1,54 @@
 .content {
+  /* H1 */
+
   h1 {
     font-size: 2em;
+
     margin: 0.67em 0;
   }
 
+  /* H2 */
+
   h2 {
     font-size: 1.5em;
+    font-weight: 500;
     margin: 0.75em 0;
   }
 
+  /* H3 */
+
   h3 {
     font-size: 1.17em;
+    font-weight: 500;
     margin: 0.83em 0;
   }
 
-  h4,
+  /* H4 */
+
+  h4 {
+    @apply text-base;
+    font-weight: 500;
+    margin: 1.12em 0;
+  }
+
+  /* H5 */
+
+  h5 {
+    font-size: 0.83em;
+    font-weight: 500;
+    margin: 1.5em 0;
+  }
+
+  /* H6 */
+
+  h6 {
+    font-size: 0.75em;
+    font-weight: 500;
+    margin: 1.67em 0;
+  }
+
+  /* Text elements */
+
   p,
   blockquote,
   hr,
@@ -22,33 +56,21 @@
   ol,
   dl,
   dir {
-    @apply text-base;
+    @apply text-base text-neutral-900 leading-6;
     margin: 1.12em 0;
-  }
-
-  h5 {
-    font-size: 0.83em;
-    margin: 1.5em 0;
-  }
-
-  h6 {
-    font-size: 0.75em;
-    margin: 1.67em 0;
-  }
-
-  p {
-    @apply text-neutral-800 leading-6;
   }
 
   a {
     @apply text-red-500 underline;
   }
 
+  /* Lists */
+
   ul,
   ol,
   dl,
   dir {
-    @apply pl-10 list-disc text-neutral-700;
+    @apply pl-10 list-disc;
   }
 
   li {
@@ -63,5 +85,21 @@
   & > *:last-child,
   li > ul:last-of-type {
     margin-bottom: 0;
+  }
+
+  /* Tables */
+
+  table {
+    @apply block mb-8 overflow-x-scroll border-collapse;
+  }
+
+  td,
+  th {
+    @apply border border-solid border-gray-300;
+  }
+
+  td,
+  th {
+    @apply p-2;
   }
 }

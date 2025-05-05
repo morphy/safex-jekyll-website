@@ -4,7 +4,7 @@ subtitle: Test
 order: 9
 
 overrides:
-  url: kreator
+  url:
 ---
 
-Link do kreatora
+Strona w budowie — zapraszamy wkrótce

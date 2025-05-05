@@ -3,8 +3,6 @@ title: Stabilizacja UV
 subtitle: czyli ochrona przed promieniowaniem ultrafioletowym
 ---
 
-## Stabilizacja UV, czyli ochrona przed promieniowaniem ultrafioletowym
-
 Promieniowanie ultrafioletowe (UV) to część promieniowania elektromagnetycznego
 o długości fali od **10 nm do 400 nm**, która znajduje się pomiędzy
 promieniowaniem rentgenowskim a widzialnym. UV dzieli się na trzy główne

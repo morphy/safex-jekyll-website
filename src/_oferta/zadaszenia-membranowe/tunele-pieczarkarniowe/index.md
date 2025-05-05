@@ -1,5 +1,6 @@
 ---
 title: Tunele do uprawy pieczarek
+order: 7
 ---
 
 Specjalizujemy się w produkcji **wielkoformatowych plandek na pieczarkarnie**,

@@ -1,5 +1,7 @@
 ---
 title: Amfiteatr w Stężycy
+order: 1
+time: 40+ dni roboczych
 ---
 
 Wysokoprężona przestrzenna **membrana zadaszenia** Amfiteatru Nadraduńskiego

@@ -21,15 +21,15 @@ heroServices:
   - title: Plandeki
     text: Budowlane, okryciowe, gospodarcze
     icon: tarp
-  - title: Dachy
-    text: Wytrzymałe zadaszenia membranowe
+  - title: Zadaszenia
+    text: Dachy oraz membrany wysokoprężone
     icon: roof
   - title: Pokrowce
-    text: Na kontenery, przyczepy i pojazdy
+    text: Na kontenery, przyczepy i łodzie
     icon: trailer
-  - title: Części
-    text: Harmonijki do maszyn i autobusów
-    icon: gear
+  - title: Siatki
+    text: Siatki rusztowaniowe oraz sceniczne
+    icon: hashtag
 
 # ------ Categories ------
 
@@ -53,12 +53,12 @@ categoriesHref: oferta
 # ------ Services ------
 
 servicesFilter:
-  - _oferta/wyposazenie-sceniczne/bezbarwne-dachy-sceniczne/index.md
+  - _oferta/taras-i-ogrod/siedziska-na-krzesla/index.md
   - _oferta/wyposazenie-sceniczne/ekrany-akustyczne-swinoujscie/index.md
   - _oferta/wyposazenie-sceniczne/siatki-estradowe/index.md
   - _oferta/przemyslowe/kola-sztaplarki/index.md
-  - _oferta/taras-i-ogrod/plandeki-na-basen/index.md
-  - _oferta/produkty-na-zamowienie/przeszkody-pneumatyczne/index.md
+  - _oferta/taras-i-ogrod/plandeki-z-oknami/index.md
+  - _oferta/zadaszenia-membranowe/amfiteatr-stezyca/index.md
 
 servicesTitle: Membrany
 servicesDesc: >-

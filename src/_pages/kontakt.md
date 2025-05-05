@@ -16,6 +16,13 @@ contactBoxes:
       - prefix: Telefon
         text: 792 666 016
         href: tel:792666016
+      - prefix: Centrala
+        text: 58 585 86 99
+        href: tel:+48585858699
+      - prefix: Właściciel
+        text: 601 254 456
+        href: tel:+48601254456
+
   - title: Wyślij wiadomość
     icon: envelope
     lines:

@@ -1,5 +1,7 @@
 ---
 title: Zadaszenie siłowni w Żyrardowie
+order: 2
+time: 20+ dni roboczych
 ---
 
 Dla miasta Żyrardów wykonaliśmy zadaszenie siłowni polowej. Obiekt znajduje się

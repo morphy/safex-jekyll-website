@@ -1,5 +1,6 @@
 ---
 title: Pokrowce na koła sztaplarki
+time: 5-10 dni roboczych
 ---
 
 **Safex Plandeki** oferuje **pokrowce ochronne** na koła sztaplarek, idealne  

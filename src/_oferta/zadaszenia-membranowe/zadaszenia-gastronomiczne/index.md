@@ -1,5 +1,7 @@
 ---
 title: Ogórdki gastronomiczne
+time: 10-15 dni roboczych
+order: 9
 ---
 
 Wykonujemy zadaszenia i ściany ogródków gastronomicznych z trudnopalnych
