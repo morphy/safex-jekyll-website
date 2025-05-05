@@ -34,4 +34,5 @@ zimnem**, jednocześnie gwarantując **widoczność** i dostęp do naturalnego
 przygotowane**. Aby uzyskać równą taflę bez zmarszczek, belki powinny znajdować
 się  
 w jednej płaszczyźnie. Podając wymiary, zmierz **odległość między wewnętrznymi  
-krawędziami belek**. Plik do wymiarowania okien jest dostępny w pdf (po prawej stronie, na wersji desktop)
+krawędziami belek**. Plik do wymiarowania okien jest dostępny w pdf (po prawej
+stronie, na wersji desktop)
