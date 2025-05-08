@@ -1,6 +1,6 @@
 ---
 title: Taśmociągi i podajniki
-order: 6
+order: 5
 time: 10+ dni roboczych
 ---
 

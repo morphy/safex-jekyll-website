@@ -1,6 +1,6 @@
 ---
 title: Poszycia namiotów spawalniczych
-order: 8
+order: 7
 time: 5-10 dni roboczych
 ---
 
