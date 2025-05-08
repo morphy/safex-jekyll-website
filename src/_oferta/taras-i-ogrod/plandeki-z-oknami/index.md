@@ -1,5 +1,5 @@
 ---
-title: Plandeki z oknami PCV
+title: Plandeki z oknami do tarasu
 subtitle: subtitle
 order: 1
 time: 5-15 dni roboczych

@@ -1,6 +1,6 @@
 ---
 title: Plandeki na przyczepki
-order: 2
+order: 4
 time: 5-10 dni roboczych
 ---
 
