@@ -1,6 +1,6 @@
 ---
 title: Zabezpieczenia wagonów typu RES
-order: 5
+order: 7
 time: 10+ dni roboczych
 ---
 

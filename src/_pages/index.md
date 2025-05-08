@@ -66,7 +66,7 @@ servicesDesc: >-
   okryciowych na zamówienie, takich jak zadaszenia namiotów oraz konstrukcji
   zewnętrznych. Zajmujemy się również dystrybucją plandek, siatek oraz innych
   materiałów okryciowych, które dostępne są w naszym [sklepie
-  internetowym](https://example.com). Oferujemy szeroki wybór plandek, w tym
+  internetowym](https://safex.com.pl). Oferujemy szeroki wybór plandek, w tym
   lekkie, ciężkie, wodoszczelne oraz okryciowe. Zakupić u nas można też
   materiały gazoszczelne, zabudowy tarasów, a także siatki kontenerowe i
   budowlane. Produkujemy również siatki estradowe, wielkoformatowe zadaszenia

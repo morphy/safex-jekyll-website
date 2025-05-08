@@ -1,6 +1,6 @@
 ---
 title: Plandeki na piaskownice
-order: 1
+order: 3
 time: 3-10 dni roboczych
 ---
 

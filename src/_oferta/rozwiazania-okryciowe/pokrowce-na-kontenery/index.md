@@ -1,6 +1,6 @@
 ---
 title: Plandeki na kontenery Open Top
-order: 4
+order: 6
 time: 5-10 dni roboczych
 ---
 

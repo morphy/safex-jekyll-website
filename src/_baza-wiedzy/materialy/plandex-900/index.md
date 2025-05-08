@@ -1,12 +1,10 @@
 ---
-title: Plandeks 900 – Tkanina powlekana PVC 900g/m²
+title: Plandex 900 – Tkanina powlekana PVC 900g/m²
 ---
-## **Plandeks 900 – Tkanina poliestrowa o podwyższonej wytrzymałości**
 
-Plandeks 900 to wyjątkowo wytrzymała tkanina techniczna, wykonana z **poliesteru
+Plandex 900 to wyjątkowo wytrzymała tkanina techniczna, wykonana z **poliesteru
 powlekanego obustronnie PCV**, z dodatkowym **podwójnym zbrojeniem**, które
 zwiększa odporność na rozciąganie i rozdarcie.
-
 Dzięki zastosowaniu najwyższej jakości przędzy i struktury siatkowej, tkanina
 doskonale sprawdza się w najbardziej wymagających warunkach. Jest **wodoodporna,
 mrozoodporna i odporna na promieniowanie UV**.

@@ -1,6 +1,6 @@
 ---
 title: Plandeki płaskie
-order: 6
+order: 1
 time: 5-10 dni roboczych
 ---
 

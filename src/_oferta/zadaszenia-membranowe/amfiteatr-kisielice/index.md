@@ -4,8 +4,6 @@ time: 20+ dni roboczych
 order: 9
 ---
 
-## Powłoka membranowa niskoprężona – amfiteatr w Kisielicach
-
 Na zdjęciach poniżej widzimy **powłokę membranową niskoprężoną** zadaszenia
 sceny amfiteatru w Kisielicach. Membrana została wykonana **w całości na
 podstawie komputerowego modelu 3D**, który opracowaliśmy na podstawie
