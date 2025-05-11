@@ -15,7 +15,7 @@ heroBottom: >-
   wodoszczelne oraz okryciowe.
 
 heroImage: assets/images/safex/safex-siedziba-1.jpg
-heroImageAlt: test
+heroImageAlt: Siedziba firmy Safex
 
 heroServices:
   - title: Plandeki
