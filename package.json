@@ -3,17 +3,20 @@
     "postinstall": "cd src && bundle install",
     "dev": "npm run build:styles && cd src && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload",
     "dev:tailwind": "concurrently --kill-others --pad-prefix --prefix-colors red.bold,blue.bold --names Jekyll,Tailwind \"cd src && cross-env JEKYLL_ENV=development bundle exec jekyll serve --livereload\" \"npm run build:styles -- --watch\"",
+    "dev:noreload": "concurrently --kill-others --pad-prefix --prefix-colors red.bold,blue.bold --names Jekyll,Tailwind \"cd src && cross-env JEKYLL_ENV=development bundle exec jekyll serve\" \"npm run build:styles -- --watch\"",
     "build": "npm run build:styles && cd src && cross-env JEKYLL_ENV=development bundle exec jekyll build",
     "build:production": "npm run build:styles && cd src && cross-env JEKYLL_ENV=production bundle exec jekyll build",
     "build:styles": "npx tailwindcss -i src/assets/scss/index.scss -o src/assets/css/style.css",
     "clean": "shx rm -rf src/.jekyll-cache src/_site src/.jekyll-metadata node_modules",
     "format": "prettier --write --ignore-unknown */**",
-    "format:check": "prettier --check --ignore-unknown */**"
+    "format:check": "prettier --check --ignore-unknown */**",
+    "filenames": "node filenames.mjs"
   },
   "devDependencies": {
     "@shopify/prettier-plugin-liquid": "^1.5.0",
     "concurrently": "^9.1.2",
     "cross-env": "^7.0.3",
+    "glob": "^11.0.2",
     "prettier": "^3.3.2",
     "shx": "^0.3.4",
     "tailwindcss": "^3.4.4"
