@@ -1,6 +1,7 @@
 package-lock.json
 src/assets/lib
 src/assets/css/style.css
+src/assets/search.json
 **/*.jpg
 **/*.webp
 **/*.avif
