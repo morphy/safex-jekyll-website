@@ -1,5 +1,6 @@
 ---
 layout: none
+hideInNav: true
 ---
 [
   {% assign searchable = site.pages | concat: site.posts | concat: site.oferta | concat: site['baza-wiedzy'] %}
