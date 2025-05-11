@@ -1,7 +1,7 @@
 {% assign nodes = include.nodes | default: site.emptyArray %}
 
 {% unless nodes.size == 0 %}
-  <div class="flex flex-col gap-10">
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 gap-10">
     {% assign nodes = nodes | sort: 'order' %}
 
     {% for node in nodes %}
@@ -23,7 +23,13 @@
         <article class="flex flex-col lg:flex-row">
           <div class="lg:w-72 lg:h-auto h-48">
             <a href="{{ url }}">
-              <img src="{{ imageFiles.first }}" alt="" class="size-full object-cover">
+              {% if imageFiles.first.url %}
+                {%
+                  picture file-thumbnail {{ imageFiles.first.path }}
+                  --img class="size-full object-cover"
+                  --img alt=""
+                %}
+              {% endif %}
             </a>
           </div>
 

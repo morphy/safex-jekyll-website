@@ -4,7 +4,13 @@
 <div class="grid grid-cols-1 lg:grid-cols-12 gap-10">
   <article class="lg:col-span-9">
     <div class="h-80">
-      <img src="{{ imageFiles.first }}" alt="" class="size-full object-cover">
+      {% if imageFiles.first %}
+        {%
+          picture single-node {{ imageFiles.first.path }}
+          --img class="size-full object-cover"
+          --img alt=""
+        %}
+      {% endif %}
     </div>
 
     <div class="border-solid border border-gray-300 border-t-[3px] border-t-red-500">
