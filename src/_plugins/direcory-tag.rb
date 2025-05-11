@@ -84,26 +84,24 @@ module Jekyll
           basename = File.basename(filename)
           size = File.size(filename)
 
-          url = filename.dup
-          url.slice!(source_dir)
+          path = filename.dup
+          path.slice!(source_dir)
 
           m, cats, date, slug, ext = *basename.match(STANDARD_POST_FILENAME_MATCHER)
 
           if m
-            date = Time.parse(date)
             ext = ext
             slug = slug
           else
-            date = File.ctime(filename)
             ext = File.extname(basename)
             slug = ext ? basename.sub(ext, '') : basename
           end
 
           context['file'] = {
-            'date' => date,
             'name' => basename,
             'slug' => slug,
-            'url' => url,
+            'path' => path,
+            'url' => path.sub('_', ''),
             'filesize' => self.to_filesize(size)
           }
 
