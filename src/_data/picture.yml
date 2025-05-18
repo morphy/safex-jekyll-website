@@ -7,17 +7,94 @@ media_queries:
   xxl: "min-width: 1400px"
 
 presets:
-  dupa:
-    formats: [webp, original]
-    widths: [100, 200, 300, 400, 500, 600, 700]
-    fallback_width: 200
-    #    crop: "1:1"
-    #base_width: 250
-    #pixel_ratios: [1]
-    #size: "150px"
+  gallery-thumbnail:
+    formats: [avif, webp, original]
+    format_quality:
+      avif: 35
+    crop: "1:1"
+    base_width: 250
+    pixel_ratios: [1, 2, 3]
+    fallback_width: 250
+
+  single-node:
+    formats: [avif, webp, original]
+    format_quality:
+      avif: 35
+    widths: [350, 600, 1000]
     sizes:
-      sm: "100px"
-      md: "200px"
+      xs: "350px"
+      sm: "600px"
+      md: "1000px"
+      lg: "1000px"
+      xl: "1000px"
+      xxl: "1000px"
+
+  page-hero:
+    formats: [avif, webp, original]
+    widths: [600, 800, 1000, 1200, 1920, 3840]
+    sizes:
+      xs: "600px"
+      sm: "800px"
+      md: "1000px"
+      lg: "1200px"
+      xl: "1920px"
+      xxl: "1920px"
+
+  file-thumbnail:
+    formats: [avif, webp, original]
+    format_quality:
+      avif: 35
+    widths: [300, 350, 550]
+    crop: "1:1"
+    keep: center
+    sizes:
+      xs: "550px"
+      sm: "550px"
+      md: "350px"
       lg: "300px"
-      xl: "400px"
-      xxl: "500px"
+      xl: "300px"
+      xxl: "300px"
+
+  directory-thumbnail:
+    formats: [avif, webp, original]
+    format_quality:
+      avif: 35
+    widths: [300, 350, 410, 550]
+    crop: "4:3"
+    keep: center
+    sizes:
+      sm: "550px"
+      md: "350px"
+      lg: "300px"
+      xl: "350px"
+      xxl: "410px"
+
+  home-service-thumbnail:
+    formats: [avif, webp, original]
+    format_quality:
+      avif: 50
+    widths: [340, 400, 470, 580]
+    crop: "3:2"
+    keep: center
+    sizes:
+      xs: "580px"
+      sm: "400px"
+      md: "340px"
+      lg: "400px"
+      xl: "470px"
+      xxl: "340px"
+
+  home-hero:
+    formats: [avif, webp, original]
+    format_quality:
+      avif: 100
+    widths: [400, 500, 600]
+    crop: "3:2"
+    keep: center
+    sizes:
+      xs: "600px"
+      sm: "400px"
+      md: "400px"
+      lg: "500px"
+      xl: "600px"
+      xxl: "600px"

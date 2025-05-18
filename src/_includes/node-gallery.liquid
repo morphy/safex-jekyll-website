@@ -7,15 +7,13 @@
 
   <div id="gallery" class="grid grid-cols-5 gap-4">
     {% for file in imageFiles %}
-      {% assign src = file | relative_url %}
-
-      <a href="{{ src }}">
-        <img
-          src="{{ src }}"
-          class="w-full aspect-square object-cover"
-          alt=""
-          loading="lazy"
-        >
+      <a href="{{ file.url | relative_url }}">
+        {%
+          picture gallery-thumbnail {{ file.path }}
+          --img class="w-full aspect-square object-cover"
+          --img alt=""
+          --img loading="lazy"
+        %}
       </a>
     {% endfor %}
   </div>

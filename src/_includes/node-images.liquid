@@ -2,7 +2,7 @@
 {% assign imageFiles = site.emptyArray %}
 
 {% directory path: imageDirectory filter: .jpg$ %}
-{% assign cleanFilename = file.url | remove_first: '_' %}
 
-{% assign imageFiles = imageFiles | push: cleanFilename %}
+{% assign imageFiles = imageFiles | push: file %}
+
 {% enddirectory %}

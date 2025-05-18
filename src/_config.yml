@@ -20,6 +20,9 @@ jekyll-minifier:
   uglifier_args:
     harmony: true
 
+picture:
+  disabled: false
+
 defaults:
   - scope:
       path: ""

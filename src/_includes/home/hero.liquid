@@ -17,7 +17,14 @@
     </div>
 
     <div class="shrink-0 basis-auto md:basis-6/12 xxl:basis-5/12">
-      <img class="w-full" src="{{ page.heroImage }}" alt="{{ page.heroImageAlt }}">
+      {% if page.heroImage %}
+        {%
+          picture home-hero {{ page.heroImage }}
+          --img class="w-full"
+          --img alt="{{ page.heroImageAlt }}"
+          --img loading="lazy"
+        %}
+      {% endif %}
     </div>
   </div>
 </section>

@@ -11,23 +11,18 @@
         {% assign url = node.url | remove: 'index.html' | relative_url %}
       {% endif %}
 
-      {% assign name = node.path | split: '/' | pop | last %}
-
-      {% assign image = node.url
-        | remove_first: '_'
-        | split: '/'
-        | pop
-        | join: '/'
-        | append: '/'
-        | append: name
-        | append: '.jpg'
-        | relative_url
-      %}
+      {% include node-images.liquid %}
 
       <article class="flex flex-col border-solid border border-gray-300">
         <a href="{{ url }}">
           <div class="h-48">
-            <img src="{{ image }}" alt="" class="size-full object-cover">
+            {% if imageFiles.first.url %}
+              {%
+                picture directory-thumbnail {{ imageFiles.first.path }}
+                --img class="size-full object-cover"
+                --img alt=""
+              %}
+            {% endif %}
           </div>
 
           <h2 class="p-4 text-center text-white font-semibold tracking-wide duration-200 bg-red-500 hover:bg-gray-750">
