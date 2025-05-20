@@ -6,9 +6,9 @@
         <hr>
       </div>
 
-      <p>
-        {{ page.opinionsDesc | markdownify | remove: '<p>' | remove: '</p>' }}
-      </p>
+      <div class="content">
+        {{ page.opinionsDesc | markdownify }}
+      </div>
     </div>
 
     <div class="flex flex-col gap-10">
@@ -40,9 +40,9 @@
         <hr>
       </div>
 
-      <p>
-        {{ page.partnersDesc | markdownify | remove: '<p>' | remove: '</p>' }}
-      </p>
+      <div class="content">
+        {{ page.partnersDesc | markdownify }}
+      </div>
     </div>
 
     {% include partners.liquid %}
