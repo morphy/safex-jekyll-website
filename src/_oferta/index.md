@@ -5,4 +5,4 @@ order: 2
 ---
 
 Poniżej znajdują się rodzaje usług firmy Safex Plandeki. Zapraszamy do
-[kontaktu](kontakt)!
+[kontaktu](/kontakt)!

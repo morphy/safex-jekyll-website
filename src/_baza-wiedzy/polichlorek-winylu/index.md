@@ -40,8 +40,8 @@ wymiar**, **osłon mobilnych**, **kurtyn przemysłowych** i wielu innych wyrobó
 
 ### 1. **Plandeki i membrany techniczne**
 
-Na stronie [plandeki.com.pl](https://plandeki.com.pl/oferta) znajdziesz szereg
-zastosowań PCV w plandekarstwie. Oto najczęstsze z nich:
+Na stronie [plandeki.com.pl](/oferta) znajdziesz szereg zastosowań PCV w
+plandekarstwie. Oto najczęstsze z nich:
 
 - **Plandeki samochodowe i kontenerowe** – do ochrony ładunków w transporcie
 - **Kurtyny przemysłowe z PCV** – jako przegrody w halach i magazynach

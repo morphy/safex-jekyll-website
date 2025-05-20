@@ -110,6 +110,6 @@ partnersTitle: Współprace
 partnersDesc: >-
   Regularnie podejmujemy się współpracy z dużymi kontrahentami oraz nawiązujemy
   różnorakie partnerstwa. Bardziej obszerną listę spółek z którymi pracowaliśmy
-  znajdziesz [tutaj](wspolprace).
+  znajdziesz [tutaj](/wspolprace).
 partnersCount: 9
 ---
