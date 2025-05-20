@@ -12,37 +12,37 @@
   {% assign imagesNoun = 'zdjęć' %}
 {% endif %}
 
-<div class="flex flex-row items-center xl:gap-8 sm:gap-4 gap-4 px-6 py-2.5 border-b border-gray-300">
+<div class="flex flex-col lg:flex-row lg:items-center xl:gap-8 sm:gap-4 gap-4 px-6 py-2.5 border-b border-gray-300">
   {% if imagesCount > 0 %}
     <div class="flex items-center gap-2">
       <div class="shrink-0 p-1.5 size-7 rounded-full border border-gray-300 border-solid *:fill-gray-400">
         {% include icons/image.svg %}
       </div>
 
-      <span class="text-[12px]  text-neutral-500">{{ imagesCount }}&nbsp;{{ imagesNoun }}</span>
+      <span class="text-[12px]  text-neutral-500"> {{ imagesCount }}&nbsp;{{ imagesNoun }} </span>
     </div>
   {% endif %}
 
   {% if node.time %}
     <div class="flex items-center gap-2">
       <div class="shrink-0 p-1.5 size-7 rounded-full border border-gray-300 border-solid *:fill-gray-400">
-        {% include icons/clock-regular.svg %}
+        {% include icons/clock-solid.svg %}
       </div>
 
       <span class="text-[12px]  text-neutral-500">
-        <span class="hidden md:inline">Czas realizacji:</span>
-        {{ node.time }}
+        Czas realizacji:
+        {{ node.time | replace: ' ', '&nbsp;' }}
       </span>
     </div>
   {% endif %}
 
   <div class="flex items-center gap-2">
     <div class="shrink-0 p-1.5 size-7 rounded-full border border-gray-300 border-solid *:fill-gray-400">
-      {% include icons/pen-to-square.svg %}
+      {% include icons/pen-to-square-solid.svg %}
     </div>
 
     <span class="text-[12px]  text-neutral-500">
-      <span class="hidden md:inline">Opublikowano:</span>
+      Opublikowano:
       {{ node.last_modified_at | date: '%d.%m.%Y' }}
     </span>
   </div>
