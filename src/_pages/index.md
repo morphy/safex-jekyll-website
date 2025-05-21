@@ -45,7 +45,7 @@ categoriesDesc: >-
   zewnętrznych. Produkujemy również siatki estradowe, wielkoformatowe zadaszenia
   namiotów czy blendy tenisowe. Zajmujemy się również dystrybucją plandek,
   siatek oraz innych materiałów okryciowych, które dostępne są w naszym [sklepie
-  internetowym](https://example.com). Zakupić u nas można też materiały
+  internetowym](https://safex.com.pl). Zakupić u nas można też materiały
   gazoszczelne, zabudowy tarasów, a także siatki kontenerowe i budowlane.
 categoriesLink: Pełna oferta
 categoriesHref: oferta
