@@ -1,9 +1,9 @@
 ---
-title: Przekrętka (d-ring)
+title: Przekrętka (chwytka obrotowa wachliwa)
 order: 8
 ---
 
-**Przekrętka (D-Ring)** to solidny element mocujący, wykorzystywany głównie do
+**Przekrętka** to solidny element mocujący, wykorzystywany głównie do
 zabezpieczania ładunków w transporcie. Jej stalowa konstrukcja gwarantuje wysoką
 wytrzymałość i odporność na duże obciążenia, co czyni ją niezawodnym punktem
 zaczepowym dla pasów transportowych, lin lub haków.

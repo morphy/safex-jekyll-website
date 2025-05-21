@@ -17,7 +17,7 @@ gwarantuje komfort osobom przebywającym w takim miejscu.
 
 - **Ramka okna** powstaje z **tkaniny plandekowej zbrojonej poliestrem** o
   wysokiej gramaturze, zespolonej z przezroczystą folią okienną **Placlear** o
-  grubości **0,8 mm**.
+  grubości **0,5 mm**. Na życzenie klienta możemy zastosować grubszą folię o grubości nawet do **0,8 mm**. 
 - Zastosowanie **maszyn wysokiej częstotliwości FIAB** pozwala uzyskać wyjątkowo
   mocne i trwałe zgrzewy – materiał jest trwale łączony w masie, co czyni go
   bardziej wytrzymałym niż w przypadku tradycyjnego zgrzewania ciepłym
