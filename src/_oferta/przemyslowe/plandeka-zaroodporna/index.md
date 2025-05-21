@@ -1,6 +1,6 @@
 ---
 title: Plandeka żaroodporna do prac spawalniczych
-order: 9
+order: 10
 time: 5-10 dni roboczych
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Parawany, przegrody
-order: 8
+order: 9
 time: 5-10 dni roboczych
 ---
 
