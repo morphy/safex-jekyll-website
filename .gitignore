@@ -3,12 +3,15 @@
 
 # Jekyll
 
-_site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
 
-# Website
+# Npm
 node_modules/
+
+# Build
+_site
+dist/
 src/assets/css/style.css
