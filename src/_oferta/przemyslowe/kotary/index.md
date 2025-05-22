@@ -2,6 +2,7 @@
 title: Kotary i kurtyny oddzielające przestrzeń przemysłową
 order: 1
 time: 5-10 dni roboczych
+order: 1
 ---
 
 **Przejrzyste kotary przemysłowe** to elastyczne rozwiązanie pozwalające na  

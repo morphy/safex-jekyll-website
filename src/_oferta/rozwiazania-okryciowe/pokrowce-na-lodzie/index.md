@@ -1,6 +1,6 @@
 ---
 title: Pokrowce na łodzie
-order: 3
+order: 5
 time: 5-10 dni roboczych
 ---
 

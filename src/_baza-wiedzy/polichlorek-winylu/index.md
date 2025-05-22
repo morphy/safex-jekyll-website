@@ -1,5 +1,6 @@
 ---
 title: Czym jest PCV? Zastosowanie polichlorku winylu w plandekach i przemyśle
+order: 3
 description:
   Dowiedz się, czym jest PCV (PVC), jakie ma właściwości i dlaczego jest tak
   powszechnie stosowane w produkcji plandek, zadaszeń i osłon przemysłowych.
@@ -30,7 +31,6 @@ Tworzywo PCV wyróżnia się takimi cechami jak:
 - **Duża wytrzymałość mechaniczna i elastyczność**
 - **Możliwość zgrzewania i laminowania**
 - **Dostępność w różnych grubościach i kolorach**
-- **Recyklingowalność**
 - **Korzystna cena** w porównaniu z innymi tworzywami technicznymi
 
 To wszystko sprawia, że jest to materiał idealny do produkcji **plandek na
@@ -59,6 +59,7 @@ trwałość i odporność na uszkodzenia.
 ### 3. **Reklama zewnętrzna**
 
 - Banery reklamowe
+- Neony ledowe
 - Siatki mesh
 - Folie z nadrukiem UV
 

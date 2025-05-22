@@ -1,5 +1,5 @@
 ---
-title: Plandeki z oknami
+title: Plandeki z oknami dla gastronomi
 time: 10-15 dni roboczych
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Osłony harmonijkowe
-order: 2
+order: 5
 time: 10+ dni roboczych
 ---
 

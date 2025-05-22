@@ -1,5 +1,6 @@
 ---
 title: Montaż prostych dachów plandekowych
+order: 6
 ---
 
 Plandeki idealnie nadają się jako materiał do budowy szczelnych oraz trwałych
