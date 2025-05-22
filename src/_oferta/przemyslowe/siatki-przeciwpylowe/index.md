@@ -4,8 +4,12 @@ order: 2
 time: 5-10 dni roboczych
 ---
 
-Siatki przeciwpyłowe szyte na miarę to skuteczne rozwiązanie zabezpieczające środowisko podczas prac konserwacyjnych, takich jak piaskowanie i malowanie konstrukcji stalowych.  
-W **Safex Plandeki** projektujemy i wykonujemy siatki dopasowane do indywidualnych potrzeb klientów – zarówno pod względem wymiarów, jak i sposobu montażu.
+Siatki przeciwpyłowe szyte na miarę to skuteczne rozwiązanie zabezpieczające
+środowisko podczas prac konserwacyjnych, takich jak piaskowanie i malowanie
+konstrukcji stalowych.  
+W **Safex Plandeki** projektujemy i wykonujemy siatki dopasowane do
+indywidualnych potrzeb klientów – zarówno pod względem wymiarów, jak i sposobu
+montażu.
 
 ## Zastosowanie
 
@@ -35,4 +39,3 @@ Chronią otoczenie przed:
 - Prosty **montaż i demontaż** w terenie.
 
 ---
-

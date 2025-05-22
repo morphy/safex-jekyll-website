@@ -20,5 +20,5 @@ może być używany do przechowywania i transportu ryb. Wysokość ścian oraz i
 parametry poszycia możemy dostosować do indywidualnych wymagań, co sprawia, że
 nasze produkty są wszechstronne i nadają się do różnych zastosowań.
 
-**Wykonuejmy jedynie poszycia zbiorników, stelaż należy pozyskać we
-własnym zakresie.**
+**Wykonuejmy jedynie poszycia zbiorników, stelaż należy pozyskać we własnym
+zakresie.**
