@@ -10,8 +10,8 @@ headerLogoAlt: Logo Safex
 
 headerContacts:
   - icon: phone
-    text: 792 666 016
-    href: tel:792666016
+    text: +48 792 666 016
+    href: tel:+48792666016
 
   - icon: whatsapp
     text: +48 515 043 761
@@ -25,8 +25,8 @@ headerLinks:
   - text: Mapa strony
     href: mapa-strony
 
-  - text: Polityka Prywatności
-    href: kontakt
+  - text: RODO
+    href: assets/safex-klauzula-rodo.pdf
 
 # ------ Footer ------
 
@@ -48,7 +48,7 @@ footerDescription: >-
 footerContacts:
   - icon: phone
     title: Telefon
-    text: 792 666 016
+    text: +48 792 666 016
     href: tel:792666016
 
   - icon: envelope

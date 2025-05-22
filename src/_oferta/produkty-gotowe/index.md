@@ -4,7 +4,7 @@ subtitle: Produkty gotowe
 order: 1
 
 overrides:
-  url: https://www.safex.com.pl/
+  url: https://plandeki24.pl/
 ---
 
 Plandeki okryciowe znajdują szerokie zastosowanie w różnych dziedzinach życia.

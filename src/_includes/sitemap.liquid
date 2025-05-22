@@ -3,7 +3,9 @@
   <ul>
     {% for page in site.pages %}
       <li>
-        <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+        <a href="{{ page.url | relative_url }}">
+          {{ page.title | default: page.name }}
+        </a>
       </li>
     {% endfor %}
   </ul>
@@ -65,7 +67,9 @@
 
             {% capture appendix %}
               <li>
-                <a href="{{ potentialChild.url | relative_url | remove: 'index.html' }}">{{ potentialChild.title }}</a>
+                <a href="{{ potentialChild.url | relative_url | remove: 'index.html' }}">
+                  {{ potentialChild.title }}
+                </a>
 
                 {% if lookupEntry[1] != '' %}
                   <ul>{{ lookupEntry[1] }}</ul>
