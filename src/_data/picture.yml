@@ -19,7 +19,7 @@ presets:
   single-node:
     formats: [avif, webp, original]
     format_quality:
-      avif: 35
+      avif: 50
     widths: [350, 600, 1000]
     sizes:
       xs: "350px"
@@ -31,6 +31,8 @@ presets:
 
   page-hero:
     formats: [avif, webp, original]
+    format_quality:
+      #avif: 80
     widths: [600, 800, 1000, 1200, 1920, 3840]
     sizes:
       xs: "600px"
@@ -58,7 +60,7 @@ presets:
   directory-thumbnail:
     formats: [avif, webp, original]
     format_quality:
-      avif: 35
+      avif: 45
     widths: [300, 350, 410, 550]
     crop: "4:3"
     keep: center
