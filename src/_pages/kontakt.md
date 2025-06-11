@@ -39,7 +39,7 @@ contactBoxes:
 
 ## Dane firmy
 
-- Nazwa: **PHU Krzysztof Skodowski**
+- Nazwa: **PHU Safex**
 - Adres: **ul. Potasowa 6 81-154 Gdynia**
 - NIP: **586-104-21-49**
 - Paczkomat: **GDY45M**
