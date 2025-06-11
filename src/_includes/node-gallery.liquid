@@ -18,15 +18,17 @@
     {% endfor %}
   </div>
 
-  <script src="{{ "assets/lib/lightgallery/lightgallery.min.js" | relative_url }}"></script>
-  <script src="{{ "assets/lib/lightgallery/plugins/zoom/lg-zoom.min.js" | relative_url }}"></script>
-  <script src="{{ "assets/lib/lightgallery/plugins/thumbnail/lg-thumbnail.min.js" | relative_url }}"></script>
+  <script async src="{{ "assets/lib/lightgallery/lightgallery.min.js" | relative_url }}"></script>
+  <script async src="{{ "assets/lib/lightgallery/plugins/zoom/lg-zoom.min.js" | relative_url }}"></script>
+  <script async src="{{ "assets/lib/lightgallery/plugins/thumbnail/lg-thumbnail.min.js" | relative_url }}"></script>
 
   <script type="text/javascript">
-    lightGallery(document.getElementById('gallery'), {
-      plugins: [lgZoom, lgThumbnail],
-      speed: 500,
-      licenseKey: '0000-0000-000-0001'
+    window.addEventListener('load', () => {
+      lightGallery(document.getElementById('gallery'), {
+        plugins: [lgZoom, lgThumbnail],
+        speed: 500,
+        licenseKey: '0000-0000-000-0001'
+      });
     });
   </script>
 {% endunless %}
