@@ -4,11 +4,10 @@ order: 4
 ---
 
 Plandeki z oknami, zgrzewane na
-<a href="http://plandeki.com.pl/oferta/park-maszynowy/zgrzewanie-wcz/" target="_blank">zgrzewarkach
-wysokiej częstotliwości</a> , wyposażone w oczka i paski do podwijania oraz
-mocowane za pomocą chwytek i przekrętek do konstrukcji nośnej, stanowią
-doskonałe rozwiązanie umożliwiające przedłużenie sezonu na chłodniejsze
-miesiące.
+[zgrzewarkach wysokiej częstotliwości](/oferta/park-maszynowy/zgrzewanie-wcz/),
+wyposażone w oczka i paski do podwijania oraz mocowane za pomocą chwytek i
+przekrętek do konstrukcji nośnej, stanowią doskonałe rozwiązanie umożliwiające
+przedłużenie sezonu na chłodniejsze miesiące.
 
 Osłonięte nimi tarasy można dogrzewać promiennikami gazowymi lub kominkami, co
 gwarantuje komfort osobom przebywającym w takim miejscu.
