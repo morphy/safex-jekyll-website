@@ -27,8 +27,8 @@ contactBoxes:
     icon: envelope
     lines:
       - prefix: Email
-        text: info@plandeki.com.pl
-        href: mailto:info@plandeki.com.pl
+        text: kontakt@safex.com.pl
+        href: mailto:kontakt@safex.com.pl
       - prefix: Email
         text: safex001@gmail.com
         href: mailto:safex001@gmail.com
