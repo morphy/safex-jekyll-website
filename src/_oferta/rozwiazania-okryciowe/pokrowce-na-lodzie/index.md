@@ -1,10 +1,10 @@
 ---
-title: Pokrowce na łodzie
+title: Zimowe pokrowce na łodzie
 order: 5
 time: 5-10 dni roboczych
 ---
 
-Oferujemy **pokrowce na łódki wykonywane na zamówienie**, dopasowane do
+Oferujemy **zimowe pokrowce na łódki wykonywane na zamówienie**, dopasowane do
 konkretnych wymiarów jednostki pływającej. Tworzymy je z trwałych tkanin
 **PVC**, odpornych na niekorzystne warunki atmosferyczne, co umożliwia **szybkie
 i łatwe zakładanie oraz zdejmowanie** pokrowca.
@@ -20,10 +20,10 @@ i łatwe zakładanie oraz zdejmowanie** pokrowca.
   lub rzepy, zapewniając stabilne i bezpieczne mocowanie pokrowca.
 
 - **Odporność na warunki atmosferyczne**  
-  Nasze pokrowce świetnie sprawdzają się zarówno latem, jak i zimą, gwarantując
+  Nasze pokrowce świetnie sprawdzają się w trudnych warunkach atmosferycznych co gwarantuje
   wieloletnie użytkowanie.
 
 **Najlepszą metodą wykonania pokrowca jest dostarczenie łodzi do firmy w celu
 dokonania dokładnych pomiarów i dopasowania na etapie produkcji. Istnieje
 również możliwość przesłania starego pokrowca (o ile nie jest wykonany z
-rozciągliwego materiału) w celu odwzorowania wymiarów.**
+rozciągliwego materiału) w celu odwzorowania wymiarów. Zamieszczamy także rysunek do uzupełnienia wymiarów**
