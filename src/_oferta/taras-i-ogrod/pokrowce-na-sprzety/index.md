@@ -1,28 +1,40 @@
 ---
-title: Pokrowce na meble
-subtitle: subtitle
-order: 5
-time: 5-10 dni roboczych
+title: Pokrowce na sprzęty ogrodowe
+order: 9
+time: 5–10 dni roboczych
 ---
 
-**Safex Plandeki** ma w ofercie **pokrowce na meble ogrodowe szyte na
-wymiar**,  
-dostosowane do indywidualnych potrzeb. To idealne rozwiązanie dla osób, które  
-chcą zabezpieczyć meble przed niekorzystnymi warunkami atmosferycznymi poza
-sezonem:  
-deszczem, śniegiem czy promieniowaniem UV.
+# Pokrowce na sprzęty ogrodowe
 
-### Cechy naszych pokrowców
+**Safex Plandeki** oferuje trwałe i estetyczne **pokrowce na sprzęty ogrodowe szyte na wymiar**.  
+To idealne rozwiązanie dla osób, które chcą skutecznie zabezpieczyć wyposażenie ogrodu poza sezonem — przed deszczem, śniegiem, kurzem i promieniowaniem UV.
 
-- **Różne gramatury tkanin PCV**
-  - 650 g/m² – grubsza, bardziej sztywna tkanina
-  - 460 g/m² (Vinyplan 5534) – nieco cieńsza i łatwiejsza w składaniu
-  - 250 g/m² (Vinyplan 4126) – bardziej elastyczna i lekka
-- **Precyzyjne dopasowanie**  
-  Wystarczą **podstawowe wymiary** mebli, abyśmy mogli przygotować pokrowiec,  
-  który dokładnie je osłoni.
-- **Dodatkowe opcje**  
-  Na życzenie klienta możemy dołączyć **gumę expandor** ułatwiającą mocowanie.
+## Zastosowanie
 
-Zapewniamy **profesjonalne doradztwo** i **krótkie terminy realizacji**.  
-**Zapraszamy do kontaktu** w celu ustalenia szczegółów.
+Pokrowce mogą być wykonane z myślą o ochronie:
+
+- Kosiarek i narzędzi ogrodowych
+- grilli i wędzarni,
+- sprzętu rekreacyjnego (np. trampoliny),
+- zabawek ogrodowych i akcesoriów.
+
+## Cechy pokrowców
+
+- **Tkaniny PVC o różnej gramaturze:**
+  - **350 g/m²** – gruba i sztywna, zapewnia maksymalną ochronę,
+- **Szycie na wymiar**  
+  Wystarczą **podstawowe wymiary**, by stworzyć pokrowiec idealnie dopasowany do Twojego sprzętu.
+
+- **Dodatkowe opcje montażu**  
+  Możliwość wszycia **gum expandorów** lub innych systemów mocowania — na życzenie klienta.
+
+## Dlaczego warto?
+
+- Pokrowce odporne na wodę, promieniowanie UV i śnieg.
+- Trwałość i estetyka na lata.
+- Szybka realizacja — nawet w 5 dni roboczych.
+- Profesjonalne doradztwo i indywidualne podejście do każdego zamówienia.
+
+---
+
+**Skontaktuj się z nami**, aby zamówić pokrowiec dopasowany do Twoich potrzeb.

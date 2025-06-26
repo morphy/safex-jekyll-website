@@ -1,5 +1,5 @@
 ---
-title: Siedziska na krzesła ogrodowe
+title: Naprawa siedzisk krzeseł ogrodowych
 subtitle: subtitle
 order: 3
 time: 2-10 dni roboczych
@@ -10,7 +10,7 @@ jakości
 siatki PVC** o oczku 1,5×2 mm. To **nowoczesne i ekologiczne** rozwiązanie,
 które  
 pozwala **odnowić meble ogrodowe**, bez konieczności ich wymiany,  
-co przyczynia się do ochrony środowiska.
+co przyczynia się do ochrony środowiska. Szyjemy nowe siedzinki na podstawie pomiarów lub wzoru
 
 ### Cechy naszych siedzisk
 
