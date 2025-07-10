@@ -34,7 +34,7 @@ footerCtaTitle: Zaprojektuj plandekę samodzielnie!
 footerCtaText: Uruchom kreator
 footerCtaHref: kontakt
 
-footerLogo: assets/images/safex/safex-logo.svg
+footerLogo: assets/images/safex/safex-logo-white.svg
 footerLogoAlt: Logo Safex
 
 footerDescription: >-
@@ -53,8 +53,8 @@ footerContacts:
 
   - icon: envelope
     title: E-mail
-    text: info@plandeki.com.pl
-    href: mailto:info@plandeki.com.pl
+    text: kontakt@safex.com.pl
+    href: mailto:kontakt@safex.com.pl
 
   - icon: location
     title: Adres

@@ -76,20 +76,22 @@
   <div>
     <div id="map" class="w-full h-full border-0 min-h-80"></div>
     <script>
-      const map = L.map('map').setView([54.55636003958269, 18.470720434184763], 11);
+      window.addEventListener('load', () => {
+        const map = L.map('map').setView([54.55636003958269, 18.470720434184763], 11);
 
-      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-      }).addTo(map);
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          maxZoom: 19,
+          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
 
-      const marker = L.marker([54.55636003958269, 18.470720434184763]).addTo(map);
+        const marker = L.marker([54.55636003958269, 18.470720434184763]).addTo(map);
 
-      marker
-        .bindPopup(
-          'Potasowa 6<br>81-154 Gdynia<br><a href="https://maps.app.goo.gl/VoUbK7nodt5RmgN37">Wyznacz trasę</a>'
-        )
-        .openPopup();
+        marker
+          .bindPopup(
+            'Potasowa 6<br>81-154 Gdynia<br><a href="https://maps.app.goo.gl/VoUbK7nodt5RmgN37">Wyznacz trasę</a>'
+          )
+          .openPopup();
+      });
     </script>
   </div>
 </div>

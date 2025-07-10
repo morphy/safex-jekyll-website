@@ -4,11 +4,10 @@ order: 4
 ---
 
 Plandeki z oknami, zgrzewane na
-<a href="http://plandeki.com.pl/oferta/park-maszynowy/zgrzewanie-wcz/" target="_blank">zgrzewarkach
-wysokiej częstotliwości</a> , wyposażone w oczka i paski do podwijania oraz
-mocowane za pomocą chwytek i przekrętek do konstrukcji nośnej, stanowią
-doskonałe rozwiązanie umożliwiające przedłużenie sezonu na chłodniejsze
-miesiące.
+[zgrzewarkach wysokiej częstotliwości](/oferta/park-maszynowy/zgrzewanie-wcz/),
+wyposażone w oczka i paski do podwijania oraz mocowane za pomocą chwytek i
+przekrętek do konstrukcji nośnej, stanowią doskonałe rozwiązanie umożliwiające
+przedłużenie sezonu na chłodniejsze miesiące.
 
 Osłonięte nimi tarasy można dogrzewać promiennikami gazowymi lub kominkami, co
 gwarantuje komfort osobom przebywającym w takim miejscu.
@@ -17,7 +16,8 @@ gwarantuje komfort osobom przebywającym w takim miejscu.
 
 - **Ramka okna** powstaje z **tkaniny plandekowej zbrojonej poliestrem** o
   wysokiej gramaturze, zespolonej z przezroczystą folią okienną **Placlear** o
-  grubości **0,5 mm**. Na życzenie klienta możemy zastosować grubszą folię o grubości nawet do **0,8 mm**. 
+  grubości **0,5 mm**. Na życzenie klienta możemy zastosować grubszą folię o
+  grubości nawet do **0,8 mm**.
 - Zastosowanie **maszyn wysokiej częstotliwości FIAB** pozwala uzyskać wyjątkowo
   mocne i trwałe zgrzewy – materiał jest trwale łączony w masie, co czyni go
   bardziej wytrzymałym niż w przypadku tradycyjnego zgrzewania ciepłym

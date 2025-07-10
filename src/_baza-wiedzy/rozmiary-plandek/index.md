@@ -1,7 +1,10 @@
 ---
-title: Rozmiary plandek - różnica pomiędzy wymiarem rzeczywistym a wymiarem "cut size"
+title:
+  Rozmiary plandek - różnica pomiędzy wymiarem rzeczywistym a wymiarem "cut
+  size"
 order: 11
 ---
+
 **Różnica między rzeczywistym wymiarem plandeki a wymiarem podawanym przez
 niektórych sprzedawców (tzw. „cut size”)** polega na tym, że podczas produkcji
 używa się pełnych arkuszy tkaniny, a następnie łączy się je ze sobą. W wyniku
