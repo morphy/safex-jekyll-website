@@ -1,5 +1,5 @@
 ---
-title: Siedziska na ławki ogrodowe
+title: Naprawa siedzisk na ławki ogrodowe
 subtitle: subtitle
 order: 4
 time: 2-10 dni roboczych
@@ -10,7 +10,7 @@ powlekanej PVC Scanplan 5228**. Wymiana siedziska na nowe, wykonane z
 **technicznej  
 tkaniny**, zapobiega konieczności zakupu nowej huśtawki czy ławki ogrodowej,  
 co ogranicza ilość odpadów z tworzyw sztucznych i zapewnia większą trwałość  
-niż oryginalne siedzisko.
+niż oryginalne siedzisko. Siedzinki szyjemy na podstawie wzoru lub wymiarów od klienta.
 
 ### Cechy naszych siedzisk
 

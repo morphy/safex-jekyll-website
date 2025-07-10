@@ -1,6 +1,6 @@
 ---
 title: Wanny ociekowe
-order: 7
+order: 6
 time: 5-10 dni roboczych
 ---
 

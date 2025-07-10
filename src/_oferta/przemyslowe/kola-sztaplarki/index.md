@@ -1,7 +1,7 @@
 ---
-title: Pokrowce na koła sztaplarki
+title: Osłony na koła sztaplarki
 time: 5-10 dni roboczych
-order: 3
+order: 2
 ---
 
 **Safex Plandeki** oferuje **pokrowce ochronne** na koła sztaplarek, idealne  
@@ -23,5 +23,5 @@ i łatwo się je montuje oraz demontuje.
   Możemy dopasować pokrowce do dowolnych wymiarów kół i wymagań  
   dotyczących odporności na ścieranie czy chemikalia.
 
-**Zmierz średnicę i szerokość opony samodzielnie. Oznaczenia  
-na oponie mogą różnić się od rzeczywistych wymiarów.**
+**Zmierz średnicę, obwód i szerokość opony samodzielnie. Oznaczenia  
+na oponie mogą różnić się od rzeczywistych wymiarów. Sposób wykonania osłon wyklucza ich modyfikację**
